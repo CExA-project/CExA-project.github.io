@@ -22,15 +22,12 @@
     <lastmod>2023-06-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://cexa-project.org/team/</loc>
-    <lastmod>2022-10-24T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>https://cexa-project.org/presentation/</loc>
     <lastmod>2022-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://cexa-project.org/author/alice-wu-%E5%90%B3%E6%81%A9%E9%81%94/</loc>
+    <loc>https://cexa-project.org/team/</loc>
+    <lastmod>2022-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://cexa-project.org/authors/</loc>
@@ -42,6 +39,15 @@
     <loc>https://cexa-project.org/community/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
+    <loc>https://cexa-project.org/author/dr.-julien-bigot/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://cexa-project.org/author/dr.-thomas-padioleau/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://cexa-project.org/author/dr.-virginie-grandgirard/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>https://cexa-project.org/gyselax/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -49,9 +55,6 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://cexa-project.org/triocfd/</loc>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://cexa-project.org/author/nelson-bighetti/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://cexa-project.org/publication_types/</loc>
