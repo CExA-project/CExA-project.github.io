@@ -1,0 +1,40 @@
+# Navigation Links
+#   To link a homepage widget, specify the URL as a hash `#` followed by the filename of the
+#     desired widget in your `content/home/` folder.
+#   The weight parameter defines the order that the links will appear in.
+
+main:
+  - name: The project
+    url: '#section-markdown'
+    weight: 1
+  - name: CExA in practice
+    url: presentation
+    weight: 10
+  - name: News
+    url: news
+    weight: 20
+  - name: Our demonstrators
+    identifier: demos
+    url: demos
+    weight: 30
+  - name: GyselaX++
+    parent: demos
+    url: gyselax
+    weight: 10
+  - name: Triclades
+    parent: demos
+    url: triclades
+    weight: 20
+  - name: Trust/TrioCFD
+    parent: demos
+    url: triocfd
+    weight: 30
+  - name: "Community & Contacts"
+    url: community
+    weight: 40
+  - name: Join us
+    url: join-us
+    weight: 50
+  - name: The team
+    url: team
+    weight: 60

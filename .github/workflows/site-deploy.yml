@@ -1,0 +1,28 @@
+name: site-deploy
+on:
+  push:
+    branches: [ main ]
+  # Allows you to run this workflow manually from the Actions tab
+  workflow_dispatch:
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - uses: actions/checkout@v3
+        with:
+          ref: public
+          path: public
+      - name: Build site
+        run: |
+          rm -rf public/*
+          docker run -i -v "$(pwd):/src" klakegg/hugo:0.101.0-ext-alpine-ci
+      - name: Deploy site
+        run: |
+          cd public
+          echo 'cexa-project.org' > CNAME
+          git config user.email "github-commit-hook@example.com"
+          git config user.name "Github Commit Hook"
+          git add -A .
+          git commit -a -m "Update to match ${GITHUB_SHA}"
+          git push -f
