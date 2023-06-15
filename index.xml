@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>CExA</title>
+    <link>https://cexa-project.org/</link>
+      <atom:link href="https://cexa-project.org/index.xml" rel="self" type="application/rss+xml" />
+    <description>CExA</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Jun 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://cexa-project.org/media/icon_hu86250c455d9dc0521634c96f116f5f57_27274_512x512_fill_lanczos_center_3.png</url>
+      <title>CExA</title>
+      <link>https://cexa-project.org/</link>
+    </image>
+    
+    <item>
+      <title>2-years postion</title>
+      <link>https://cexa-project.org/join-us/2023-06-01-engineer/</link>
+      <pubDate>Thu, 01 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>https://cexa-project.org/join-us/2023-06-01-engineer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CExA Kick-off</title>
+      <link>https://cexa-project.org/news/2023-06-01-kickoff/</link>
+      <pubDate>Thu, 01 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>https://cexa-project.org/news/2023-06-01-kickoff/</guid>
+      <description>&lt;p&gt;CExA will have its kick-off in Neurospin.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>People</title>
+      <link>https://cexa-project.org/team/</link>
+      <pubDate>Mon, 24 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>https://cexa-project.org/team/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tour</title>
+      <link>https://cexa-project.org/presentation/</link>
+      <pubDate>Mon, 24 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>https://cexa-project.org/presentation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://cexa-project.org/community/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://cexa-project.org/community/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gysela-X&#43;&#43;</title>
+      <link>https://cexa-project.org/gyselax/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://cexa-project.org/gyselax/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gysela-X&#43;&#43;</title>
+      <link>https://cexa-project.org/triclades/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://cexa-project.org/triclades/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gysela-X&#43;&#43;</title>
+      <link>https://cexa-project.org/triocfd/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://cexa-project.org/triocfd/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

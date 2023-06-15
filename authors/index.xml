@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Authors | CExA</title>
+    <link>https://cexa-project.org/authors/</link>
+      <atom:link href="https://cexa-project.org/authors/index.xml" rel="self" type="application/rss+xml" />
+    <description>Authors</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>https://cexa-project.org/media/icon_hu86250c455d9dc0521634c96f116f5f57_27274_512x512_fill_lanczos_center_3.png</url>
+      <title>Authors</title>
+      <link>https://cexa-project.org/authors/</link>
+    </image>
+    
+  </channel>
+</rss>

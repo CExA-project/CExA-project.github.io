@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Our jobs opening | CExA</title>
+    <link>https://cexa-project.org/join-us/</link>
+      <atom:link href="https://cexa-project.org/join-us/index.xml" rel="self" type="application/rss+xml" />
+    <description>Our jobs opening</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Jun 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://cexa-project.org/media/icon_hu86250c455d9dc0521634c96f116f5f57_27274_512x512_fill_lanczos_center_3.png</url>
+      <title>Our jobs opening</title>
+      <link>https://cexa-project.org/join-us/</link>
+    </image>
+    
+    <item>
+      <title>2-years postion</title>
+      <link>https://cexa-project.org/join-us/2023-06-01-engineer/</link>
+      <pubDate>Thu, 01 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>https://cexa-project.org/join-us/2023-06-01-engineer/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
