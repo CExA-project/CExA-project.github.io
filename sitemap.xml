@@ -6,19 +6,11 @@
     <lastmod>2023-06-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://cexa-project.org/join-us/2023-06-01-engineer/</loc>
-    <lastmod>2023-06-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>https://cexa-project.org/news/2023-06-01-kickoff/</loc>
     <lastmod>2023-06-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://cexa-project.org/news/</loc>
-    <lastmod>2023-06-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://cexa-project.org/join-us/</loc>
     <lastmod>2023-06-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -28,6 +20,9 @@
   </url><url>
     <loc>https://cexa-project.org/team/</loc>
     <lastmod>2022-10-24T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://cexa-project.org/join-us/2023-06-01-engineer/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://cexa-project.org/authors/</loc>
@@ -55,6 +50,9 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://cexa-project.org/triocfd/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://cexa-project.org/join-us/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://cexa-project.org/publication_types/</loc>

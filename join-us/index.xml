@@ -5,7 +5,7 @@
     <link>https://cexa-project.org/join-us/</link>
       <atom:link href="https://cexa-project.org/join-us/index.xml" rel="self" type="application/rss+xml" />
     <description>Our jobs opening</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Jun 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
     <image>
       <url>https://cexa-project.org/media/icon_hu1833f4a428951718fc3ca5a3c1455f5b_32564_512x512_fill_lanczos_center_3.png</url>
       <title>Our jobs opening</title>
@@ -13,11 +13,60 @@
     </image>
     
     <item>
-      <title>2-years postion</title>
+      <title>2-years C&#43;&#43; expert engineer position</title>
       <link>https://cexa-project.org/join-us/2023-06-01-engineer/</link>
-      <pubDate>Thu, 01 Jun 2023 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://cexa-project.org/join-us/2023-06-01-engineer/</guid>
-      <description></description>
+      <description>&lt;h1 id=&#34;c-expert-engineer-&#34;&gt;C++ expert engineer 👩‍💻🧑‍💻&lt;/h1&gt;
+&lt;h2 id=&#34;contribution-to-the-development-of-the-kokkos-gpu-computing-library-within-the-cexa-moonshot-project&#34;&gt;Contribution to the development of the Kokkos GPU computing library within the CExA “Moonshot” project&lt;/h2&gt;
+&lt;p&gt;Join the CEA’s ambitious “Moonshot” project, CExA, and contribute to the development of the Kokkos GPU computing library. We are recruiting six talented and enthusiastic C++ development engineers for a period of 2 years to work at our CEA Saclay site near Paris.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;To apply&lt;/strong&gt;, please send your application (resume and cover letter) to &lt;a href=&#34;mailto:mathieu.lobet@cea.fr&#34;&gt;mathieu.lobet@cea.fr&lt;/a&gt;. You can use this same address for any questions concerning the offer. Applications will be evaluated from mid-May until the position is filled.
+Context&lt;/p&gt;
+&lt;h2 id=&#34;context&#34;&gt;Context&lt;/h2&gt;
+&lt;p&gt;Europe is investing to build exaflop supercomputers in the coming years, including one in France, at the CEA, in 2025. These machines will be heterogeneous, accelerated by GPUs of various brands and architectures. Ensuring performance and portability under these conditions is certainly one of the greatest challenges of the Exascale. To address it, CEA is investing heavily in an ambitious “Moonshot” project: CExA. In this project, we will setup libraries to fully exploit this computing power in the scientific applications of the CEA by contributing, extending and adapting the open-source library Kokkos. Within CExA, we represent teams with expertise in numerical computation from the four components of the CEA.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Maison de la Simulation of the DRF is a joint research and engineering laboratory of CEA, CNRS, Univ. Paris-Saclay and UVSQ specialized in high performance computing and numerical simulation.&lt;/li&gt;
+&lt;li&gt;The DES’s software engineering department for simulation brings together three laboratories that address the issues of simulation environment, AI and data science, high performance computing and numerical analysis.&lt;/li&gt;
+&lt;li&gt;The DSCIN at DRT/LIST is responsible for the research and development of digital integrated circuits and processors for AI, as well as the design of complex digital architectures. It also works on solutions for embedded systems and develops design tools for embedded AI, embedded systems and trusted circuits.&lt;/li&gt;
+&lt;li&gt;The DSSI of the DAM manages activities in the fields of computer science, applied mathematics and information systems, covering a wide spectrum from definition and design to user services.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;mission&#34;&gt;Mission&lt;/h2&gt;
+&lt;p&gt;As part of a new agile team being set up to carry out the CExA project, you will work in collaboration with the European HPC ecosystem and the teams in charge of the development of Kokkos in the United States (Sandia and Oakridge National labs). You will enrich the library to fit the needs of the CEA applications and to the technologies developed by Europe for the Exascale (EPI, SiPearl, RISC-V)&lt;/p&gt;
+&lt;p&gt;Your mission will include:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Agile development in C++ of the CExA middleware to address the following areas of improvement:
+&lt;ul&gt;
+&lt;li&gt;Adaptation to “distributed memory” architectures&lt;/li&gt;
+&lt;li&gt;Support for heterogeneous architectures for European exaflop supercomputers&lt;/li&gt;
+&lt;li&gt;Interfacing with external libraries and data processing tools&lt;/li&gt;
+&lt;li&gt;Simplification of deployment&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Porting via Kokkos and integration of new functionalities in selected application demonstrators (hydrodynamics, fusion energy, AI-assisted medicine)&lt;/li&gt;
+&lt;li&gt;Support and animation on parallel programming models within the laboratory and at the scale of European and global collaborations.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;skills&#34;&gt;Skills&lt;/h2&gt;
+&lt;p&gt;You have a master and/or an engineering degree in computer science and:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;You have a solid knowledge of advanced C++ and the latest standards.&lt;/li&gt;
+&lt;li&gt;You know how to fit into an agile development process (SCRUM) and you master the basic tools associated with collaborative development (git, github, etc.).&lt;/li&gt;
+&lt;li&gt;You have skills in software engineering. You are familiar with common development environments and associated tools (cmake, docker, spack, gtest, ctest, etc.).&lt;/li&gt;
+&lt;li&gt;Knowledge of parallel programming (GPU, multi-threaded, etc.) is a plus, especially with the Kokkos library or equivalent.&lt;/li&gt;
+&lt;li&gt;You are autonomous and you wish to be part of an international work team. You master technical English (written and oral).&lt;/li&gt;
+&lt;li&gt;You are interested in the world of high-performance computing and its challenges and follow the evolution of technologies.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;salary-and-benefits&#34;&gt;Salary and benefits&lt;/h2&gt;
+&lt;p&gt;CEA offers salaries based on your degrees and experience.&lt;/p&gt;
+&lt;p&gt;This position offers several advantages:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;the possibility to join collaborations with other European laboratories, the United States and Japan,&lt;/li&gt;
+&lt;li&gt;Numerous opportunities to travel internationally (exchanges, conferences, workshops and more)&lt;/li&gt;
+&lt;li&gt;Up to 3 days of telecommuting per week&lt;/li&gt;
+&lt;li&gt;Reimbursement of up to 75% of public transport cards and a free transport network throughout the Ile-de-France region,&lt;/li&gt;
+&lt;li&gt;An interesting complementary health insurance and several company savings plans,&lt;/li&gt;
+&lt;li&gt;5 weeks of paid vacation and 4 weeks of RTT per year.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
     </item>
     
   </channel>
