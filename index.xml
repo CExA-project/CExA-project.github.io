@@ -5,12 +5,35 @@
     <link>https://cexa-project.org/</link>
       <atom:link href="https://cexa-project.org/index.xml" rel="self" type="application/rss+xml" />
     <description>CExA</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Jun 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 27 Jul 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://cexa-project.org/media/icon_hu1833f4a428951718fc3ca5a3c1455f5b_32564_512x512_fill_lanczos_center_3.png</url>
       <title>CExA</title>
       <link>https://cexa-project.org/</link>
     </image>
+    
+    <item>
+      <title>Kokkos training</title>
+      <link>https://cexa-project.org/news/2023-07-27-kokkos-training/</link>
+      <pubDate>Thu, 27 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>https://cexa-project.org/news/2023-07-27-kokkos-training/</guid>
+      <description>&lt;p&gt;CExA organises a 3-days Kokkos training from the 20 to the 22 of Septembre in
+Saclay provided by Kokkos lead developers
+&lt;a href=&#34;https://extremecomputingtraining.anl.gov/speakers/christian-trott-snl/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Cristian Trott&lt;/a&gt;
+and
+&lt;a href=&#34;https://www.ornl.gov/staff-profile/damien-t-lebrun-grandie&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Damien Lebrun-Grandié&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Registration to the first day is free and open to all, but mandatory to attend:
+&lt;a href=&#34;https://indico.math.cnrs.fr/e/kokkos-1&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://indico.math.cnrs.fr/e/kokkos-1&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;The following two days will consist in practical work in the lab room and
+registration is limited to 30 people, with priority given to CEA members.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Where&lt;/strong&gt;: Neurospin Amphitheatre for day 1 and Maison de la Simulation for days
+2 and 3.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;When&lt;/strong&gt;: 20-22 of Septembre 2023.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;How&lt;/strong&gt;: &lt;a href=&#34;https://indico.math.cnrs.fr/e/kokkos-1&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;register here!&lt;/a&gt; for day 1.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
     
     <item>
       <title>CExA Kick-off</title>
