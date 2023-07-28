@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Publication_types | CExA</title>
-    <link>https://cexa-project.org/publication_types/</link>
-      <atom:link href="https://cexa-project.org/publication_types/index.xml" rel="self" type="application/rss+xml" />
-    <description>Publication_types</description>
+    <title>Member | CExA</title>
+    <link>https://cexa-project.org/member/</link>
+      <atom:link href="https://cexa-project.org/member/index.xml" rel="self" type="application/rss+xml" />
+    <description>Member</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
     <image>
       <url>https://cexa-project.org/media/icon_hu1833f4a428951718fc3ca5a3c1455f5b_32564_512x512_fill_lanczos_center_3.png</url>
-      <title>Publication_types</title>
-      <link>https://cexa-project.org/publication_types/</link>
+      <title>Member</title>
+      <link>https://cexa-project.org/member/</link>
     </image>
     
   </channel>
