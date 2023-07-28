@@ -9,7 +9,7 @@ sections:
       slides:
       - title: CEA project for GPU computing
         content: |
-          C**ExA** is a Moonshot project launched by CEA to adopt & adapt Kokkos to our needs
+          C**ExA** is a Moonshot project launched by CEA adapt Kokkos to **your** needs and help you adopt it.
         align: right
         background:
           image:
