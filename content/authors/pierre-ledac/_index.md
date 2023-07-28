@@ -1,8 +1,8 @@
 ---
 authors: [ pierre-ledac ]
-name: Pierre LEDAC
+name: Pierre Ledac
 email: pierre.ledac@cea.fr
-title: 
+title: Pierre Ledac
 role: TRUST developer
 user_groups: [ "Permanent Staff" ]
 organizations:
