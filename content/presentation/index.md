@@ -17,13 +17,12 @@ sections:
         label: Git repository
         icon_pack: fab
         icon: github    
-  - block: markdown
-    content:
-      title: CExA in practice
-      subtitle: 
-      text: |
-        CExA is a project to...
-    design:
-      columns: '1'
-
+#  - block: markdown
+#    content:
+#      title: CExA in practice
+#      subtitle: 
+#      text: |
+#        CExA is a project to...
+#    design:
+#      columns: '1'
 ---

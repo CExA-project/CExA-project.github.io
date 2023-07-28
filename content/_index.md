@@ -9,8 +9,7 @@ sections:
       slides:
       - title: CEA project for GPU computing
         content: |
-          C**ExA** is a Moonshot project launched by CEA to:
-          build
+          C**ExA** is a Moonshot project launched by CEA to adopt & adapt Kokkos to our needs
         align: right
         background:
           image:
@@ -25,7 +24,7 @@ sections:
           text: Learn more
           url: '#section-markdown'
 
-      - title: Discover CEXA
+      - title: Discover CExA
         content: 'A Kokkos-based platform for computing at Exascale!'
         align: center
         background:
@@ -39,7 +38,7 @@ sections:
           icon: graduation-cap
           icon_pack: fas
           text: Discover our tools
-          url: ../join-us/
+          url: ../presentation/
       - title: 👋 Join the team
         content: |
           Come work with us, contribute to the Kokkos project, contribute to the future of C++ for GPU computing in CEA, France, Europe and in the world 🌎!
@@ -61,9 +60,9 @@ sections:
       slide_height: ''
       is_fullscreen: true
       # Automatically transition through slides?
-      loop: false
+      loop: true
       # Duration of transition between slides (in ms)
-      interval: 2000
+      interval: 5000
   
   - block: markdown
     content:
@@ -85,15 +84,15 @@ sections:
       subtitle: Section subtitle
       text: Section text
       items:
-        - name: Gysela
-          description: Plasma
+        - name: "[Gysela-X++](../gyselax)"
+          description: Plasma physics
           icon: flask
           icon_pack: fas
-        - name: Trust/TrioCFD
+        - name: "[Trust/TrioCFD](../triocfd)"
           description: Fluid Dynamics
           icon: chart-line
           icon_pack: fas
-        - name: Triclades
+        - name: "[Triclades](../triclades)"
           description: MultiFluid
           icon: camera-retro
           icon_pack: fas
