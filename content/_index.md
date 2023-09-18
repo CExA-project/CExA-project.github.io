@@ -35,7 +35,7 @@ sections:
           position: center
           color: '#555'
         link:
-          icon: graduation-cap
+          icon: gear
           icon_pack: fas
           text: Discover our tools
           url: ../presentation/
