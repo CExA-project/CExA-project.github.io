@@ -19,6 +19,6 @@ user_groups:
 
 ---
 
-I am a Engineer-Researcher at CEA, mainly working on mesh partitioning and linear algebra libraries.
+I am an Engineer-Researcher at CEA, mainly working on mesh partitioning and linear algebra libraries.
 
-I have a strong interest in HPC programming, from techniques to increase software correctness and productivity to codesign to exploit newer hardware more efficiently. 
+I am intensely interested in HPC programming, from techniques to increase software correctness and productivity to codesigning to exploit newer hardware more efficiently.
