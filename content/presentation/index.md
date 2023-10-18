@@ -9,7 +9,7 @@ sections:
     content:
       title: C**ExA** project
       image:
-        filename: CExA.jpg
+        filename: CExA.png
       text: |
         C**ExA** projects aims to develop and support the adoption of a Kokkos-based GPU model to **C**ompute at **Ex**ascale **A**t CEA and beyond.
       cta:
