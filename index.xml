@@ -7,7 +7,7 @@
     <description>CExA</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 27 Jul 2023 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://cexa-project.org/media/logo_hu0d509a71bcfd6f2083d4dedfba6d0aaf_150988_300x300_fit_lanczos_3.png</url>
+      <url>https://cexa-project.org/media/icon_hu0d509a71bcfd6f2083d4dedfba6d0aaf_150988_512x512_fill_lanczos_center_3.png</url>
       <title>CExA</title>
       <link>https://cexa-project.org/</link>
     </image>
@@ -151,10 +151,10 @@ Context&lt;/p&gt;
     </item>
     
     <item>
-      <title>Triclades</title>
-      <link>https://cexa-project.org/triclades/</link>
+      <title>Triclade</title>
+      <link>https://cexa-project.org/triclade/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://cexa-project.org/triclades/</guid>
+      <guid>https://cexa-project.org/triclade/</guid>
       <description></description>
     </item>
     
