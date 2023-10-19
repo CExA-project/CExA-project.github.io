@@ -92,7 +92,7 @@ sections:
           description: Fluid Dynamics
           icon: chart-line
           icon_pack: fas
-        - name: "[Triclades](../triclades)"
+        - name: "[Triclade](../triclade)"
           description: MultiFluid
           icon: camera-retro
           icon_pack: fas

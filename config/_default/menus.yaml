@@ -21,9 +21,9 @@ main:
     parent: demos
     url: gyselax
     weight: 10
-  - name: Triclades
+  - name: Triclade
     parent: demos
-    url: triclades
+    url: triclade
     weight: 20
   - name: Trust/TrioCFD
     parent: demos
