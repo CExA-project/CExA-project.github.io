@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Dr. Francois Letierce | CExA</title>
+    <link>https://cexa-project.org/authors/francois-letierce/</link>
+      <atom:link href="https://cexa-project.org/authors/francois-letierce/index.xml" rel="self" type="application/rss+xml" />
+    <description>Dr. Francois Letierce</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>https://cexa-project.org/media/icon_hu0d509a71bcfd6f2083d4dedfba6d0aaf_150988_512x512_fill_lanczos_center_3.png</url>
+      <title>Dr. Francois Letierce</title>
+      <link>https://cexa-project.org/authors/francois-letierce/</link>
+    </image>
+    
+  </channel>
+</rss>
