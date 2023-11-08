@@ -16,6 +16,7 @@ social:
   link: mailto:francois.letierce@cea.fr
 user_groups:
   - Core team
+  - Demonstrator devs
 
 ---
 
