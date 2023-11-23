@@ -1,5 +1,4 @@
 ---
-superuser: true
 name: Fabien Baligand
 first_name: Fabien
 last_name: Baligand

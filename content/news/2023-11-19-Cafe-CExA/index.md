@@ -1,6 +1,6 @@
 ---
 title: CExA coffee
-date: 2023-11-20
+date: 2023-11-19
 ---
 
 # Café CExA
