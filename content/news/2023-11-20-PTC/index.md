@@ -8,12 +8,12 @@ image:
   preview_only: false
 ---
 
-* Vous êtes porteurs d’un code?
+* Vous êtes porteurs d’un code au CEA?
  * Vous visez le GPU?
  * L’approche Kokkos vous intéresse?
 * Rejoignez la dynamique !!!
 
-Conaissez vous les [projets transverse de compétences "simulation numérique" (PTC-SN)](https://programmes-i.extra.cea.fr/) ?
+Conaissez vous les [projets transverse de compétences "simulation numérique" (PTC-SN)](https://programmes-i.extra.cea.fr/) du CEA ?
 Le nouvel [appel à projet est sorti](https://programmes-i.extra.cea.fr/Phocea/Page/index.php?id=17&ref=20).
 
 Déposons un projet ensemble. Profitez de l'expertise CExA en collaboration sur votre code.
