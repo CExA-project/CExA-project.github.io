@@ -20,4 +20,6 @@ Déposons un projet ensemble. Profitez de l'expertise CExA en collaboration sur 
 * Contribuez a la pérennisation de CExA
 * Profitez du support d’une équipe d’experts
 
+Contactez nous: contact@cexa-project.org
+
 {{< figure src="PE-PTC_Calendrier_AAP_2024.png" id="Calendrier_AAP_PTC_2024" >}}.
