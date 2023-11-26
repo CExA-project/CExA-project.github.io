@@ -1,5 +1,5 @@
 ---
-title: 27 Nov. 2023: First CExA coffee
+title: "27 Nov. 2023: First CExA coffee"
 subtitle: Performance portable Fourier & Spline transforms for Vlasov-Poisson numerical solve
 date: 2023-11-21
 ---
