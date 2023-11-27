@@ -1,6 +1,6 @@
 ---
 title: 2-years HPC DevOps Engineer position at CEA
-date: 
+date: 2023-11-01
 image:
   placement: 1
   focal_point: "Center"
