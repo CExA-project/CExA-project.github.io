@@ -17,6 +17,24 @@ social:
 - icon: envelope
   icon_pack: fas
   link: mailto:julien.bigot@cea.fr
+- icon: google-scholar
+  icon_pack: ai
+  link: https://scholar.google.co.uk/citations?user=lwrAj8AAAAAJ
+- icon: orcid
+  icon_pack: fab
+  link: https://orcid.org/0000-0002-0015-4304
+- icon: researchgate
+  icon_pack: ai
+  link: https://www.researchgate.net/profile/Julien_Bigot2
+- icon: ideas-repec
+  icon_pack: ai
+  link: https://cv.archives-ouvertes.fr/julien-bigot
+- icon: gitlab
+  icon_pack: fab
+  link: https://gitlab.maisondelasimulation.fr/jbigot
+- icon: github
+  icon_pack: fab
+  link: https://github.com/jbigot
 user_groups:
   - Principal Investigators
 
