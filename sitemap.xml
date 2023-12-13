@@ -73,6 +73,12 @@
     <loc>https://cexa-project.org/authors/mathieu-lobet/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
+    <loc>https://cexa-project.org/authors/paul-zehner/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://cexa-project.org/authors/pierre-ledac/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>https://cexa-project.org/authors/remi-baron/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -89,9 +95,6 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://cexa-project.org/member/</loc>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://cexa-project.org/authors/pierre-ledac/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://cexa-project.org/triclade/</loc>
