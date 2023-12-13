@@ -3,8 +3,7 @@ authors: [ mathieu-lobet ]
 name: Mathieu Lobet
 email: mathieu.lobet@cea.fr
 title: Dr. Mathieu Lobet
-role: dev coordinator
-user_groups: [ "Permanent Staff" ]
+role: Group leader, Senior developer
 organizations:
 - name: CEA
   url: https://www.cea.fr/

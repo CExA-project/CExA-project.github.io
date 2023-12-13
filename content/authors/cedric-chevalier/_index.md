@@ -3,8 +3,7 @@ authors: [ cedric-chevalier ]
 name: Cédric Chevalier
 email: cedric.chevalier@cea.fr
 title: Dr. Cédric Chevalier
-role: Senior developer
-user_groups: [ "Permanent Staff" ]
+role: Group leader, Senior developer
 organizations:
 - name: CEA
   url: https://www.cea.fr/

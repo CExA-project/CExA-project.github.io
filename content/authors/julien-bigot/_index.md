@@ -6,7 +6,6 @@ last_name: Bigot
 email: julien.bigot@cea.fr
 title: Dr. Julien Bigot
 role: PI
-user_groups: [ "Permanent Staff" ]
 organizations:
 - name: CEA
   url: https://www.cea.fr/

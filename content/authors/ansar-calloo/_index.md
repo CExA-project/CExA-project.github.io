@@ -3,8 +3,7 @@ authors: [ ansar-calloo ]
 name: Ansar Calloo
 email: ansar.calloo@cea.fr
 title: Dr. Ansar Calloo
-role: Dev coordinator, Developer
-user_groups: [ "Permanent Staff" ]
+role: Group leader, Senior Developer
 organizations:
 - name: CEA
   url: https://www.cea.fr/

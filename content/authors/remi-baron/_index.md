@@ -3,8 +3,7 @@ authors: [ remi-baron ]
 name: Rémi Baron
 email: remi.baron@cea.fr
 title: Dr. Rémi Baron
-role: Dev coordinator, Developer
-user_groups: [ "Permanent Staff" ]
+role: Senior Developer
 organizations:
 - name: CEA
   url: https://www.cea.fr/

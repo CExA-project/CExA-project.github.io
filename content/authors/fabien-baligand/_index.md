@@ -5,7 +5,6 @@ last_name: Baligand
 email: fabien.baligand@cea.fr
 title: Dr. Fabien Baligand
 role: Scrum Master
-user_groups: [ "Permanent Staff" ]
 organizations:
 - name: CEA
   url: https://www.cea.fr/

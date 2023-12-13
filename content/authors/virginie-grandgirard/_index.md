@@ -3,8 +3,7 @@ authors: [ virginie-grandgirard ]
 name: Virginie Grandgirard
 email: virginie.grandgirard@cea.fr
 title: Dr. Virginie Grandgirard
-role: Gysela-X lead developer
-user_groups: [ "Permanent Staff" ]
+role: GyselaX++ lead developer
 organizations:
 - name: CEA
   url: https://www.cea.fr/

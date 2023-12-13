@@ -3,8 +3,7 @@ authors: [ paul-zehner ]
 name: Paul Zehner
 email: paul.zehner@cea.fr
 title: Dr. Paul Zehner
-role: dev
-user_groups: [ "Non Permanent Staff" ]
+role: Developer
 organizations:
 - name: CEA
   url: https://www.cea.fr/

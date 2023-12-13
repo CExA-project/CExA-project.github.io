@@ -3,8 +3,7 @@ authors: [ francois-letierce ]
 name: François Letierce
 email: francois.letierce@cea.fr
 title: Dr. Francois Letierce
-role: Senior developer and architect
-user_groups: [ "Permanent Staff" ]
+role: Senior developer, Triclade lead developer
 organizations:
 - name: CEA
   url: https://www.cea.fr/

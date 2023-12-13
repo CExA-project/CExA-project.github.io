@@ -3,8 +3,7 @@ authors: [ thomas-padioleau ]
 name: Thomas Padioleau
 email: thomas.padioleau@cea.fr
 title: Dr. Thomas Padioleau
-role: DDC lead developer, Voice++ developer
-user_groups: [ "Permanent Staff" ]
+role: Senior developer, architect
 organizations:
 - name: CEA
   url: https://www.cea.fr/

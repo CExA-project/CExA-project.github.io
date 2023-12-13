@@ -3,8 +3,7 @@ authors: [ yuuichi-asahi ]
 name: Yuuichi Asahi
 email: yuuichi.asahi@cea.fr
 title: Dr. Yuuichi Asahi
-role: Senior developer, Gysela-X developer
-user_groups: [ "Permanent Staff" ]
+role: Senior developer
 organizations:
 - name: CEA
   url: https://www.cea.fr/
