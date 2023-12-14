@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Thierry Antoun, MSc. | CExA</title>
+    <link>https://cexa-project.org/authors/thierry-antoun/</link>
+      <atom:link href="https://cexa-project.org/authors/thierry-antoun/index.xml" rel="self" type="application/rss+xml" />
+    <description>Thierry Antoun, MSc.</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>https://cexa-project.org/media/logo_hu0d509a71bcfd6f2083d4dedfba6d0aaf_150988_300x300_fit_lanczos_3.png</url>
+      <title>Thierry Antoun, MSc.</title>
+      <link>https://cexa-project.org/authors/thierry-antoun/</link>
+    </image>
+    
+  </channel>
+</rss>
