@@ -3,14 +3,18 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://cexa-project.org/</loc>
-    <lastmod>2023-11-21T00:00:00+00:00</lastmod>
+    <lastmod>2023-12-22T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://cexa-project.org/news/2023-11-21-premier-cafe-cexa/</loc>
-    <lastmod>2023-11-21T00:00:00+00:00</lastmod>
+    <loc>https://cexa-project.org/news/2023-12-22-cafe-cexa/</loc>
+    <lastmod>2023-12-22T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://cexa-project.org/news/</loc>
+    <lastmod>2023-12-22T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://cexa-project.org/news/2023-11-21-premier-cafe-cexa/</loc>
     <lastmod>2023-11-21T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
