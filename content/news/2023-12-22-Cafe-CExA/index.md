@@ -14,7 +14,7 @@ Thomas Padioleau will give a talk entitled "DDC, a performance portable library 
 
 The Discrete Domain Computation library is a modern C++ library that aims to offer to the C++/MPI world an equivalent to the xarray.DataArray/dask.Array python environment. Based on Kokkos, DDC supports zero-overhead dimension labelling for multi-dimensional arrays and performance-portable multi-dimensional algorithms.
 
-[Slides]({{< ref "ddc_slides.pdf" >}})
+[Slides](ddc_slides.pdf)
 
 ## Contribute
 
