@@ -382,6 +382,17 @@ context of a collaboration between Mdls and IRFM, a Fourier and a Spline
 transform kernels have been developed and integrated in the library DDC to
 address the use-case of the gyrokinetic code Gysela in a performance
 perspective (compatibility with GPU).&lt;/p&gt;
+
+
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;dose_slides.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34; class=&#34;btn btn-primary px-3 py-3&#34;&gt;Get the slides&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+&lt;/ul&gt;
+
 &lt;h2 id=&#34;contribute&#34;&gt;Contribute&lt;/h2&gt;
 &lt;p&gt;Any subject is welcome if it is related to the Kokkos ecosystem (developments, usage, projects, issues, etc.) or even to GPU programming at large.
 Feel free to contact us to propose a talk: &lt;a href=&#34;mailto:contact@cexa-project.org&#34;&gt;contact@cexa-project.org&lt;/a&gt;&lt;/p&gt;
