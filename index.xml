@@ -189,7 +189,12 @@ Feel free to contact us to propose a talk: &lt;a href=&#34;mailto:contact@cexa-p
       <link>https://cexa-project.org/news/2023-12-22-cafe-cexa/</link>
       <pubDate>Fri, 22 Dec 2023 00:00:00 +0000</pubDate>
       <guid>https://cexa-project.org/news/2023-12-22-cafe-cexa/</guid>
-      <description>
+      <description>&lt;p&gt;As a new year gift, CExA organizes its second &lt;strong&gt;CExA virtual coffee&lt;/strong&gt; on Monday, January the 8th, 2024 starting at 1PM.
+It can be followed on &lt;a href=&#34;https://cnrs.zoom.us/j/97834891802?pwd=NXhzd2paY051S3dQekVQVllvTW5MUT09&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Zoom&lt;/a&gt;, by &lt;a href=&#34;#by-phone&#34;&gt;phone&lt;/a&gt;, from &lt;a href=&#34;#from-a-visio-room&#34;&gt;a visio room&lt;/a&gt; or from the &lt;a href=&#34;#come-to-the-mandelbrot-room&#34;&gt;Mandelbrot room in the Digiteo Saclay building&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Thomas Padioleau will give a talk entitled &amp;ldquo;DDC, a performance portable library abstracting Computation on Discrete Domains&amp;rdquo;&lt;/p&gt;
+&lt;h2 id=&#34;ddc-a-performance-portable-library-abstracting-computation-on-discrete-domains&#34;&gt;DDC, a performance portable library abstracting Computation on Discrete Domains&lt;/h2&gt;
+&lt;p&gt;The Discrete Domain Computation library is a modern C++ library that aims to offer to the C++/MPI world an equivalent to the xarray.DataArray/dask.Array python environment. Based on Kokkos, DDC supports zero-overhead dimension labelling for multi-dimensional arrays and performance-portable multi-dimensional algorithms.&lt;/p&gt;
+
 
 &lt;ul class=&#34;cta-group&#34;&gt;
   
@@ -200,12 +205,6 @@ Feel free to contact us to propose a talk: &lt;a href=&#34;mailto:contact@cexa-p
   
 &lt;/ul&gt;
 
-&lt;p&gt;As a new year gift, CExA organizes its second &lt;strong&gt;CExA virtual coffee&lt;/strong&gt; on Monday, January the 8th, 2024 starting at 1PM.
-It can be followed on &lt;a href=&#34;https://cnrs.zoom.us/j/97834891802?pwd=NXhzd2paY051S3dQekVQVllvTW5MUT09&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Zoom&lt;/a&gt;, by &lt;a href=&#34;#by-phone&#34;&gt;phone&lt;/a&gt;, from &lt;a href=&#34;#from-a-visio-room&#34;&gt;a visio room&lt;/a&gt; or from the &lt;a href=&#34;#come-to-the-mandelbrot-room&#34;&gt;Mandelbrot room in the Digiteo Saclay building&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;Thomas Padioleau will give a talk entitled &amp;ldquo;DDC, a performance portable library abstracting Computation on Discrete Domains&amp;rdquo;&lt;/p&gt;
-&lt;h2 id=&#34;ddc-a-performance-portable-library-abstracting-computation-on-discrete-domains&#34;&gt;DDC, a performance portable library abstracting Computation on Discrete Domains&lt;/h2&gt;
-&lt;p&gt;The Discrete Domain Computation library is a modern C++ library that aims to offer to the C++/MPI world an equivalent to the xarray.DataArray/dask.Array python environment. Based on Kokkos, DDC supports zero-overhead dimension labelling for multi-dimensional arrays and performance-portable multi-dimensional algorithms.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;ddc_slides.pdf&#34;&gt;Slides&lt;/a&gt;&lt;/p&gt;
 &lt;h2 id=&#34;contribute&#34;&gt;Contribute&lt;/h2&gt;
 &lt;p&gt;Any subject is welcome if it is related to the Kokkos ecosystem (developments, usage, projects, issues, etc.) or even to GPU programming at large.
 Feel free to contact us to propose a talk: &lt;a href=&#34;mailto:contact@cexa-project.org&#34;&gt;contact@cexa-project.org&lt;/a&gt;&lt;/p&gt;
