@@ -2,9 +2,12 @@
 title: "8 Jan. 2024: Second CExA coffee"
 subtitle: "DDC, a performance portable library abstracting Computation on Discrete Domains"
 date: 2023-12-22
+links:
+  - icon_pack: fas
+    icon: file-pdf
+    name: Get the slides
+    url: 'ddc_slides.pdf'
 ---
-
-{{< cta cta_text="Get the slides" cta_link="ddc_slides.pdf" cta_new_tab="true" >}}
 
 As a new year gift, CExA organizes its second **CExA virtual coffee** on Monday, January the 8th, 2024 starting at 1PM.
 It can be followed on [Zoom](https://cnrs.zoom.us/j/97834891802?pwd=NXhzd2paY051S3dQekVQVllvTW5MUT09), by [phone]({{< ref "#by-phone" >}}), from [a visio room]({{< ref "#from-a-visio-room" >}}) or from the [Mandelbrot room in the Digiteo Saclay building]({{< ref "#come-to-the-mandelbrot-room" >}}).
@@ -15,7 +18,7 @@ Thomas Padioleau will give a talk entitled "DDC, a performance portable library 
 
 The Discrete Domain Computation library is a modern C++ library that aims to offer to the C++/MPI world an equivalent to the xarray.DataArray/dask.Array python environment. Based on Kokkos, DDC supports zero-overhead dimension labelling for multi-dimensional arrays and performance-portable multi-dimensional algorithms.
 
-[Slides](ddc_slides.pdf)
+{{< cta cta_text="Get the slides" cta_link="ddc_slides.pdf" cta_new_tab="true" >}}
 
 ## Contribute
 
