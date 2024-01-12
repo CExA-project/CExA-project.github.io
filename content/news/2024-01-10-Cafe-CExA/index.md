@@ -1,21 +1,18 @@
 ---
-title: "8 Jan. 2024: Second CExA coffee"
-subtitle: "DDC, a performance portable library abstracting Computation on Discrete Domains"
-date: 2023-12-22
+title: "15 Jan. 2024: Third CExA coffee"
+subtitle: "Thor, bibliothèque pour la portabilité des performances dans les codes de simulation"
+date: 2024-01-12
 ---
 
-{{< cta cta_text="Get the slides" cta_link="ddc_slides.pdf" cta_new_tab="true" >}}
-
-As a new year gift, CExA organizes its second **CExA virtual coffee** on Monday, January the 8th, 2024 starting at 1PM.
+CExA organizes its third **CExA virtual coffee** on Monday, January the 8th, 2024 starting at 1PM.
 It can be followed on [Zoom](https://cnrs.zoom.us/j/97834891802?pwd=NXhzd2paY051S3dQekVQVllvTW5MUT09), by [phone]({{< ref "#by-phone" >}}), from [a visio room]({{< ref "#from-a-visio-room" >}}) or from the [Mandelbrot room in the Digiteo Saclay building]({{< ref "#come-to-the-mandelbrot-room" >}}).
 
-Thomas Padioleau will give a talk entitled "DDC, a performance portable library abstracting Computation on Discrete Domains"
+Benjamin Fovet will give a talk entitled "Thor, bibliothèque pour la portabilité des performances dans les codes de simulation"
 
-## DDC, a performance portable library abstracting Computation on Discrete Domains
+## Thor, bibliothèque pour la portabilité des performances dans les codes de simulation
 
-The Discrete Domain Computation library is a modern C++ library that aims to offer to the C++/MPI world an equivalent to the xarray.DataArray/dask.Array python environment. Based on Kokkos, DDC supports zero-overhead dimension labelling for multi-dimensional arrays and performance-portable multi-dimensional algorithms.
+L'idée est, pour répondre aux besoins d'un futur code non structuré d'aérodynamique au CESTA, de mutualiser les développements dans une bibliothèque fournissant les services nécessaires aux développeurs de code. Cette biblio s'appuie entre autres sur Kokkos.
 
-[Slides](ddc_slides.pdf)
 
 ## Contribute
 
