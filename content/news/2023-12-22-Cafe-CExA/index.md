@@ -7,6 +7,7 @@ links:
     icon: file-pdf
     name: Get the slides
     url: 'ddc_slides.pdf'
+    cta_new_tab: true
 ---
 
 As a new year gift, CExA organizes its second **CExA virtual coffee** on Monday, January the 8th, 2024 starting at 1PM.

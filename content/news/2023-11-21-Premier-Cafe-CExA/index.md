@@ -2,6 +2,12 @@
 title: "27 Nov. 2023: First CExA coffee"
 subtitle: Performance portable Fourier & Spline transforms for Vlasov-Poisson numerical solve
 date: 2023-11-21
+links:
+  - icon_pack: fas
+    icon: file-pdf
+    name: Get the slides
+    url: 'dose_slides.pdf'
+    cta_new_tab: true
 ---
 
 
@@ -12,13 +18,14 @@ Baptiste Legouix will give a talk entitled "Performance portable Fourier & Splin
 
 ## Performance portable Fourier & Spline transforms for Vlasov-Poisson numerical solve
 
-
 Numerical changes of basis functions is a very usefull tool for numerical 
 simulation: involved in interpolations, integrations, PDE solvers... In the 
 context of a collaboration between Mdls and IRFM, a Fourier and a Spline 
 transform kernels have been developed and integrated in the library DDC to 
 address the use-case of the gyrokinetic code Gysela in a performance 
 perspective (compatibility with GPU).
+
+{{< cta cta_text="Get the slides" cta_link="dose_slides.pdf" cta_new_tab="true" >}}
 
 
 ## Contribute
