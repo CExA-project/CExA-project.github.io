@@ -1,6 +1,6 @@
 ---
 title: Kokkos training
-date: 2023-07-27
+date: 2023-09-20
 ---
 
 CExA organises a 3-days Kokkos training from the 20 to the 22 of Septembre in

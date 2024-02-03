@@ -1,6 +1,6 @@
 ---
 title: CExA Kick-off
-date: 2023-06-01
+date: 2023-09-19
 image:
   focal_point: 'top'
 links:

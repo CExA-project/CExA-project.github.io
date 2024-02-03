@@ -1,48 +1,54 @@
 ---
-title: CExA coffee
-date: 2023-11-19
+title: "[Cancelled] 15 Jan. 2024: Third CExA coffee"
+subtitle: "Thor, bibliothèque pour la portabilité des performances dans les codes de simulation"
+date: 2024-01-12
 ---
 
-# Café CExA
+{{% callout warning %}}
+This presentation has been cancelled and will be postponed.·
+{{% /callout %}}
 
-Le projet CExA met en place un **café virtuel CExA** qui aura lieu les lundi entre 13h00 et 14h.
-Il s'agit d'une présentation informelle accessible en visio suivi d'un moment d'échange.
-Le rendez-vous deviendra régulier en 2024, mais un premier café aura lieu lundi 27 novembre 2023.
-Il pourra être suivi sur [Zoom](https://cnrs.zoom.us/j/97834891802?pwd=NXhzd2paY051S3dQekVQVllvTW5MUT09), par [téléphone]({{< ref "#par-téléphone" >}}), depuis [une salle visio]({{< ref "#depuis-une-salle-visio" >}}) ou bien depuis [la salle Mandelbrot du bâtiment Digiteo Saclay]({{< ref "#venir-en-présentiel" >}}).
+CExA organizes its third **CExA virtual coffee** on Monday, January the 15th, 2024 starting at 1PM.
+It can be followed on [Zoom](https://cnrs.zoom.us/j/97834891802?pwd=NXhzd2paY051S3dQekVQVllvTW5MUT09), by [phone]({{< ref "#by-phone" >}}), from [a visio room]({{< ref "#from-a-visio-room" >}}) or from the [Mandelbrot room in the Digiteo Saclay building]({{< ref "#come-to-the-mandelbrot-room" >}}).
 
-## Contribuez
+Benjamin Fovet will give a talk entitled "Thor, bibliothèque pour la portabilité des performances dans les codes de simulation"
 
-Tous les sujets en lien avec l'écosystème Kokkos (développements, utilisation, projets, etc.) ou la programmation GPU dans son ensemble sont les bienvenus.
-N'hésitez pas à nous proposer un sujet en nous contactant à l'adresse contact@cexa-project.org
+## Thor, bibliothèque pour la portabilité des performances dans les codes de simulation
 
-## Kokkos Korner
+L'idée est, pour répondre aux besoins d'un futur code non structuré d'aérodynamique au CESTA, de mutualiser les développements dans une bibliothèque fournissant les services nécessaires aux développeurs de code. Cette biblio s'appuie entre autres sur Kokkos.
 
-Pour ceux qui le souhaitent, ce café sera suivi d'un «Kokkos Korner».
-Si vous avez essayé les tutoriaux Kokkos et que vous êtes bloqués, si vous avez des difficultés avec son utilisation, nos experts Kokkos seront disponibles à 14h au même endroit pour répondre à vos questions.
-Pour ceux qui ne peuvent pas se déplacer sur Saclay, nous sommes joignable sur le slack de Kokkos : https://kokkosteam.slack.com/messages , canal #general-fr.
 
-## Infos supplémentaires
+## Contribute
 
-### Venir en présentiel
+Any subject is welcome if it is related to the Kokkos ecosystem (developments, usage, projects, issues, etc.) or even to GPU programming at large.
+Feel free to contact us to propose a talk: contact@cexa-project.org
 
-La salle Mandelbrot du [bâtiment Digiteo Saclay](https://maps.app.goo.gl/dWmfDSAyc6TLkrnC9) est accessible sur le centre de Saclay, près de la porte Orphée.
+We target very informal discussion in French or English. You can propose any subject for discussion even if you don't have a dedicated slide deck.
+
+
+## Additional info
+
+### Join us physically in the Mandelbrot room
+
+The Mandelbrot room of [Digiteo Saclay building](https://maps.app.goo.gl/dWmfDSAyc6TLkrnC9) is in Saclay center, near the Orphée entrance.
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2631.8449189785!2d2.15407651328232!3d48.72755487119501!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47e67f3d6ca35351%3A0xad658a7f81b4a1fe!2sMaison%20de%20la%20Simulation!5e0!3m2!1sen!2sfr!4v1690451425962!5m2!1sen!2sfr" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
 
-### Le lien zoom
+### Zoom link
 
-Dans un navigateur web ou depuis l'application.
+In a web browser or from the application.
 
 https://cnrs.zoom.us/j/97834891802?pwd=NXhzd2paY051S3dQekVQVllvTW5MUT09
 * Meeting ID: 978 3489 1802
 * Passcode: VdCL7d
 
-### Depuis une salle visio
 
-#### en SIP
+### From a visio room
+
+#### in SIP
 * 97834891802@zoomcrc.com
 
-#### en H.323
+#### in H.323
 * 162.255.37.11 (US West)
 * 162.255.36.11 (US East)
 * 213.19.144.110 (Amsterdam Netherlands)
@@ -58,7 +64,7 @@ Passcode: 712542
 +33170950350,,97834891802#,,,,*712542# France
 +33186995831,,97834891802#,,,,*712542# France
 
-### Par téléphone
+### By phone
 
 * Meeting ID: 978 3489 1802
 * Passcode: 712542
