@@ -14,9 +14,9 @@
     
     <item>
       <title>5 Feb. 2024: Fourth CExA coffee</title>
-      <link>https://cexa-project.org/news/fourth-cexa-coffee/</link>
+      <link>https://cexa-project.org/news/2024-02-05-fourth-cexa-coffee/</link>
       <pubDate>Thu, 01 Feb 2024 00:00:00 +0000</pubDate>
-      <guid>https://cexa-project.org/news/fourth-cexa-coffee/</guid>
+      <guid>https://cexa-project.org/news/2024-02-05-fourth-cexa-coffee/</guid>
       <description>&lt;p&gt;CExA organizes its fourth &lt;strong&gt;CExA virtual coffee&lt;/strong&gt; on Monday, February the 5th, 2024 starting at 1PM.
 It can be followed on &lt;a href=&#34;https://cnrs.zoom.us/j/97834891802?pwd=NXhzd2paY051S3dQekVQVllvTW5MUT09&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Zoom&lt;/a&gt;, by &lt;a href=&#34;#by-phone&#34;&gt;phone&lt;/a&gt;, from &lt;a href=&#34;#from-a-visio-room&#34;&gt;a visio room&lt;/a&gt; or from the &lt;a href=&#34;#come-to-the-mandelbrot-room&#34;&gt;Mandelbrot room in the Digiteo Saclay building&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;Cedric Chevalier will give a talk entitled &amp;ldquo;Kokkos, what&amp;rsquo;s new?&amp;rdquo;&lt;/p&gt;
@@ -183,11 +183,16 @@ Feel free to contact us to propose a talk: &lt;a href=&#34;mailto:contact@cexa-p
     </item>
     
     <item>
-      <title>15 Jan. 2024: Third CExA coffee</title>
-      <link>https://cexa-project.org/news/third-cexa-coffee/</link>
+      <title>[Cancelled] 15 Jan. 2024: Third CExA coffee</title>
+      <link>https://cexa-project.org/news/2024-01-15-third-cexa-coffee/</link>
       <pubDate>Fri, 12 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>https://cexa-project.org/news/third-cexa-coffee/</guid>
-      <description>&lt;p&gt;CExA organizes its third &lt;strong&gt;CExA virtual coffee&lt;/strong&gt; on Monday, January the 15th, 2024 starting at 1PM.
+      <guid>https://cexa-project.org/news/2024-01-15-third-cexa-coffee/</guid>
+      <description>&lt;div class=&#34;alert alert-warning&#34;&gt;
+  &lt;div&gt;
+    This presentation has been cancelled and will be postponed.·
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;CExA organizes its third &lt;strong&gt;CExA virtual coffee&lt;/strong&gt; on Monday, January the 15th, 2024 starting at 1PM.
 It can be followed on &lt;a href=&#34;https://cnrs.zoom.us/j/97834891802?pwd=NXhzd2paY051S3dQekVQVllvTW5MUT09&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Zoom&lt;/a&gt;, by &lt;a href=&#34;#by-phone&#34;&gt;phone&lt;/a&gt;, from &lt;a href=&#34;#from-a-visio-room&#34;&gt;a visio room&lt;/a&gt; or from the &lt;a href=&#34;#come-to-the-mandelbrot-room&#34;&gt;Mandelbrot room in the Digiteo Saclay building&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;Benjamin Fovet will give a talk entitled &amp;ldquo;Thor, bibliothèque pour la portabilité des performances dans les codes de simulation&amp;rdquo;&lt;/p&gt;
 &lt;h2 id=&#34;thor-bibliothèque-pour-la-portabilité-des-performances-dans-les-codes-de-simulation&#34;&gt;Thor, bibliothèque pour la portabilité des performances dans les codes de simulation&lt;/h2&gt;
@@ -356,9 +361,9 @@ Feel free to contact us to propose a talk: &lt;a href=&#34;mailto:contact@cexa-p
     
     <item>
       <title>8 Jan. 2024: Second CExA coffee</title>
-      <link>https://cexa-project.org/news/second-cexa-coffee/</link>
+      <link>https://cexa-project.org/news/2024-01-08-second-cexa-coffee/</link>
       <pubDate>Fri, 22 Dec 2023 00:00:00 +0000</pubDate>
-      <guid>https://cexa-project.org/news/second-cexa-coffee/</guid>
+      <guid>https://cexa-project.org/news/2024-01-08-second-cexa-coffee/</guid>
       <description>&lt;p&gt;As a new year gift, CExA organizes its second &lt;strong&gt;CExA virtual coffee&lt;/strong&gt; on Monday, January the 8th, 2024 starting at 1PM.
 It can be followed on &lt;a href=&#34;https://cnrs.zoom.us/j/97834891802?pwd=NXhzd2paY051S3dQekVQVllvTW5MUT09&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Zoom&lt;/a&gt;, by &lt;a href=&#34;#by-phone&#34;&gt;phone&lt;/a&gt;, from &lt;a href=&#34;#from-a-visio-room&#34;&gt;a visio room&lt;/a&gt; or from the &lt;a href=&#34;#come-to-the-mandelbrot-room&#34;&gt;Mandelbrot room in the Digiteo Saclay building&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;Thomas Padioleau will give a talk entitled &amp;ldquo;DDC, a performance portable library abstracting Computation on Discrete Domains&amp;rdquo;&lt;/p&gt;
@@ -539,9 +544,9 @@ Feel free to contact us to propose a talk: &lt;a href=&#34;mailto:contact@cexa-p
     
     <item>
       <title>27 Nov. 2023: First CExA coffee</title>
-      <link>https://cexa-project.org/news/first-cexa-coffee/</link>
+      <link>https://cexa-project.org/news/2023-11-27-first-cexa-coffee/</link>
       <pubDate>Tue, 21 Nov 2023 00:00:00 +0000</pubDate>
-      <guid>https://cexa-project.org/news/first-cexa-coffee/</guid>
+      <guid>https://cexa-project.org/news/2023-11-27-first-cexa-coffee/</guid>
       <description>&lt;p&gt;Our first &lt;strong&gt;CExA virtual coffee&lt;/strong&gt; will take place on Monday, November the 27th, 2023 starting at 1PM.
 It can be followed on &lt;a href=&#34;https://cnrs.zoom.us/j/97834891802?pwd=NXhzd2paY051S3dQekVQVllvTW5MUT09&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Zoom&lt;/a&gt;, by &lt;a href=&#34;#by-phone&#34;&gt;phone&lt;/a&gt;, from &lt;a href=&#34;#from-a-visio-room&#34;&gt;a visio room&lt;/a&gt; or from the &lt;a href=&#34;#come-to-the-mandelbrot-room&#34;&gt;Mandelbrot room in the Digiteo Saclay building&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;Baptiste Legouix will give a talk entitled &amp;ldquo;Performance portable Fourier &amp;amp; Spline transforms for Vlasov-Poisson numerical solve&amp;rdquo;&lt;/p&gt;
@@ -782,10 +787,10 @@ Le nouvel &lt;a href=&#34;https://programmes-i.extra.cea.fr/Phocea/Page/index.ph
     </item>
     
     <item>
-      <title>CExA coffee</title>
-      <link>https://cexa-project.org/news/cexa-coffees/</link>
+      <title>CExA coffees</title>
+      <link>https://cexa-project.org/news/2023-11-19-cexa-coffees/</link>
       <pubDate>Sun, 19 Nov 2023 00:00:00 +0000</pubDate>
-      <guid>https://cexa-project.org/news/cexa-coffees/</guid>
+      <guid>https://cexa-project.org/news/2023-11-19-cexa-coffees/</guid>
       <description>&lt;h1 id=&#34;café-cexa&#34;&gt;Café CExA&lt;/h1&gt;
 &lt;p&gt;Le projet CExA met en place un &lt;strong&gt;café virtuel CExA&lt;/strong&gt; qui aura lieu les lundi entre 13h00 et 14h.
 Il s&amp;rsquo;agit d&amp;rsquo;une présentation informelle accessible en visio suivi d&amp;rsquo;un moment d&amp;rsquo;échange.
@@ -958,9 +963,9 @@ Pour ceux qui ne peuvent pas se déplacer sur Saclay, nous sommes joignable sur 
     
     <item>
       <title>Kokkos training</title>
-      <link>https://cexa-project.org/news/2023-07-27-kokkos-training/</link>
-      <pubDate>Thu, 27 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>https://cexa-project.org/news/2023-07-27-kokkos-training/</guid>
+      <link>https://cexa-project.org/news/2023-09-20-kokkos-training/</link>
+      <pubDate>Wed, 20 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>https://cexa-project.org/news/2023-09-20-kokkos-training/</guid>
       <description>&lt;p&gt;CExA organises a 3-days Kokkos training from the 20 to the 22 of Septembre in
 Saclay provided by Kokkos lead developers
 &lt;a href=&#34;https://extremecomputingtraining.anl.gov/speakers/christian-trott-snl/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Cristian Trott&lt;/a&gt;
@@ -988,9 +993,9 @@ days 2 and 3.&lt;/li&gt;
     
     <item>
       <title>CExA Kick-off</title>
-      <link>https://cexa-project.org/news/2023-06-01-kickoff/</link>
-      <pubDate>Thu, 01 Jun 2023 00:00:00 +0000</pubDate>
-      <guid>https://cexa-project.org/news/2023-06-01-kickoff/</guid>
+      <link>https://cexa-project.org/news/2023-09-19-kickoff/</link>
+      <pubDate>Tue, 19 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>https://cexa-project.org/news/2023-09-19-kickoff/</guid>
       <description>&lt;p&gt;CExA will hold its kick-off in Neurospin Amphitheatre on the 19th of Septembre.&lt;/p&gt;
 &lt;p&gt;If you have always dreamt to start with GPU computing or if you are a Kokkos user and have hit bumps on the road and wonder how CExA can help you, this is the day for you.
 This presentation day will be an opportunity to get to know CExA and its environment better.&lt;/p&gt;
