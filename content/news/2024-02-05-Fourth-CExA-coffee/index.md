@@ -2,12 +2,20 @@
 title: "5 Feb. 2024: Fourth CExA coffee"
 subtitle: "Kokkos, what's new?"
 date: 2024-02-01
+links:
+  - icon_pack: fas
+    icon: file-pdf
+    name: Get the slides
+    url: 'https://github.com/kokkos/kokkos-tutorials/blob/main/Other/ReleaseBriefings/release-42.pdf'
+    cta_new_tab: true
 ---
 
 CExA organizes its fourth **CExA virtual coffee** on Monday, February the 5th, 2024 starting at 1PM.
 It can be followed on [Zoom](https://cnrs.zoom.us/j/97834891802?pwd=NXhzd2paY051S3dQekVQVllvTW5MUT09), by [phone]({{< ref "#by-phone" >}}), from [a visio room]({{< ref "#from-a-visio-room" >}}) or from the [Mandelbrot room in the Digiteo Saclay building]({{< ref "#come-to-the-mandelbrot-room" >}}).
 
-Cedric Chevalier will give a talk entitled "Kokkos, what's new?"
+Cedric Chevalier will give a talk entitled "Kokkos, what's new?" presenting the slides from the Kokkos team release briefing.
+
+{{< cta cta_text="Get the slides" cta_link="https://github.com/kokkos/kokkos-tutorials/blob/main/Other/ReleaseBriefings/release-42.pdf" cta_new_tab="true" >}}
 
 
 ## Contribute
