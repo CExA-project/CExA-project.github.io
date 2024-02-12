@@ -5,12 +5,185 @@
     <link>https://cexa-project.org/</link>
       <atom:link href="https://cexa-project.org/index.xml" rel="self" type="application/rss+xml" />
     <description>CExA</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Feb 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 12 Feb 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://cexa-project.org/media/logo_hu0d509a71bcfd6f2083d4dedfba6d0aaf_150988_300x300_fit_lanczos_3.png</url>
       <title>CExA</title>
       <link>https://cexa-project.org/</link>
     </image>
+    
+    <item>
+      <title>19 Feb. 2024: Fifth CExA coffee</title>
+      <link>https://cexa-project.org/news/2024-02-19-fifth-cexa-coffee/</link>
+      <pubDate>Mon, 12 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>https://cexa-project.org/news/2024-02-19-fifth-cexa-coffee/</guid>
+      <description>&lt;p&gt;CExA organizes its fifth &lt;strong&gt;CExA virtual coffee&lt;/strong&gt; on Monday, February the 19th, 2024 starting at 1PM.
+It can be followed on &lt;a href=&#34;https://cnrs.zoom.us/j/97834891802?pwd=NXhzd2paY051S3dQekVQVllvTW5MUT09&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Zoom&lt;/a&gt;, by &lt;a href=&#34;#by-phone&#34;&gt;phone&lt;/a&gt;, from &lt;a href=&#34;#from-a-visio-room&#34;&gt;a visio room&lt;/a&gt; or from the &lt;a href=&#34;#come-to-the-mandelbrot-room&#34;&gt;Mandelbrot room in the Digiteo Saclay building&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Francesco Rizzi will give a talk entitled &amp;ldquo;Implementing the C++ std algorithms library in Kokkos: an overview of the main challenges, API differences and some implementation details&amp;rdquo;&lt;/p&gt;
+&lt;h2 id=&#34;implementing-the-c-std-algorithms-library-in-kokkos-an-overview-of-the-main-challenges-api-differences-and-some-implementation-details&#34;&gt;Implementing the C++ std algorithms library in Kokkos: an overview of the main challenges, API differences and some implementation details&lt;/h2&gt;
+&lt;p&gt;The C++ standard algorithms library is a collection of free functions for a variety of purposes, e.g., sorting, searching, etc. It has become a key component of the C++ standard library, with one of its main advantages being a declarative and expressive API. This API, based only on iterators before C++20, has now been extended with the introduction of ranges in C++20.
+In this talk, I will discuss the main challenges of implementing and adapting the std algorithms for the Kokkos programming model.&lt;/p&gt;
+&lt;h2 id=&#34;contribute&#34;&gt;Contribute&lt;/h2&gt;
+&lt;p&gt;Any subject is welcome if it is related to the Kokkos ecosystem (developments, usage, projects, issues, etc.) or even to GPU programming at large.
+Feel free to contact us to propose a talk: &lt;a href=&#34;mailto:contact@cexa-project.org&#34;&gt;contact@cexa-project.org&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;We target very informal discussion in French or English. You can propose any subject for discussion even if you don&amp;rsquo;t have a dedicated slide deck.&lt;/p&gt;
+&lt;h2 id=&#34;additional-info&#34;&gt;Additional info&lt;/h2&gt;
+&lt;h3 id=&#34;join-us-physically-in-the-mandelbrot-room&#34;&gt;Join us physically in the Mandelbrot room&lt;/h3&gt;
+&lt;p&gt;The Mandelbrot room of &lt;a href=&#34;https://maps.app.goo.gl/dWmfDSAyc6TLkrnC9&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Digiteo Saclay building&lt;/a&gt; is in Saclay center, near the Orphée entrance.&lt;/p&gt;
+&lt;iframe src=&#34;https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2631.8449189785!2d2.15407651328232!3d48.72755487119501!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47e67f3d6ca35351%3A0xad658a7f81b4a1fe!2sMaison%20de%20la%20Simulation!5e0!3m2!1sen!2sfr!4v1690451425962!5m2!1sen!2sfr&#34; width=&#34;600&#34; height=&#34;450&#34; style=&#34;border:0;&#34; allowfullscreen=&#34;&#34; loading=&#34;lazy&#34; referrerpolicy=&#34;no-referrer-when-downgrade&#34;&gt;&lt;/iframe&gt;
+&lt;h3 id=&#34;zoom-link&#34;&gt;Zoom link&lt;/h3&gt;
+&lt;p&gt;In a web browser or from the application.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://cnrs.zoom.us/j/97834891802?pwd=NXhzd2paY051S3dQekVQVllvTW5MUT09&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://cnrs.zoom.us/j/97834891802?pwd=NXhzd2paY051S3dQekVQVllvTW5MUT09&lt;/a&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Meeting ID: 978 3489 1802&lt;/li&gt;
+&lt;li&gt;Passcode: VdCL7d&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;from-a-visio-room&#34;&gt;From a visio room&lt;/h3&gt;
+&lt;h4 id=&#34;in-sip&#34;&gt;in SIP&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;mailto:97834891802@zoomcrc.com&#34;&gt;97834891802@zoomcrc.com&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;in-h323&#34;&gt;in H.323&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;162.255.37.11 (US West)&lt;/li&gt;
+&lt;li&gt;162.255.36.11 (US East)&lt;/li&gt;
+&lt;li&gt;213.19.144.110 (Amsterdam Netherlands)&lt;/li&gt;
+&lt;li&gt;213.244.140.110 (Germany)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Meeting ID: 978 3489 1802&lt;/p&gt;
+&lt;p&gt;Passcode: 712542&lt;/p&gt;
+&lt;h3 id=&#34;one-tap-mobile&#34;&gt;One tap mobile&lt;/h3&gt;
+&lt;p&gt;+33170950350,,97834891802#,,,,*712542# France
++33186995831,,97834891802#,,,,*712542# France&lt;/p&gt;
+&lt;h3 id=&#34;by-phone&#34;&gt;By phone&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Meeting ID: 978 3489 1802&lt;/li&gt;
+&lt;li&gt;Passcode: 712542&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Dial by your location&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;+33 1 7095 0350 France&lt;/li&gt;
+&lt;li&gt;+33 1 8699 5831 France&lt;/li&gt;
+&lt;li&gt;+33 1 7037 2246 France&lt;/li&gt;
+&lt;li&gt;+33 1 7037 9729 France&lt;/li&gt;
+&lt;li&gt;+33 1 7095 0103 France&lt;/li&gt;
+&lt;li&gt;+34 91 787 0058 Spain&lt;/li&gt;
+&lt;li&gt;+34 917 873 431 Spain&lt;/li&gt;
+&lt;li&gt;+34 84 368 5025 Spain&lt;/li&gt;
+&lt;li&gt;+358 9 4245 1488 Finland&lt;/li&gt;
+&lt;li&gt;+358 9 7252 2471 Finland&lt;/li&gt;
+&lt;li&gt;+358 3 4109 2129 Finland&lt;/li&gt;
+&lt;li&gt;+372 660 1699 Estonia&lt;/li&gt;
+&lt;li&gt;+372 880 1188 Estonia&lt;/li&gt;
+&lt;li&gt;+36 1 701 0488 Hungary&lt;/li&gt;
+&lt;li&gt;+36 1 779 9126 Hungary&lt;/li&gt;
+&lt;li&gt;+36 1 408 8456 Hungary&lt;/li&gt;
+&lt;li&gt;+353 1 653 3898 Ireland&lt;/li&gt;
+&lt;li&gt;+353 6 163 9031 Ireland&lt;/li&gt;
+&lt;li&gt;+353 1 240 8941 Ireland&lt;/li&gt;
+&lt;li&gt;+353 1 536 9320 Ireland&lt;/li&gt;
+&lt;li&gt;+353 1 653 3895 Ireland&lt;/li&gt;
+&lt;li&gt;+353 1 653 3897 Ireland&lt;/li&gt;
+&lt;li&gt;+39 021 241 28 823 Italy&lt;/li&gt;
+&lt;li&gt;+39 069 480 6488 Italy&lt;/li&gt;
+&lt;li&gt;+39 020 066 7245 Italy&lt;/li&gt;
+&lt;li&gt;+371 6303 1808 Latvia&lt;/li&gt;
+&lt;li&gt;+371 6303 1888 Latvia&lt;/li&gt;
+&lt;li&gt;+370 3799 9260 Lithuania&lt;/li&gt;
+&lt;li&gt;+370 5214 1488 Lithuania&lt;/li&gt;
+&lt;li&gt;+352 2786 4277 Luxembourg&lt;/li&gt;
+&lt;li&gt;+352 342 080 9265 Luxembourg&lt;/li&gt;
+&lt;li&gt;+352 2786 1188 Luxembourg&lt;/li&gt;
+&lt;li&gt;+49 695 050 2596 Germany&lt;/li&gt;
+&lt;li&gt;+49 69 7104 9922 Germany&lt;/li&gt;
+&lt;li&gt;+49 69 3807 9883 Germany&lt;/li&gt;
+&lt;li&gt;+49 69 3807 9884 Germany&lt;/li&gt;
+&lt;li&gt;+49 69 5050 0951 Germany&lt;/li&gt;
+&lt;li&gt;+49 69 5050 0952 Germany&lt;/li&gt;
+&lt;li&gt;+43 670 309 0165 Austria&lt;/li&gt;
+&lt;li&gt;+43 72 011 5988 Austria&lt;/li&gt;
+&lt;li&gt;+43 120 609 3072 Austria&lt;/li&gt;
+&lt;li&gt;+43 12 535 501 Austria&lt;/li&gt;
+&lt;li&gt;+43 12 535 502 Austria&lt;/li&gt;
+&lt;li&gt;+32 2 788 0172 Belgium&lt;/li&gt;
+&lt;li&gt;+32 2 788 0173 Belgium&lt;/li&gt;
+&lt;li&gt;+32 1579 5132 Belgium&lt;/li&gt;
+&lt;li&gt;+32 2 290 9360 Belgium&lt;/li&gt;
+&lt;li&gt;+32 2 585 5574 Belgium&lt;/li&gt;
+&lt;li&gt;+32 2 588 4188 Belgium&lt;/li&gt;
+&lt;li&gt;+359 2 492 5688 Bulgaria&lt;/li&gt;
+&lt;li&gt;+359 3 257 1633 Bulgaria&lt;/li&gt;
+&lt;li&gt;+385 1300 0988 Croatia&lt;/li&gt;
+&lt;li&gt;+385 1777 6333 Croatia&lt;/li&gt;
+&lt;li&gt;+45 47 37 25 75 Denmark&lt;/li&gt;
+&lt;li&gt;+45 89 88 37 88 Denmark&lt;/li&gt;
+&lt;li&gt;+45 32 70 12 06 Denmark&lt;/li&gt;
+&lt;li&gt;+45 32 71 31 57 Denmark&lt;/li&gt;
+&lt;li&gt;+45 32 72 80 10 Denmark&lt;/li&gt;
+&lt;li&gt;+45 32 72 80 11 Denmark&lt;/li&gt;
+&lt;li&gt;+30 211 198 4488 Greece&lt;/li&gt;
+&lt;li&gt;+30 231 118 0599 Greece&lt;/li&gt;
+&lt;li&gt;+47 2400 4735 Norway&lt;/li&gt;
+&lt;li&gt;+47 2400 4736 Norway&lt;/li&gt;
+&lt;li&gt;+31 20 794 7345 Netherlands&lt;/li&gt;
+&lt;li&gt;+31 707 006 526 Netherlands&lt;/li&gt;
+&lt;li&gt;+31 20 241 0288 Netherlands&lt;/li&gt;
+&lt;li&gt;+31 20 794 0854 Netherlands&lt;/li&gt;
+&lt;li&gt;+31 20 794 6519 Netherlands&lt;/li&gt;
+&lt;li&gt;+31 20 794 6520 Netherlands&lt;/li&gt;
+&lt;li&gt;+48 22 307 3488 Poland&lt;/li&gt;
+&lt;li&gt;+48 22 398 7356 Poland&lt;/li&gt;
+&lt;li&gt;+48 22 306 5342 Poland&lt;/li&gt;
+&lt;li&gt;+351 308 804 188 Portugal&lt;/li&gt;
+&lt;li&gt;+351 308 810 988 Portugal&lt;/li&gt;
+&lt;li&gt;+351 211 202 618 Portugal&lt;/li&gt;
+&lt;li&gt;+40 31 630 1088 Romania&lt;/li&gt;
+&lt;li&gt;+40 37 170 0418 Romania&lt;/li&gt;
+&lt;li&gt;+44 203 901 7895 United Kingdom&lt;/li&gt;
+&lt;li&gt;+44 208 080 6591 United Kingdom&lt;/li&gt;
+&lt;li&gt;+44 208 080 6592 United Kingdom&lt;/li&gt;
+&lt;li&gt;+44 330 088 5830 United Kingdom&lt;/li&gt;
+&lt;li&gt;+44 131 460 1196 United Kingdom&lt;/li&gt;
+&lt;li&gt;+44 203 481 5237 United Kingdom&lt;/li&gt;
+&lt;li&gt;+44 203 481 5240 United Kingdom&lt;/li&gt;
+&lt;li&gt;+7 499 951 6379 Russia&lt;/li&gt;
+&lt;li&gt;+7 499 951 6380 Russia&lt;/li&gt;
+&lt;li&gt;+420 2 3901 8272 Czech Republic&lt;/li&gt;
+&lt;li&gt;+420 5 3889 0161 Czech Republic&lt;/li&gt;
+&lt;li&gt;+420 2 2888 2388 Czech Republic&lt;/li&gt;
+&lt;li&gt;+41 43 210 71 08 Switzerland&lt;/li&gt;
+&lt;li&gt;+41 44 529 92 72 Switzerland&lt;/li&gt;
+&lt;li&gt;+41 22 591 00 05 Switzerland&lt;/li&gt;
+&lt;li&gt;+41 22 591 01 56 Switzerland&lt;/li&gt;
+&lt;li&gt;+41 31 528 09 88 Switzerland&lt;/li&gt;
+&lt;li&gt;+41 43 210 70 42 Switzerland&lt;/li&gt;
+&lt;li&gt;+46 8 5052 0017 Sweden&lt;/li&gt;
+&lt;li&gt;+46 850 539 728 Sweden&lt;/li&gt;
+&lt;li&gt;+46 8 4468 2488 Sweden&lt;/li&gt;
+&lt;li&gt;+46 8 5016 3827 Sweden&lt;/li&gt;
+&lt;li&gt;+46 8 5050 0828 Sweden&lt;/li&gt;
+&lt;li&gt;+46 8 5050 0829 Sweden&lt;/li&gt;
+&lt;li&gt;+1 564 217 2000 US&lt;/li&gt;
+&lt;li&gt;+1 646 931 3860 US&lt;/li&gt;
+&lt;li&gt;+1 669 444 9171 US&lt;/li&gt;
+&lt;li&gt;+1 669 900 6833 US (San Jose)&lt;/li&gt;
+&lt;li&gt;+1 689 278 1000 US&lt;/li&gt;
+&lt;li&gt;+1 719 359 4580 US&lt;/li&gt;
+&lt;li&gt;+1 929 205 6099 US (New York)&lt;/li&gt;
+&lt;li&gt;+1 253 205 0468 US&lt;/li&gt;
+&lt;li&gt;+1 253 215 8782 US (Tacoma)&lt;/li&gt;
+&lt;li&gt;+1 301 715 8592 US (Washington DC)&lt;/li&gt;
+&lt;li&gt;+1 305 224 1968 US&lt;/li&gt;
+&lt;li&gt;+1 309 205 3325 US&lt;/li&gt;
+&lt;li&gt;+1 312 626 6799 US (Chicago)&lt;/li&gt;
+&lt;li&gt;+1 346 248 7799 US (Houston)&lt;/li&gt;
+&lt;li&gt;+1 360 209 5623 US&lt;/li&gt;
+&lt;li&gt;+1 386 347 5053 US&lt;/li&gt;
+&lt;li&gt;+1 507 473 4847 US&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Find your local number: &lt;a href=&#34;https://cnrs.zoom.us/u/adb4LKJbkK&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://cnrs.zoom.us/u/adb4LKJbkK&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>5 Feb. 2024: Fourth CExA coffee</title>
@@ -25,7 +198,7 @@ It can be followed on &lt;a href=&#34;https://cnrs.zoom.us/j/97834891802?pwd=NXh
 &lt;ul class=&#34;cta-group&#34;&gt;
   
   &lt;li&gt;
-    &lt;a href=&#34;https://github.com/kokkos/kokkos-tutorials/blob/main/Other/ReleaseBriefings/release-42.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34; class=&#34;btn btn-primary px-3 py-3&#34;&gt;Get the slides&lt;/a&gt;
+    &lt;a href=&#34;https://raw.githubusercontent.com/kokkos/kokkos-tutorials/main/Other/ReleaseBriefings/release-42.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34; class=&#34;btn btn-primary px-3 py-3&#34;&gt;Get the slides&lt;/a&gt;
   &lt;/li&gt;
   
   
