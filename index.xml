@@ -23,6 +23,17 @@ It can be followed on &lt;a href=&#34;https://cnrs.zoom.us/j/97834891802?pwd=NXh
 &lt;h2 id=&#34;implementing-the-c-std-algorithms-library-in-kokkos-an-overview-of-the-main-challenges-api-differences-and-some-implementation-details&#34;&gt;Implementing the C++ std algorithms library in Kokkos: an overview of the main challenges, API differences and some implementation details&lt;/h2&gt;
 &lt;p&gt;The C++ standard algorithms library is a collection of free functions for a variety of purposes, e.g., sorting, searching, etc. It has become a key component of the C++ standard library, with one of its main advantages being a declarative and expressive API. This API, based only on iterators before C++20, has now been extended with the introduction of ranges in C++20.
 In this talk, I will discuss the main challenges of implementing and adapting the std algorithms for the Kokkos programming model.&lt;/p&gt;
+
+
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;kokkos-algorithms.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34; class=&#34;btn btn-primary px-3 py-3&#34;&gt;Get the slides&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+&lt;/ul&gt;
+
 &lt;h2 id=&#34;contribute&#34;&gt;Contribute&lt;/h2&gt;
 &lt;p&gt;Any subject is welcome if it is related to the Kokkos ecosystem (developments, usage, projects, issues, etc.) or even to GPU programming at large.
 Feel free to contact us to propose a talk: &lt;a href=&#34;mailto:contact@cexa-project.org&#34;&gt;contact@cexa-project.org&lt;/a&gt;&lt;/p&gt;
