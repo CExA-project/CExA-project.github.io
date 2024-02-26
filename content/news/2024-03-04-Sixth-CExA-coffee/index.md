@@ -1,5 +1,5 @@
 ---
-title: "Mar. the 4th 2024: Sixth CExA coffee"
+title: "4 Mar. 2024: Sixth CExA coffee"
 subtitle: "Thor, a performance portability library in support of future aerothermodynamics simulation software"
 date: 2024-02-26
 ---
