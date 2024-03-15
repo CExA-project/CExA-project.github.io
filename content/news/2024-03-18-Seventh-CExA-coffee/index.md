@@ -1,6 +1,7 @@
 ---
 title: "18 Mar. 2024: Seventh CExA coffee"
 subtitle: "Kokkos-FFT, a newcomer library in the Kokkos ecosystem"
+date: 2024-03-15
 ---
 
 CExA organizes its Seventh **CExA virtual coffee** on Monday, March the 18th, 2024 starting at 1PM.
