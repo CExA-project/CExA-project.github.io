@@ -2,6 +2,12 @@
 title: "4 Mar. 2024: Sixth CExA coffee"
 subtitle: "Thor, a performance portability library in support of future aerothermodynamics simulation software"
 date: 2024-02-26
+links:
+  - icon_pack: fas
+    icon: file-pdf
+    name: Get the slides
+    url: 'cexa_2023_03_04.pdf'
+    cta_new_tab: true
 ---
 
 CExA organizes its Sixth **CExA virtual coffee** on Monday, March the 4th, 2024 starting at 1PM.
@@ -12,6 +18,8 @@ Benjamin Fovet will give a talk entitled "Thor, a performance portability librar
 ## Thor, a performance portability library in support of future aerothermodynamics simulation software
 
 The scope of the Thor project is, to anticipate future needs for an unstructured aerodynamics code at CEA/CESTA, to share developments in a library providing the features needed by developers. One major feature is performance portability, enabled by Kokkos.
+
+{{< cta cta_text="Get the slides" cta_link="cexa_2023_03_04.pdf" cta_new_tab="true" >}}
 
 
 ## Contribute
