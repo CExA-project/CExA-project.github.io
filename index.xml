@@ -192,6 +192,17 @@ It can be followed on &lt;a href=&#34;https://cnrs.zoom.us/j/97834891802?pwd=NXh
 &lt;p&gt;Benjamin Fovet will give a talk entitled &amp;ldquo;Thor, a performance portability library in support of future aerothermodynamics simulation software&amp;rdquo;&lt;/p&gt;
 &lt;h2 id=&#34;thor-a-performance-portability-library-in-support-of-future-aerothermodynamics-simulation-software&#34;&gt;Thor, a performance portability library in support of future aerothermodynamics simulation software&lt;/h2&gt;
 &lt;p&gt;The scope of the Thor project is, to anticipate future needs for an unstructured aerodynamics code at CEA/CESTA, to share developments in a library providing the features needed by developers. One major feature is performance portability, enabled by Kokkos.&lt;/p&gt;
+
+
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;cexa_2023_03_04.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34; class=&#34;btn btn-primary px-3 py-3&#34;&gt;Get the slides&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+&lt;/ul&gt;
+
 &lt;h2 id=&#34;contribute&#34;&gt;Contribute&lt;/h2&gt;
 &lt;p&gt;Any subject is welcome if it is related to the Kokkos ecosystem (developments, usage, projects, issues, etc.) or even to GPU programming at large.
 Feel free to contact us to propose a talk: &lt;a href=&#34;mailto:contact@cexa-project.org&#34;&gt;contact@cexa-project.org&lt;/a&gt;&lt;/p&gt;
