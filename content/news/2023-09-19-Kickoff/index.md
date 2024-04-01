@@ -7,7 +7,7 @@ links:
   - icon_pack: fas
     icon: file-pdf
     name: Get the slides
-    url: '/news/2023-06-01-kickoff/#presentations'
+    url: '/news/2023-09-19-kickoff/#presentations'
     cta_new_tab: true
 ---
 
