@@ -16,7 +16,7 @@ jobs:
       - name: Build site
         run: |
           rm -rf public/*
-          docker run -i -v "$(pwd):/src" klakegg/hugo:0.101.0-ext-alpine-ci
+          docker run -i -v "$(pwd):/src" floryn90/hugo:0.120.3-ext-alpine-ci
       - name: Deploy site
         run: |
           cd public
