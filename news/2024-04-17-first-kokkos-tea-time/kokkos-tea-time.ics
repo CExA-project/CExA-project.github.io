@@ -1,0 +1,133 @@
+BEGIN:VCALENDAR
+PRODID:-//K Desktop Environment//NONSGML KOrganizer 5.22.3 (22.12.3)//EN
+VERSION:2.0
+X-KDE-ICAL-IMPLEMENTATION-VERSION:1.0
+METHOD:REQUEST
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+BEGIN:DAYLIGHT
+TZNAME:CEST
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0200
+DTSTART:19760328T000000
+RDATE:19760328T000000
+END:DAYLIGHT
+BEGIN:STANDARD
+TZNAME:CET
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+DTSTART:19790930T030000
+RRULE:FREQ=YEARLY;UNTIL=19961027T030000;BYDAY=-1SU;BYMONTH=9
+END:STANDARD
+BEGIN:STANDARD
+TZNAME:CET
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+DTSTART:19971026T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+END:STANDARD
+BEGIN:STANDARD
+TZNAME:CET
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+DTSTART:19760926T010000
+RDATE:19760926T010000
+RDATE:19770925T030000
+RDATE:19781001T030000
+RDATE:19950924T030000
+END:STANDARD
+BEGIN:DAYLIGHT
+TZNAME:CEST
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+DTSTART:19810329T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+TZNAME:CEST
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+DTSTART:19770403T020000
+RDATE:19770403T020000
+RDATE:19780402T020000
+RDATE:19790401T020000
+RDATE:19800406T020000
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+ORGANIZER;CN=Julien Bigot:MAILTO:julien@julien-bigot.fr
+DTSTAMP:20240411T150928Z
+CREATED:20240411T150736Z
+UID:6f3c11bc-366c-46f2-8a7a-d876f920944a
+LAST-MODIFIED:20240411T150859Z
+DESCRIPTION:# Join us physically in the Mandelbrot room\n\nThe Mandelbrot 
+ room of Digiteo Saclay building ( https:
+ //maps.app.goo.gl/dWmfDSAyc6TLkrnC9 ) is in Saclay center\, near the 
+ Orphée entrance.\n\n\n# Zoom link\n\nIn a web browser or from the 
+ application.\n\nhttps:
+ //cnrs.zoom.us/j/97834891802?pwd=NXhzd2paY051S3dQekVQVllvTW5MUT09\n* 
+ Meeting ID: 978 3489 1802\n* Passcode: VdCL7d\n\n\n# From a visio 
+ room\n\n## in SIP\n* 97834891802@zoomcrc.com\n\n## in H.323\n* 
+ 213.244.140.110 (Germany)\n* 213.19.144.110 (Amsterdam Netherlands)\n* 
+ 162.255.37.11 (US West)\n* 162.255.36.11 (US East)\n\nMeeting ID: 978 
+ 3489 1802\n\nPasscode: 712542\n\n\n#  One tap 
+ mobile\n\n+33170950350\,\,97834891802#\,\,\,\,*712542# 
+ France\n+33186995831\,\,97834891802#\,\,\,\,*712542# France\n\n\n# By 
+ phone\n\n* Meeting ID: 978 3489 1802\n* Passcode: 712542\n* Find your 
+ local number: https://cnrs.zoom.us/u/adb4LKJbkK\n\nDial by your 
+ location\n* +33 1 7095 0350 France\n* +33 1 8699 5831 France\n* +33 1 
+ 7037 2246 France\n* +33 1 7037 9729 France\n* +33 1 7095 0103 France\n* 
+ +34 91 787 0058 Spain\n* +34 917 873 431 Spain\n* +34 84 368 5025 
+ Spain\n* +358 9 4245 1488 Finland\n* +358 9 7252 2471 Finland\n* +358 3 
+ 4109 2129 Finland\n* +372 660 1699 Estonia\n* +372 880 1188 Estonia\n* 
+ +36 1 701 0488 Hungary\n* +36 1 779 9126 Hungary\n* +36 1 408 8456 
+ Hungary\n* +353 1 653 3898 Ireland\n* +353 6 163 9031 Ireland\n* +353 1 
+ 240 8941 Ireland\n* +353 1 536 9320 Ireland\n* +353 1 653 3895 Ireland\n* 
+ +353 1 653 3897 Ireland\n* +39 021 241 28 823 Italy\n* +39 069 480 6488 
+ Italy\n* +39 020 066 7245 Italy\n* +371 6303 1808 Latvia\n* +371 6303 
+ 1888 Latvia\n* +370 3799 9260 Lithuania\n* +370 5214 1488 Lithuania\n* 
+ +352 2786 4277 Luxembourg\n* +352 342 080 9265 Luxembourg\n* +352 2786 
+ 1188 Luxembourg\n* +49 695 050 2596 Germany\n* +49 69 7104 9922 
+ Germany\n* +49 69 3807 9883 Germany\n* +49 69 3807 9884 Germany\n* +49 69 
+ 5050 0951 Germany\n* +49 69 5050 0952 Germany\n* +43 670 309 0165 
+ Austria\n* +43 72 011 5988 Austria\n* +43 120 609 3072 Austria\n* +43 12 
+ 535 501 Austria\n* +43 12 535 502 Austria\n* +32 2 788 0172 Belgium\n* 
+ +32 2 788 0173 Belgium\n* +32 1579 5132 Belgium\n* +32 2 290 9360 
+ Belgium\n* +32 2 585 5574 Belgium\n* +32 2 588 4188 Belgium\n* +359 2 492 
+ 5688 Bulgaria\n* +359 3 257 1633 Bulgaria\n* +385 1300 0988 Croatia\n* 
+ +385 1777 6333 Croatia\n* +45 47 37 25 75 Denmark\n* +45 89 88 37 88 
+ Denmark\n* +45 32 70 12 06 Denmark\n* +45 32 71 31 57 Denmark\n* +45 32 
+ 72 80 10 Denmark\n* +45 32 72 80 11 Denmark\n* +30 211 198 4488 Greece\n* 
+ +30 231 118 0599 Greece\n* +47 2400 4735 Norway\n* +47 2400 4736 
+ Norway\n* +31 20 794 7345 Netherlands\n* +31 707 006 526 Netherlands\n* 
+ +31 20 241 0288 Netherlands\n* +31 20 794 0854 Netherlands\n* +31 20 794 
+ 6519 Netherlands\n* +31 20 794 6520 Netherlands\n* +48 22 307 3488 
+ Poland\n* +48 22 398 7356 Poland\n* +48 22 306 5342 Poland\n* +351 308 
+ 804 188 Portugal\n* +351 308 810 988 Portugal\n* +351 211 202 618 
+ Portugal\n* +40 31 630 1088 Romania\n* +40 37 170 0418 Romania\n* +44 203 
+ 901 7895 United Kingdom\n* +44 208 080 6591 United Kingdom\n* +44 208 080 
+ 6592 United Kingdom\n* +44 330 088 5830 United Kingdom\n* +44 131 460 
+ 1196 United Kingdom\n* +44 203 481 5237 United Kingdom\n* +44 203 481 
+ 5240 United Kingdom\n* +7 499 951 6379 Russia\n* +7 499 951 6380 
+ Russia\n* +420 2 3901 8272 Czech Republic\n* +420 5 3889 0161 Czech 
+ Republic\n* +420 2 2888 2388 Czech Republic\n* +41 43 210 71 08 
+ Switzerland\n* +41 44 529 92 72 Switzerland\n* +41 22 591 00 05 
+ Switzerland\n* +41 22 591 01 56 Switzerland\n* +41 31 528 09 88 
+ Switzerland\n* +41 43 210 70 42 Switzerland\n* +46 8 5052 0017 Sweden\n* 
+ +46 850 539 728 Sweden\n* +46 8 4468 2488 Sweden\n* +46 8 5016 3827 
+ Sweden\n* +46 8 5050 0828 Sweden\n* +46 8 5050 0829 Sweden\n* +1 564 217 
+ 2000 US\n* +1 646 931 3860 US\n* +1 669 444 9171 US\n* +1 669 900 6833 US 
+ (San Jose)\n* +1 689 278 1000 US\n* +1 719 359 4580 US\n* +1 929 205 6099 
+ US (New York)\n* +1 253 205 0468 US\n* +1 253 215 8782 US (Tacoma)\n* +1 
+ 301 715 8592 US (Washington DC)\n* +1 305 224 1968 US\n* +1 309 205 3325 
+ US\n* +1 312 626 6799 US (Chicago)\n* +1 346 248 7799 US (Houston)\n* +1 
+ 360 209 5623 US\n* +1 386 347 5053 US\n* +1 507 473 4847 US
+SUMMARY:Kokkos tea-time
+LOCATION:https:
+ //cnrs.zoom.us/j/97834891802?pwd=NXhzd2paY051S3dQekVQVllvTW5MUT09
+RRULE:FREQ=MONTHLY;BYDAY=3WE
+DTSTART;TZID=Europe/Paris:20240417T160000
+DTEND;TZID=Europe/Paris:20240417T164500
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR
