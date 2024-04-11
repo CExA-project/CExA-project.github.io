@@ -7,7 +7,9 @@ SRC="${PWD}"
 export HUGO_VERSION="$(head -n 1 HUGO_VERSION|tr '\n' ' '|sed 's/\s//g')"
 
 finish() {
-  [ -d resources ] && rm -rf resources
+  if [ -d resources ]
+  then rm -rf resources
+  fi
 }
 trap finish EXIT QUIT ABRT KILL SEGV TERM STOP
 finish
