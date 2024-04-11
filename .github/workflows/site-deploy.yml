@@ -15,8 +15,9 @@ jobs:
           path: public
       - name: Build site
         run: |
+          HUGO_VERSION="$(head -n 1 HUGO_VERSION|tr '\n' ' '|sed 's/\s//g')"
           rm -rf public/*
-          docker run -i -v "$(pwd):/src" floryn90/hugo:0.120.3-ext-alpine-ci
+          docker run -i -v "$(pwd):/src" floryn90/hugo:${HUGO_VERSION}-ext-alpine-ci
       - name: Deploy site
         run: |
           cd public
