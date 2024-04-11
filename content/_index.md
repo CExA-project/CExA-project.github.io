@@ -9,7 +9,7 @@ sections:
       slides:
       - title: CEA project for GPU computing
         content: |
-          C**ExA** is a Moonshot project launched by CEA to adapt Kokkos to **your** needs and help **you** adopt it.
+          C**ExA** is a Moonshot project launched by [CEA](https://cea.fr/) to adapt [Kokkos](https://kokkos.org/) to **your** needs and help **you** adopt it.
         align: right
         background:
           image:
@@ -25,7 +25,7 @@ sections:
           url: '#section-markdown'
 
       - title: Discover CExA
-        content: 'A Kokkos-based platform for computing at Exascale!'
+        content: 'A [Kokkos](https://kokkos.org/)-based platform for computing at Exascale!'
         align: center
         background:
           image:
@@ -41,7 +41,7 @@ sections:
           url: ../presentation/
       - title: 👋 Join the team
         content: |
-          Come work with us, contribute to the Kokkos project, contribute to the future of C++ for GPU computing in CEA, France, Europe and in the world 🌎!
+          Come work with us, contribute to the [Kokkos](https://kokkos.org/) project, contribute to the future of C++ for GPU computing in [CEA](https://cea.fr/), France, Europe and in the world 🌎!
         align: left
         background:
           image:

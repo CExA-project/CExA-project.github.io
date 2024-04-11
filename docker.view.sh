@@ -1,5 +1,5 @@
 #!/bin/bash
-set -ex
+set -e
 
 cd "$(dirname "$0")"
 SRC="${PWD}"
@@ -14,4 +14,4 @@ finish() {
 trap finish EXIT QUIT ABRT KILL SEGV TERM STOP
 finish
 
-docker run -p 1313:1313 "-u$(id -u):$(id -g)" --rm -it -v "$(pwd):/src" floryn90/hugo:${HUGO_VERSION}-ext-alpine server --disableFastRender -p 1313 -b http://localhost:1313/
+docker run -p 1315:1315 "-u$(id -u):$(id -g)" --rm -it -v "$(pwd):/src" floryn90/hugo:${HUGO_VERSION}-ext-alpine server --disableFastRender -p 1315 -b http://localhost:1315/
