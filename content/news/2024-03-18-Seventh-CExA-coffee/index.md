@@ -2,12 +2,20 @@
 title: "18 Mar. 2024: Seventh CExA coffee"
 subtitle: "Kokkos-FFT, a newcomer library in the Kokkos ecosystem"
 date: 2024-03-15
+links:
+- icon_pack: fas
+  icon: file-pdf
+  name: Get the slides
+  url: '20240318_YA_Kokkos-FFT.pdf'
+  cta_new_tab: true
 ---
 
 CExA organizes its Seventh **CExA virtual coffee** on Monday, March the 18th, 2024 starting at 1PM.
 It can be followed on [Zoom](https://cnrs.zoom.us/j/97834891802?pwd=NXhzd2paY051S3dQekVQVllvTW5MUT09), by [phone]({{< ref "#by-phone" >}}), from [a visio room]({{< ref "#from-a-visio-room" >}}) or from the [Mandelbrot room in the Digiteo Saclay building]({{< ref "#come-to-the-mandelbrot-room" >}}).
 
 Yuuichi Asahi will give an informal presentation entitled "Kokkos-FFT, a newcomer library in the Kokkos ecosystem"
+
+{{< cta cta_text="Get the slides" cta_link="20240318_YA_Kokkos-FFT.pdf" cta_new_tab="true" >}}
 
 
 ## Contribute
