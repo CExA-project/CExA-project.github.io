@@ -71,18 +71,11 @@ sections:
       text: |
     design:
       columns: '1'
-  - block: markdown
-    content:
-      title: CExA in practice
-      subtitle: 
-      text: |
-    design:
-      columns: '1'
   - block: features
     content:
       title: Our demonstrators
-      subtitle: Section subtitle
-      text: Section text
+      subtitle:
+      text:
       items:
         - name: "[Gysela-X++](../gyselax)"
           description: Plasma physics
