@@ -22,6 +22,6 @@ sections:
         TrioCFD is the Computational Fluid Dynamics (CFD) code based on the TRUST platform. The code contains Front_Tracking, Radiation, ALE for fluid/structure interactions and Turbulence LES & RANS models.
         Both softwares are OpenSource (BSD license).
 
-        Examples of TrioCFD calculations:
-        {{< figure src="triocfd.png" width="33%" >}}
+        Some TrioCFD calculations:
+        {{< figure src="triocfd.png" width="100%" >}}
 ---
