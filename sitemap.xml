@@ -3,7 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://cexa-project.org/</loc>
-    <lastmod>2024-03-15T00:00:00+00:00</lastmod>
+    <lastmod>2034-05-03T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://cexa-project.org/news/</loc>
+    <lastmod>2034-05-03T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://cexa-project.org/news/2024-04-17-first-kokkos-tea-time/</loc>
@@ -11,10 +15,6 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://cexa-project.org/news/2024-03-18-seventh-cexa-coffee/</loc>
-    <lastmod>2024-03-15T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://cexa-project.org/news/</loc>
     <lastmod>2024-03-15T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
