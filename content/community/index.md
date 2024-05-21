@@ -14,6 +14,10 @@ sections:
         description: "contact@cexa-project.org"
         icon: envelope
         icon_pack: fas
+      - name: "[Mailing-list](https://lists.cexa-project.org/sympa/subscribe/network)"
+        description: "[Be notified of events](https://lists.cexa-project.org/sympa/subscribe/network)"
+        icon: envelope
+        icon_pack: fas
       - name: "[Slack](https://kokkosteam.slack.com/messages)"
         description: "[Join us on Kokkos slack](https://kokkosteam.slack.com/messages)"
         icon: slack
