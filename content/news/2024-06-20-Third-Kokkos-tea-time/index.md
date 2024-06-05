@@ -1,5 +1,5 @@
 ---
-title: "June 19th 2024: eighth CExA coffee"
+title: "June 19th 2024: third Kokkos tea-time"
 subtitle: "Kokkos MPI Interop for all"
 date: 2024-06-04
 links:
