@@ -627,6 +627,17 @@ It can be followed on &lt;a href=&#34;https://cnrs.zoom.us/j/97834891802?pwd=NXh
 &lt;/ul&gt;
 
 &lt;p&gt;Arnaud Durocher will give a talk entitled &amp;ldquo;Dyablo: A simulation code for astrophysics fluids with adaptive mesh refinement with Kokkos&amp;rdquo;&lt;/p&gt;
+
+
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;Dyablo_Kokkos-tea-time_17-04-24.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34; class=&#34;btn btn-primary px-3 py-3&#34;&gt;Get the slides&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+&lt;/ul&gt;
+
 &lt;h2 id=&#34;dyablo-a-simulation-code-for-astrophysics-fluids-with-adaptive-mesh-refinement-with-kokkos&#34;&gt;Dyablo: A simulation code for astrophysics fluids with adaptive mesh refinement with Kokkos&lt;/h2&gt;
 &lt;p&gt;&lt;em&gt;Arnaud Durocher, Maxime Delorme, CEA-Saclay, IRFU/DEDIP/LILAS&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;Dyablo is a new code for the simulation of astrophysical plasmas on exascale architectures using Adaptive Mesh Refinement. It is built from the ground up to target new and upcoming Exascale supercomputers with a new codebase in C++ using Kokkos. Dyablo is based on modern software engineering principles to allow &amp;ldquo;separation of concerns&amp;rdquo; and collaboration between HPC engineers and physicists through abstract interfaces and modularity. Although Dyablo is still in development, the code is now deployable and usable on all major (French) supercomputers.&lt;/p&gt;
