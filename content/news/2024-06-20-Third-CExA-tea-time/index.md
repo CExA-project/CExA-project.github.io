@@ -1,15 +1,22 @@
 ---
-title: "6 May 2024: eighth CExA coffee"
+title: "June 19th 2024: eighth CExA coffee"
 subtitle: "Kokkos MPI Interop for all"
-date: 2034-05-03
+date: 2024-06-04
+links:
+- icon_pack: fa
+  icon: calendar
+  name: Add to calendar
+  url: 'kokkos-tea-time.ics'
 ---
 
 {{< cta cta_text="Register to be notified about future events" cta_link="https://lists.cexa-project.org/sympa/subscribe/network" >}}
 
-CExA organizes its eighth **CExA virtual coffee** on Monday, May the 6th, 2024 starting at 1PM.
-It can be followed on [Zoom](https://cnrs.zoom.us/j/97834891802?pwd=NXhzd2paY051S3dQekVQVllvTW5MUT09), by [phone]({{< ref "#by-phone" >}}), from [a visio room]({{< ref "#from-a-visio-room" >}}) or from the [Mandelbrot room in the Digiteo Saclay building]({{< ref "#come-to-the-mandelbrot-room" >}}).
+CExA organizes its third international **Kokkos tea-time** on Wednesday, June the 19th, 2024 for 45min starting at 8AM MT, 10AM EST, 2PM UTC, 4PM CEST.
+It can be followed on [Zoom](https://cnrs.zoom.us/j/97834891802?pwd=NXhzd2paY051S3dQekVQVllvTW5MUT09), by [phone]({{< ref "#by-phone" >}}), from [a visio room]({{< ref "#from-a-visio-room" >}}) or from the [Mandelbrot room in the Digiteo Saclay building, France]({{< ref "#come-to-the-mandelbrot-room" >}}).
 
-Cédric Chevalier animate a discussion around the theme: "Kokkos MPI Interop for all"
+{{< cta cta_text="<i class='fa fa-calendar'></i>&nbsp; Add to calendar" cta_link="kokkos-tea-time.ics" >}}
+
+Cédric Chevalier will animate a discussion around the theme: "Kokkos MPI Interop for all"
 
 
 ## Kokkos MPI Interop for all
@@ -24,7 +31,7 @@ We also want to collect your use cases to ensure this new library will fit the n
 Any subject is welcome if it is related to the Kokkos ecosystem (developments, usage, projects, issues, etc.) or even to GPU programming at large.
 Feel free to contact us to propose a talk: contact@cexa-project.org
 
-We target very informal discussion in French or English. You can propose any subject for discussion even if you don't have a dedicated slide deck.
+We target very informal discussion in English. You can propose any subject for discussion even if you don't have a dedicated slide deck.
 
 
 ## Additional info

@@ -33,7 +33,7 @@ We will present Dyablo, how it's made and what challenges had to be resolved for
 Any subject is welcome if it is related to the Kokkos ecosystem (developments, usage, projects, issues, etc.) or even to GPU programming at large.
 Feel free to contact us to propose a talk: contact@cexa-project.org
 
-We target very informal discussion in French or English. You can propose any subject for discussion even if you don't have a dedicated slide deck.
+We target very informal discussion in English. You can propose any subject for discussion even if you don't have a dedicated slide deck.
 
 
 ## Additional info

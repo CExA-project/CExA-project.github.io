@@ -20,9 +20,6 @@ marketing:
     org_name: ''
     description: 'CExA, Computing at Exascale At CEA.'
     twitter: ''
-  analytics:
-    google_analytics: ''
-    baidu_tongji: ''
   verification:
     google: ''
     baidu: ''

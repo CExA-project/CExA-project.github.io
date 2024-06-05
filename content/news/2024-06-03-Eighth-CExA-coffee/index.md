@@ -2,6 +2,12 @@
 title: "3 June 2024: eighth CExA coffee"
 subtitle: "Vectorisation and parallelisation of the neutron transport sweep algorithm on cartesian and hexagonal meshes using Kokkos"
 date: 2024-05-31
+links:
+- icon_pack: fas
+  icon: file-pdf
+  name: Get the slides
+  url: 'slides.pdf'
+  cta_new_tab: true
 ---
 
 {{< cta cta_text="Register to be notified about future events" cta_link="https://lists.cexa-project.org/sympa/subscribe/network" >}}
@@ -11,6 +17,7 @@ It can be followed on [Zoom](https://cnrs.zoom.us/j/97834891802?pwd=NXhzd2paY051
 
 Gabriel Suau will anigive a talk entitled "Vectorisation and parallelisation of the neutron transport sweep algorithm on cartesian and hexagonal meshes using Kokkos"
 
+{{< cta cta_text="Get the slides" cta_link="slides.pdf" cta_new_tab="true" >}}
 
 ## Vectorisation and parallelisation of the neutron transport sweep algorithm on cartesian and hexagonal meshes using Kokkos
 
