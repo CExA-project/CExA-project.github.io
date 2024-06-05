@@ -3,10 +3,11 @@ title: "17 Apr. 2024: First Kokkos tea-time"
 subtitle: "Dyablo: A simulation code for astrophysics fluids with adaptive mesh refinement with Kokkos"
 date: 2024-03-15
 links:
-- icon_pack: fa
-  icon: calendar
-  name: Add to calendar
-  url: 'kokkos-tea-time.ics'
+- icon_pack: fas
+  icon: file-pdf
+  name: Get the slides
+  url: 'Dyablo_Kokkos-tea-time_17-04-24.pdf'
+  cta_new_tab: true
 ---
 
 {{< cta cta_text="Register to be notified about future events" cta_link="https://lists.cexa-project.org/sympa/subscribe/network" >}}
@@ -17,6 +18,8 @@ It can be followed on [Zoom](https://cnrs.zoom.us/j/97834891802?pwd=NXhzd2paY051
 {{< cta cta_text="<i class='fa fa-calendar'></i>&nbsp; Add to calendar" cta_link="kokkos-tea-time.ics" >}}
 
 Arnaud Durocher will give a talk entitled "Dyablo: A simulation code for astrophysics fluids with adaptive mesh refinement with Kokkos"
+
+{{< cta cta_text="Get the slides" cta_link="Dyablo_Kokkos-tea-time_17-04-24.pdf" cta_new_tab="true" >}}
 
 
 ## Dyablo: A simulation code for astrophysics fluids with adaptive mesh refinement with Kokkos
