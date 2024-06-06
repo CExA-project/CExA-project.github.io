@@ -5,12 +5,52 @@
     <link>https://cexa-project.org/news/</link>
       <atom:link href="https://cexa-project.org/news/index.xml" rel="self" type="application/rss+xml" />
     <description>Latest News</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 04 Jun 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 05 Jun 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://cexa-project.org/media/logo_hu0d509a71bcfd6f2083d4dedfba6d0aaf_150988_300x300_fit_lanczos_3.png</url>
       <title>Latest News</title>
       <link>https://cexa-project.org/news/</link>
     </image>
+    
+    <item>
+      <title>Kokkos training</title>
+      <link>https://cexa-project.org/news/2024-06-17-training/</link>
+      <pubDate>Wed, 05 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>https://cexa-project.org/news/2024-06-17-training/</guid>
+      <description>
+
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://indico.math.cnrs.fr/event/12037/registrations/1128/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34; class=&#34;btn btn-primary px-3 py-3&#34;&gt;Register to the training&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+&lt;/ul&gt;
+
+&lt;p&gt;The CExA team, together with Damien Lebrun-Grandie (ORNL) and Luc Berger-Vergiat (SNL), are happy to welcome you again for our next Kokkos training days.&lt;/p&gt;
+&lt;p&gt;The Kokkos C++ Performance Portability Ecosystem is a production level solution for writing modern applications in a hardware agnostic way. It is part of the US Department of Energies Exascale Project. The Ecosystem consists of multiple libraries addressing the primary concerns for developing and maintaining applications in a portable way. The three main components are the Kokkos Core Programming Model, the Kokkos Kernels Math Libraries and the Kokkos Profiling and Debugging Tools.&lt;/p&gt;
+&lt;p&gt;Learn more about Kokkos, meet Kokkos developers, share about your experience, join the Kokkos community and more!&lt;/p&gt;
+&lt;p&gt;Find out more and register at &lt;a href=&#34;https://indico.math.cnrs.fr/e/kokkos_days&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://indico.math.cnrs.fr/e/kokkos_days&lt;/a&gt;&lt;/p&gt;
+
+
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://lists.cexa-project.org/sympa/subscribe/network&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;Get notified about future events&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;location&#34;&gt;Location&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Where&lt;/strong&gt;: &lt;a href=&#34;https://maps.app.goo.gl/AYV41zVqD6qFynjr6&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Digiteo building, Saclay&lt;/a&gt;, &lt;a href=&#34;https://mdls.fr/how-to-come/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;how to come&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;When&lt;/strong&gt;: June, the 17th, 2024.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://indico.math.cnrs.fr/event/12037/timetable/#all&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Agenda&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
     
     <item>
       <title>June 19th 2024: third Kokkos tea-time</title>
@@ -432,6 +472,17 @@ It can be followed on &lt;a href=&#34;https://cnrs.zoom.us/j/97834891802?pwd=NXh
 &lt;/ul&gt;
 
 &lt;p&gt;Nic Morales from will present Kokkos Resilience.&lt;/p&gt;
+
+
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;2024-05-15-Second-Kokkos-tea-time-slides.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34; class=&#34;btn btn-primary px-3 py-3&#34;&gt;Get the slides&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+&lt;/ul&gt;
+
 &lt;h2 id=&#34;kokkos-resilience&#34;&gt;Kokkos Resilience&lt;/h2&gt;
 &lt;p&gt;&lt;em&gt;Nic Morales, Sandia National Lab.&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;Resiliency against runtime errors, either through software bugs or hardware failures, is an essential component for any long-running scientific application. Kokkos Resilience is an experimental framework for adding resiliency to existing Kokkos codes. In this Kokkos Tea Time talk, I will provide an overview of Kokkos Resilience, including its capabilities for automating and tracking data structures for checkpoint/restart and detecting silent data corruption. I will also talk about future directions, including closer integration with Kokkos Tools and fault-tolerant MPI. The talk will be about 30 minutes with 15 minutes for questions and discussions.&lt;/p&gt;
