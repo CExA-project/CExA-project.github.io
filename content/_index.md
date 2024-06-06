@@ -7,6 +7,23 @@ sections:
   - block: slider
     content:
       slides:
+      - title: Free Kokkos training in Saclay
+        content: |
+          The CExA team, together with Damien Lebrun-Grandie (ORNL) and Luc Berger-Vergiat (SNL), are happy to welcome you again for our next Kokkos training days.
+        align: right
+        background:
+          image:
+            filename: training.jpg
+            filters:
+              brightness: 0.4
+          position: center
+          color: '#333'
+        link:
+          icon: graduation-cap
+          icon_pack: fas
+          text: Find out more
+          url: 'https://indico.math.cnrs.fr/e/kokkos_days'
+
       - title: CEA project for GPU computing
         content: |
           C**ExA** is a Moonshot project launched by [CEA](https://cea.fr/) to adapt [Kokkos](https://kokkos.org/) to **your** needs and help **you** adopt it.

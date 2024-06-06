@@ -3,10 +3,11 @@ title: "15 May 2024: Second Kokkos tea-time"
 subtitle: "Kokkos Resilience"
 date: 2024-05-10
 links:
-- icon_pack: fa
-  icon: calendar
-  name: Add to calendar
-  url: 'kokkos-tea-time.ics'
+- icon_pack: fas
+  name: 'Get the slides'
+  icon: file-pdf
+  url: '2024-05-15-Second-Kokkos-tea-time-slides.pdf'
+  cta_new_tab: true
 ---
 
 {{< cta cta_text="Register to be notified about future events" cta_link="https://lists.cexa-project.org/sympa/subscribe/network" >}}
@@ -17,6 +18,8 @@ It can be followed on [Zoom](https://cnrs.zoom.us/j/97834891802?pwd=NXhzd2paY051
 {{< cta cta_text="<i class='fa fa-calendar'></i>&nbsp; Add to calendar" cta_link="kokkos-tea-time.ics" >}}
 
 Nic Morales from will present Kokkos Resilience.
+
+{{< cta cta_text="Get the slides" cta_link="2024-05-15-Second-Kokkos-tea-time-slides.pdf" cta_new_tab="true" >}}
 
 
 ## Kokkos Resilience
