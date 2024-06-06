@@ -35,6 +35,9 @@ main:
   - name: Join us
     url: join-us
     weight: 50
+  - name: Our presentations
+    url: content
+    weight: 60
   - name: The team
     url: team
-    weight: 60
+    weight: 70
