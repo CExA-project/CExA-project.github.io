@@ -81,30 +81,46 @@ sections:
       # Duration of transition between slides (in ms)
       interval: 8000
   
-  - block: markdown
+  - block: hero
     content:
-      title: The project
-      subtitle: 
-      text: |
-        After 10 years of preparation, mainly in the United States, the arrival of the first Exascale supercomputers (10^18 operation per seconds) represents a breakthrough. These machines confirm the trend started since the beginning of the 2000s of a shift towards the usage of specialized architectures such as GPU to provide computing power. The French Exascale machine that will soon be installed at the CEA/TGCC will also rely on such technology. It is therefore critical for the CEA and all the French and European players who aim to use this machine to be able to rely on a solid software base acting as a catalyst ensuring full use of its power and sustainability of the application software. Indeed, applications developed with software technologies prior to the arrival of accelerators cannot or very poorly take advantage of GPUs. New solutions have been developed, but European approaches are lagging behind.
-        CExA therefore proposes to develop sovereign software catalyst or middleware for Exascale Computation ensuring control of the roadmap and adequacy to the needs of European and French applications. Technically, this development is based on existing open-source software bricks and in particular KOKKOS. The choice to adopt and adapt an existing open-source software stack ensures responsiveness and efficiency while maintaining strategic independence. With this project, the CEA will acquire mastery of an essential link in the software stack by increasing its skills on existing tools while filling gaps on critical points for the specific needs of the CEA.
-    design:
-      columns: '1'
+      title: <span id="the-project">The project</span>
+      image:
+        filename: steps.png
+      cta:
+        label: Our technical achievements
+        url: presentation
+        #icon_pack: fas
+        #icon: download
+      text: |-
+        After 10 years of preparation the world entered the Exascale era.
+        These supercomputers confirm the trend of a shift towards accelerated architectures with GPU to provide computing power.
+        The Exascale machine to be installed in France, at CEA/TGCC, can only follow this trend.
+        This raises a challenge for French and European applications that have to be redesigned to use these infrastructure.
+        
+        CExA will work to offer applications a sustainable middleware that can act as a future-proof software catalyst to leverage heterogeneous and GPU-based super-computers.
+        1. adopt and adapt [Kokkos](https://kokkos.org/) and contribute to its ecosystem to offer applications a sustainable software catalyst,
+        2. implement this approach in [three demonstrator applications to guide our choices and demonstrate their effectiveness,
+        3. offer training and contribute to the dissemination of CExA to build an expert network sharing experience and knowledge.
+        
+        With this project, the CEA will acquire mastery of an essential link in the software stack by increasing its skills on existing tools while filling gaps on critical points for the specific needs of the CEA.
+        
+        <div class="mb-3"></div>
+
   - block: features
     content:
       title: Our demonstrators
       subtitle:
       text:
       items:
-        - name: "[Gysela-X++](../gyselax)"
+        - name: '[Gysela-X++]({{< relref "gyselax" >}})'
           description: Plasma physics
           icon: flask
           icon_pack: fas
-        - name: "[Trust/TrioCFD](../triocfd)"
+        - name: '[Trust/TrioCFD]({{< relref "triocfd" >}})'
           description: Fluid Dynamics
           icon: chart-line
           icon_pack: fas
-        - name: "[Triclade](../triclade)"
+        - name: '[Triclade]({{< relref "triclade" >}})'
           description: MultiFluid
           icon: camera-retro
           icon_pack: fas

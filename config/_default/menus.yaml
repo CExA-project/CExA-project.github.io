@@ -5,7 +5,7 @@
 
 main:
   - name: The project
-    url: '#section-markdown'
+    url: '#the-project'
     weight: 1
   - name: CExA in practice
     url: presentation

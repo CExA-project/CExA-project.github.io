@@ -18,8 +18,8 @@ sections:
         description: "[Be notified of events](https://lists.cexa-project.org/sympa/subscribe/network)"
         icon: envelope
         icon_pack: fas
-      - name: "[Slack](https://kokkosteam.slack.com/messages)"
-        description: "[Join us on Kokkos slack](https://kokkosteam.slack.com/messages)"
+      - name: "[Slack](https://join.slack.com/t/kokkosteam/shared_invite/zt-2jbbafsab-dOUkTEUmuRdKesSfrRHwWQ)"
+        description: "[Join us on Kokkos slack](https://join.slack.com/t/kokkosteam/shared_invite/zt-2jbbafsab-dOUkTEUmuRdKesSfrRHwWQ)"
         icon: slack
         icon_pack: fab
       - name: "[Github repository](https://github.com/CExA-project/)"
