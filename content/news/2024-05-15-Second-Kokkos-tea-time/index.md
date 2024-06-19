@@ -17,7 +17,7 @@ It can be followed on [Zoom](https://cnrs.zoom.us/j/97834891802?pwd=NXhzd2paY051
 
 {{< cta cta_text="<i class='fa fa-calendar'></i>&nbsp; Add to calendar" cta_link="kokkos-tea-time.ics" >}}
 
-Nic Morales from will present Kokkos Resilience.
+Nic Morales will present Kokkos Resilience.
 
 {{< cta cta_text="Get the slides" cta_link="2024-05-15-Second-Kokkos-tea-time-slides.pdf" cta_new_tab="true" >}}
 
