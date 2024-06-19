@@ -82,6 +82,17 @@ It can be followed on &lt;a href=&#34;https://cnrs.zoom.us/j/97834891802?pwd=NXh
 &lt;/ul&gt;
 
 &lt;p&gt;Cédric Chevalier will animate a discussion around the theme: &amp;ldquo;Kokkos MPI Interop for all&amp;rdquo;&lt;/p&gt;
+
+
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;2024-06-19-Third-Kokkos-tea-time-slides.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34; class=&#34;btn btn-primary px-3 py-3&#34;&gt;Get the slides&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+&lt;/ul&gt;
+
 &lt;h2 id=&#34;kokkos-mpi-interop-for-all&#34;&gt;Kokkos MPI Interop for all&lt;/h2&gt;
 &lt;p&gt;We will present a new effort to provide a standard wrapper library to ease the use of MPI in Kokkos applications.
 We will describe the main short-term and long-term goals and give an overview of the code development.
@@ -471,7 +482,7 @@ It can be followed on &lt;a href=&#34;https://cnrs.zoom.us/j/97834891802?pwd=NXh
   
 &lt;/ul&gt;
 
-&lt;p&gt;Nic Morales from will present Kokkos Resilience.&lt;/p&gt;
+&lt;p&gt;Nic Morales will present Kokkos Resilience.&lt;/p&gt;
 
 
 &lt;ul class=&#34;cta-group&#34;&gt;
