@@ -7,6 +7,11 @@ links:
   icon: calendar
   name: Add to calendar
   url: 'kokkos-tea-time.ics'
+- icon_pack: fas
+  name: 'Get the slides'
+  icon: file-pdf
+  url: '2024-06-19-Third-Kokkos-tea-time-slides.pdf'
+  cta_new_tab: true
 ---
 
 {{< cta cta_text="Register to be notified about future events" cta_link="https://lists.cexa-project.org/sympa/subscribe/network" >}}
