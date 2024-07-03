@@ -32,13 +32,13 @@ sections:
 
         Test on our hardware & improve kokkos for it
         * Intel PVC backend improvement
-        * NVidia Grace Hopper memory management handling
+        * Nvidia Grace Hopper memory management handling
 
         Work on specific projects in the Kokkos ecosystem
-        * [DDC](https://ddc.mdls.fr/): Discrete data & computation
-        * [Kokkos-FFT](https://kokkosfft.readthedocs.io/en/latest/): Performance portable FFT with a Kokkos API
+        * [DDC](https://ddc.mdls.fr/): Discrete Domain Computation library
+        * [Kokkos-fft](https://kokkosfft.readthedocs.io/en/latest/): Performance portable FFT with a Kokkos API
           - lead by CExA
-        * [Kokkos-comm](https://github.com/kokkos/kokkos-comm): Kokkos-MPI integration
+        * [Kokkos Comm](https://github.com/kokkos/kokkos-comm): Kokkos-MPI integration
           - co-lead by CExA
 
         Improvements to software quality
