@@ -3,10 +3,6 @@ title: "June 19th 2024: third Kokkos tea-time"
 subtitle: "Kokkos MPI Interop for all"
 date: 2024-06-04
 links:
-- icon_pack: fa
-  icon: calendar
-  name: Add to calendar
-  url: 'kokkos-tea-time.ics'
 - icon_pack: fas
   name: 'Get the slides'
   icon: file-pdf
