@@ -7,23 +7,6 @@ sections:
   - block: slider
     content:
       slides:
-      - title: Free Kokkos training in Saclay
-        content: |
-          The CExA team, together with Damien Lebrun-Grandie (ORNL) and Luc Berger-Vergiat (SNL), are happy to welcome you again for our next Kokkos training days.
-        align: right
-        background:
-          image:
-            filename: training.jpg
-            filters:
-              brightness: 0.4
-          position: center
-          color: '#333'
-        link:
-          icon: graduation-cap
-          icon_pack: fas
-          text: Find out more
-          url: 'https://indico.math.cnrs.fr/e/kokkos_days'
-
       - title: CEA project for GPU computing
         content: |
           C**ExA** is a Moonshot project launched by [CEA](https://cea.fr/) to adapt [Kokkos](https://kokkos.org/) to **your** needs and help **you** adopt it.
@@ -39,8 +22,7 @@ sections:
           icon: lightbulb
           icon_pack: fas
           text: Learn more
-          url: '#section-markdown'
-
+          url: '#the-project'
       - title: Discover CExA
         content: 'A [Kokkos](https://kokkos.org/)-based platform for computing at Exascale!'
         align: center
@@ -92,17 +74,17 @@ sections:
         #icon_pack: fas
         #icon: download
       text: |-
-        After 10 years of preparation the world entered the Exascale era.
-        These supercomputers confirm the trend of a shift towards accelerated architectures with GPU to provide computing power.
-        The Exascale machine to be installed in France, at CEA/TGCC, can only follow this trend.
+        After 10 years of preparation, the world has entered the Exascale era.
+        These supercomputers confirm the trend of a shift towards accelerated architectures where GPUs provide the computing power.
+        The Alice Recoque Exascale machine to be installed in France, at CEA/TGCC, can only follow this trend.
         This raises a challenge for French and European applications that have to be redesigned to use these infrastructure.
         
-        CExA will work to offer applications a sustainable middleware that can act as a future-proof software catalyst to leverage heterogeneous and GPU-based super-computers.
+        CExA will work to offer applications a sustainable middleware that can act as a future-proof software catalyst to leverage heterogeneous and GPU-based supercomputers:
         1. adopt and adapt [Kokkos](https://kokkos.org/) and contribute to its ecosystem to offer applications a sustainable software catalyst,
-        2. implement this approach in [three demonstrator applications to guide our choices and demonstrate their effectiveness,
+        2. implement this approach in three demonstrator applications to guide our choices and demonstrate their effectiveness,
         3. offer training and contribute to the dissemination of CExA to build an expert network sharing experience and knowledge.
         
-        With this project, the CEA will acquire mastery of an essential link in the software stack by increasing its skills on existing tools while filling gaps on critical points for the specific needs of the CEA.
+        With this project, the CEA will acquire mastery of an essential link in the software stack by increasing its skills on existing tools while filling gaps on critical points for the specific needs of the CEA, the French and European HPC ecosystem.
         
         <div class="mb-3"></div>
 
