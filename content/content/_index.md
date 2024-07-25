@@ -9,7 +9,7 @@ sections:
       title: Our presentations
       subtitle: 
       text: |
-        * [2024-06-12 NumPEx GPU Workshop](2024-06-12_NumPEx_GPU_Workshop.pdf)
+        * [2024-06-12 NumPEx GPU Workshop](2024-06-12_NumPEx_GPU_Workshop.pdf) ![CEA Riken](content/content/CEA Riken.jpg)
         * [2024-05-21 CEA-Riken](2024-05-21_CEA-Riken.pdf)
         * [2024-04-02 Seminaire CCRT GPU](2024-04-02_Seminaire_CCRT_GPU.pdf)
         * [2023-12-14 Kokkos User Group](2023-12-14_Kokkos_User_Group.pdf)
