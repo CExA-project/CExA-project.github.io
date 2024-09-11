@@ -9,7 +9,7 @@ links:
   - icon_pack: fab
     icon: pdf
     name: Get the full PDF version
-    url: 'https://mdls.fr/wp-content/uploads/2023/11/2023.11-fiche-de-poste-CDD-DevOps-eng-1.pdf'
+    url: 'https://mdls.fr/wp-content/uploads/2024/09/Fiche-de-poste-PTC-SN-MOONK.pdf'
 
 ---
 
