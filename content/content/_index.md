@@ -9,6 +9,7 @@ title: Our presentations
 }
 /*-->*/</style>
 
+{{< figure src="2024-09-25_Kokkos_at_CELIA.jpg" title="2024-09-25 Kokkos and CExA presentation at CELIA" link="2024-09-25_Kokkos_at_CELIA.pdf" class="black_bordered" >}}
 {{< figure src="2024-06-12_NumPEx_GPU_Workshop.jpg" title="2024-06-12 NumPEx GPU Workshop" link="2024-06-12_NumPEx_GPU_Workshop.pdf" class="black_bordered" >}}
 {{< figure src="2024-05-21_CEA-Riken.jpg" title="2024-05-21 CEA-Riken" link="2024-05-21_CEA-Riken.pdf" class="black_bordered" >}}
 {{< figure src="2024-04-02_Seminaire_CCRT_GPU.jpg" title="2024-04-02 Seminaire CCRT GPU" link="2024-04-02_Seminaire_CCRT_GPU.pdf" class="black_bordered" >}}
