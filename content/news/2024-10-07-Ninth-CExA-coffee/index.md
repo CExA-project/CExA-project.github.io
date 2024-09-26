@@ -1,23 +1,27 @@
 ---
-title: "18 Mar. 2024: Seventh CExA coffee"
-subtitle: "Kokkos-FFT, a newcomer library in the Kokkos ecosystem"
-date: 2024-03-15
-links:
-- icon_pack: fas
-  icon: file-pdf
-  name: Get the slides
-  url: '20240318_YA_Kokkos-FFT.pdf'
-  cta_new_tab: true
+title: "7 October 2024: ninth CExA coffee"
+subtitle: "Exploring SYCL for Batched Kernels with Memory Allocations"
+date: 2024-09-26
+#links:
+#- icon_pack: fas
+#  icon: file-pdf
+#  name: Get the slides
+#  url: 'slides.pdf'
+#  cta_new_tab: true
 ---
 
 {{< cta cta_text="Register to be notified about future events" cta_link="https://lists.cexa-project.org/sympa/subscribe/network" >}}
 
-CExA organizes its seventh **CExA virtual coffee** on Monday, March the 18th, 2024 starting at 1PM.
+CExA organizes its ninth **CExA virtual coffee** on Monday, October the 7th, 2024 starting at 1PM CEST.
 It can be followed on [Zoom](https://cnrs.zoom.us/j/97834891802?pwd=NXhzd2paY051S3dQekVQVllvTW5MUT09), by [phone]({{< ref "#by-phone" >}}), from [a visio room]({{< ref "#from-a-visio-room" >}}) or from the [Mandelbrot room in the Digiteo Saclay building]({{< ref "#come-to-the-mandelbrot-room" >}}).
 
-Yuuichi Asahi will give an informal presentation entitled "Kokkos-FFT, a newcomer library in the Kokkos ecosystem"
+Aymeric Millan will give a talk entitled "Exploring SYCL for Batched Kernels with Memory Allocations"
 
-{{< cta cta_text="Get the slides" cta_link="20240318_YA_Kokkos-FFT.pdf" cta_new_tab="true" >}}
+<!--{{< cta cta_text="Get the slides" cta_link="slides.pdf" cta_new_tab="true" >}}-->
+
+## Exploring SYCL for Batched Kernels with Memory Allocations
+
+Batched parallelism with local allocations is an extremely common pattern in HPC, appearing in multi-dimensional FFTs, neural networks processing, or split computation of numerical operators. Its efficient support is especially complex on GPU where memory per thread is limited and dynamic memory allocations are challenging. This study investigates whether the native abstractions of SYCL can support performance portability for this pattern. We implement versions of a batched semi-Lagrangian advection kernel using each parallel construct of SYCL. We evaluate them in terms of maintainability, performance portability and memory footprint on CPUs and GPUs (AMD, Intel, NVIDIA), with two distinct SYCL implementations (AdaptiveCpp and DPC++). Our results demonstrate that no single parallel construct of SYCL emerges as best solution and that a construct offering a higher level of abstraction would be required to support this common pattern.
 
 
 ## Contribute
