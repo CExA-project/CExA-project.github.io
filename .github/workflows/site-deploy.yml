@@ -15,10 +15,7 @@ jobs:
           docker run -i -v "$(pwd):/src" floryn90/hugo:${HUGO_VERSION}-ext-alpine-ci
       - name: Upload pages artifact
         uses: actions/upload-pages-artifact@v3
-        with:
-          path: ./public
-          name: github-pages
-          retention-days: 1
+        with: { path: ./public }
   deploy:
     needs: build
     permissions:

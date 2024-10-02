@@ -15,6 +15,8 @@ links:
 CExA organizes its eighth **CExA virtual coffee** on Monday, June the 3rd, 2024 starting at 1PM.
 It can be followed on [Zoom](https://cnrs.zoom.us/j/97834891802?pwd=NXhzd2paY051S3dQekVQVllvTW5MUT09), by [phone]({{< ref "#by-phone" >}}), from [a visio room]({{< ref "#from-a-visio-room" >}}) or from the [Mandelbrot room in the Digiteo Saclay building]({{< ref "#come-to-the-mandelbrot-room" >}}).
 
+{{< cta cta_text="<i class='fa fa-calendar'></i>&nbsp; Add to calendar" cta_link="/cexa-coffee.ics" >}}
+
 Gabriel Suau will anigive a talk entitled "Vectorisation and parallelisation of the neutron transport sweep algorithm on cartesian and hexagonal meshes using Kokkos"
 
 {{< cta cta_text="Get the slides" cta_link="slides.pdf" cta_new_tab="true" >}}

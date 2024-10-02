@@ -15,7 +15,7 @@ links:
 CExA organizes its third international **Kokkos tea-time** on Wednesday, June the 19th, 2024 for 45min starting at 8AM MT, 10AM EST, 2PM UTC, 4PM CEST.
 It can be followed on [Zoom](https://cnrs.zoom.us/j/97834891802?pwd=NXhzd2paY051S3dQekVQVllvTW5MUT09), by [phone]({{< ref "#by-phone" >}}), from [a visio room]({{< ref "#from-a-visio-room" >}}) or from the [Mandelbrot room in the Digiteo Saclay building, France]({{< ref "#come-to-the-mandelbrot-room" >}}).
 
-{{< cta cta_text="<i class='fa fa-calendar'></i>&nbsp; Add to calendar" cta_link="kokkos-tea-time.ics" >}}
+{{< cta cta_text="<i class='fa fa-calendar'></i>&nbsp; Add to calendar" cta_link="/kokkos-tea-time.ics" >}}
 
 Cédric Chevalier will animate a discussion around the theme: "Kokkos MPI Interop for all"
 

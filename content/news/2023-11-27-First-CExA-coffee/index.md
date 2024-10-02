@@ -16,6 +16,8 @@ links:
 Our first **CExA virtual coffee** will take place on Monday, November the 27th, 2023 starting at 1PM.
 It can be followed on [Zoom](https://cnrs.zoom.us/j/97834891802?pwd=NXhzd2paY051S3dQekVQVllvTW5MUT09), by [phone]({{< ref "#by-phone" >}}), from [a visio room]({{< ref "#from-a-visio-room" >}}) or from the [Mandelbrot room in the Digiteo Saclay building]({{< ref "#come-to-the-mandelbrot-room" >}}).
 
+{{< cta cta_text="<i class='fa fa-calendar'></i>&nbsp; Add to calendar" cta_link="/cexa-coffee.ics" >}}
+
 Baptiste Legouix will give a talk entitled "Performance portable Fourier & Spline transforms for Vlasov-Poisson numerical solve"
 
 ## Performance portable Fourier & Spline transforms for Vlasov-Poisson numerical solve
