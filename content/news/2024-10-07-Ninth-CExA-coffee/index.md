@@ -2,7 +2,11 @@
 title: "7 October 2024: ninth CExA coffee"
 subtitle: "Exploring SYCL for Batched Kernels with Memory Allocations"
 date: 2024-09-26
-#links:
+links:
+- icon_pack: fa
+  icon: calendar
+  name: Add to calendar
+  url: '/cexa-coffee.ics'
 #- icon_pack: fas
 #  icon: file-pdf
 #  name: Get the slides
