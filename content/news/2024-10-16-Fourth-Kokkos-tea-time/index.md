@@ -1,32 +1,31 @@
 ---
-title: "June 19th 2024: third Kokkos tea-time"
-subtitle: "Kokkos MPI Interop for all"
-date: 2024-06-04
+title: "October 16th 2024: fourth Kokkos tea-time"
+subtitle: "LAMMPS and SPARTA: Performance Portability of Particle Methods Through Kokkos"
+date: 2024-10-16
 links:
-- icon_pack: fas
-  name: 'Get the slides'
-  icon: file-pdf
-  url: '2024-06-19-Third-Kokkos-tea-time-slides.pdf'
-  cta_new_tab: true
+#- icon_pack: fas
+#  name: 'Get the slides'
+#  icon: file-pdf
+#  url: '2024-06-19-Third-Kokkos-tea-time-slides.pdf'
+#  cta_new_tab: true
 ---
 
 {{< cta cta_text="Register to be notified about future events" cta_link="https://lists.cexa-project.org/sympa/subscribe/network" >}}
 
-CExA organizes its third international **Kokkos tea-time** on Wednesday, June the 19th, 2024 for 45min starting at 8AM MT, 10AM EST, 2PM UTC, 4PM CEST.
+CExA organizes its third international **Kokkos tea-time** on Wednesday, October the 16th, 2024 for 45min starting at 8AM MT, 10AM EST, 2PM UTC, 4PM CEST.
 It can be followed on [Zoom](https://cnrs.zoom.us/j/97834891802?pwd=NXhzd2paY051S3dQekVQVllvTW5MUT09), by [phone]({{< ref "#by-phone" >}}), from [a visio room]({{< ref "#from-a-visio-room" >}}) or from the [Mandelbrot room in the Digiteo Saclay building, France]({{< ref "#come-to-the-mandelbrot-room" >}}).
 
 {{< cta cta_text="<i class='fa fa-calendar'></i>&nbsp; Add to calendar" cta_link="/kokkos-tea-time.ics" >}}
 
-Cédric Chevalier will animate a discussion around the theme: "Kokkos MPI Interop for all"
+Stan Moore will give a talk on "LAMMPS and SPARTA: Performance Portability of Particle Methods Through Kokkos"
 
-{{% cta cta_text="Get the slides" cta_link="2024-06-19-Third-Kokkos-tea-time-slides.pdf" cta_new_tab="true" %}}
+Stan Moore is a computational scientist at Sandia National Laboratories specializing in particle-based simulation methods such as molecular dynamics and direct simulation Monte-Carlo. He is a software developer of the LAMMPS and SPARTA codes, and his research currently focuses on extending particle-based codes to use Sandia's Kokkos performance portability library to run efficiently on next-generation supercomputing platforms at extreme scale. He has been at Sandia for 12 years and is a Principal Member of Technical Staff. Stan earned a PhD in chemical engineering from Brigham Young University, where his research focused on developing a new method to predict chemical potential using molecular simulations.
 
 
-## Kokkos MPI Interop for all
 
-We will present a new effort to provide a standard wrapper library to ease the use of MPI in Kokkos applications.
-We will describe the main short-term and long-term goals and give an overview of the code development.
-We also want to collect your use cases to ensure this new library will fit the needs of the various Kokkos or soon-to-be Kokkos applications.
+## LAMMPS and SPARTA: Performance Portability of Particle Methods Through Kokkos
+
+WThe LAMMPS molecular dynamics code and the SPARTA direct simulation Monte Carlo code have been ported to use Kokkos performance portability abstractions. Both LAMMPS and SPARTA existed for several years before adding Kokkos, and the challenges and method of porting legacy codes will be discussed. During DOE's Exascale Computing Project, Kokkos enabled several significant LAMMPS and SPARTA production simulations on some of the world's largest supercomputers, including OLCF Summit and the first exascale machine: OLCF Frontier. LAMMPS and SPARTA are also being prepared and tuned to run on the ALCF Aurora and the upcoming NNSA ATS-4 El Capitan. Benchmarking data for several different GPU hardware highlights performance portability achieved through Kokkos. Sandia National Laboratories is a multimission laboratory managed and operated by National Technology and Engineering Solutions of Sandia, LLC., a wholly owned subsidiary of Honeywell International, Inc., for the U.S. Department of Energy's National Nuclear Security Administration under contract DE-NA-0003525.
 
 
 ## Contribute
