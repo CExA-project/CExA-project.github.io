@@ -1,7 +1,7 @@
 ---
 title: "October 16th 2024: fourth Kokkos tea-time"
 subtitle: "LAMMPS and SPARTA: Performance Portability of Particle Methods Through Kokkos"
-date: 2024-10-16
+date: 2024-10-01
 links:
 - icon_pack: fa
   icon: calendar
