@@ -1,47 +1,24 @@
 ---
-title: "June 19th 2024: third Kokkos tea-time"
-subtitle: "Kokkos MPI Interop for all"
-date: 2024-06-04
-links:
-- icon_pack: fas
-  name: 'Get the slides'
-  icon: file-pdf
-  url: '2024-06-19-Third-Kokkos-tea-time-slides.pdf'
-  cta_new_tab: true
+title: "October 25th 2024: CExA Monitoring Committee"
+date: 2024-10-25
+
 ---
 
 {{< cta cta_text="Register to be notified about future events" cta_link="https://lists.cexa-project.org/sympa/subscribe/network" >}}
 
-CExA organizes its third international **Kokkos tea-time** on Wednesday, June the 19th, 2024 for 45min starting at 8AM MT, 10AM EST, 2PM UTC, 4PM CEST.
+CExA organizes its 2024 Monitoring Committee on Friday, October the 25th, 2024 for the whole morning, starting at 9AM CEST.
 It can be followed on [Zoom](https://cnrs.zoom.us/j/97834891802?pwd=NXhzd2paY051S3dQekVQVllvTW5MUT09), by [phone]({{< ref "#by-phone" >}}), from [a visio room]({{< ref "#from-a-visio-room" >}}) or from the [Mandelbrot room in the Digiteo Saclay building, France]({{< ref "#come-to-the-mandelbrot-room" >}}).
 
-{{< cta cta_text="<i class='fa fa-calendar'></i>&nbsp; Add to calendar" cta_link="/kokkos-tea-time.ics" >}}
+#{{< cta cta_text="<i class='fa fa-calendar'></i>&nbsp; Add to calendar" cta_link="/kokkos-tea-time.ics" >}}
 
-Cédric Chevalier will animate a discussion around the theme: "Kokkos MPI Interop for all"
-
-{{% cta cta_text="Get the slides" cta_link="2024-06-19-Third-Kokkos-tea-time-slides.pdf" cta_new_tab="true" %}}
-
-
-## Kokkos MPI Interop for all
-
-We will present a new effort to provide a standard wrapper library to ease the use of MPI in Kokkos applications.
-We will describe the main short-term and long-term goals and give an overview of the code development.
-We also want to collect your use cases to ensure this new library will fit the needs of the various Kokkos or soon-to-be Kokkos applications.
-
-
-## Contribute
-
-Any subject is welcome if it is related to the Kokkos ecosystem (developments, usage, projects, issues, etc.) or even to GPU programming at large.
-Feel free to contact us to propose a talk: contact@cexa-project.org
-
-We target very informal discussion in English. You can propose any subject for discussion even if you don't have a dedicated slide deck.
+The CExA team will present its work to CEA's Operating Divisions. This in-depth dive into the achievements of the project will include talks by demonstrators working on applications, that have been collaborating with CExA developers. 
 
 
 ## Additional info
 
-### Join us physically in the Mandelbrot room
+### Join us physically in  Room 24 of the DIGITEO building 
 
-The Mandelbrot room of [Digiteo Saclay building](https://maps.app.goo.gl/dWmfDSAyc6TLkrnC9) is in Saclay center, near the Orphée entrance.
+Room 24 of [Digiteo Saclay building](https://maps.app.goo.gl/dWmfDSAyc6TLkrnC9) is in Saclay center, near the Orphée entrance.
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2631.8449189785!2d2.15407651328232!3d48.72755487119501!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47e67f3d6ca35351%3A0xad658a7f81b4a1fe!2sMaison%20de%20la%20Simulation!5e0!3m2!1sen!2sfr!4v1690451425962!5m2!1sen!2sfr" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
 
