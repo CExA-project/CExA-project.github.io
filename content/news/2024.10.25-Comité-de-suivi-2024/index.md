@@ -9,7 +9,6 @@ date: 2024-10-18
 CExA organizes its 2024 Monitoring Committee on Friday, October the 25th, 2024 for the whole morning, starting at 9AM CEST.
 The public part of this session can be followed on [Zoom](https://cnrs.zoom.us/j/97834891802?pwd=NXhzd2paY051S3dQekVQVllvTW5MUT09), by [phone]({{< ref "#by-phone" >}}), from [a visio room]({{< ref "#from-a-visio-room" >}}) or from the [Mandelbrot room in the Digiteo Saclay building, France]({{< ref "#come-to-the-mandelbrot-room" >}}).
 
-# {{< cta cta_text="<i class='fa fa-calendar'></i>&nbsp; Add to calendar" cta_link="/kokkos-tea-time.ics" >}}
 
 The CExA team will present its work to CEA's Operating Divisions. This in-depth dive into the achievements of the project will include talks by demonstrators working on applications, that have been collaborating with CExA developers. 
 
