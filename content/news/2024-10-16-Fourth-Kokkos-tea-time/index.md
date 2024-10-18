@@ -3,15 +3,11 @@ title: "October 16th 2024: fourth Kokkos tea-time"
 subtitle: "LAMMPS and SPARTA: Performance Portability of Particle Methods Through Kokkos"
 date: 2024-10-01
 links:
-- icon_pack: fa
-  icon: calendar
-  name: Add to calendar
-  url: '/kokkos-tea-time.ics'
-#- icon_pack: fas
-#  name: 'Get the slides'
-#  icon: file-pdf
-#  url: '2024-06-19-Third-Kokkos-tea-time-slides.pdf'
-#  cta_new_tab: true
+- icon_pack: fas
+  name: 'Get the slides'
+  icon: file-pdf
+  url: '2024_Kokkos_TeaTime.pdf'
+  cta_new_tab: true
 ---
 
 {{< cta cta_text="Register to be notified about future events" cta_link="https://lists.cexa-project.org/sympa/subscribe/network" >}}
@@ -24,6 +20,8 @@ It can be followed on [Zoom](https://cnrs.zoom.us/j/97834891802?pwd=NXhzd2paY051
 Stan Moore will give a talk on "LAMMPS and SPARTA: Performance Portability of Particle Methods Through Kokkos"
 
 Stan Moore is a computational scientist at Sandia National Laboratories specializing in particle-based simulation methods such as molecular dynamics and direct simulation Monte-Carlo. He is a software developer of the LAMMPS and SPARTA codes, and his research currently focuses on extending particle-based codes to use Sandia's Kokkos performance portability library to run efficiently on next-generation supercomputing platforms at extreme scale. He has been at Sandia for 12 years and is a Principal Member of Technical Staff. Stan earned a PhD in chemical engineering from Brigham Young University, where his research focused on developing a new method to predict chemical potential using molecular simulations.
+
+{{% cta cta_text="Get the slides" cta_link="2024_Kokkos_TeaTime.pdf" cta_new_tab="true" %}}
 
 
 
