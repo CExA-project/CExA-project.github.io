@@ -1,7 +1,7 @@
 ---
-title: "October 16th 2024: fourth Kokkos tea-time"
-subtitle: "LAMMPS and SPARTA: Performance Portability of Particle Methods Through Kokkos"
-date: 2024-10-01
+title: "November 20th 2024: fifth Kokkos tea-time"
+subtitle: "ArborX: a performance portable geometric search library"
+date: 2024-10-24
 links:
 - icon_pack: fas
   name: 'Get the slides'
@@ -12,22 +12,22 @@ links:
 
 {{< cta cta_text="Register to be notified about future events" cta_link="https://lists.cexa-project.org/sympa/subscribe/network" >}}
 
-CExA organizes its fourth international **Kokkos tea-time** on Wednesday, October the 16th, 2024 for 45min starting at 8AM MT, 10AM EST, 2PM UTC, 4PM CEST.
+CExA organizes its fifth international **Kokkos tea-time** on Wednesday, November the 20th, 2024 for 45min starting at 8AM MT, 10AM EST, 2PM UTC, 4PM CEST.
 It can be followed on [Zoom](https://cnrs.zoom.us/j/97834891802?pwd=NXhzd2paY051S3dQekVQVllvTW5MUT09), by [phone]({{< ref "#by-phone" >}}), or from [a visio room]({{< ref "#from-a-visio-room" >}}).
 
 {{< cta cta_text="<i class='fa fa-calendar'></i>&nbsp; Add to calendar" cta_link="/kokkos-tea-time.ics" >}}
 
-Stan Moore will give a talk on "LAMMPS and SPARTA: Performance Portability of Particle Methods Through Kokkos"
+Andrey Prokopenko will give a talk on "ArborX: a performance portable geometric search library"
 
-Stan Moore is a computational scientist at Sandia National Laboratories specializing in particle-based simulation methods such as molecular dynamics and direct simulation Monte-Carlo. He is a software developer of the LAMMPS and SPARTA codes, and his research currently focuses on extending particle-based codes to use Sandia's Kokkos performance portability library to run efficiently on next-generation supercomputing platforms at extreme scale. He has been at Sandia for 12 years and is a Principal Member of Technical Staff. Stan earned a PhD in chemical engineering from Brigham Young University, where his research focused on developing a new method to predict chemical potential using molecular simulations.
+Andrey Prokopenko is a computational scientist at Oak Ridge National Laboratory. His research interests include multigrid algorithms, geometricsearch, and extreme scale computing.
 
 {{% cta cta_text="Get the slides" cta_link="2024_Kokkos_TeaTime.pdf" cta_new_tab="true" %}}
 
 
 
-## LAMMPS and SPARTA: Performance Portability of Particle Methods Through Kokkos
+## ArborX: a performance portable geometric search library
 
-The LAMMPS molecular dynamics code and the SPARTA direct simulation Monte Carlo code have been ported to use Kokkos performance portability abstractions. Both LAMMPS and SPARTA existed for several years before adding Kokkos, and the challenges and method of porting legacy codes will be discussed. During DOE's Exascale Computing Project, Kokkos enabled several significant LAMMPS and SPARTA production simulations on some of the world's largest supercomputers, including OLCF Summit and the first exascale machine: OLCF Frontier. LAMMPS and SPARTA are also being prepared and tuned to run on the ALCF Aurora and the upcoming NNSA ATS-4 El Capitan. Benchmarking data for several different GPU hardware highlights performance portability achieved through Kokkos. Sandia National Laboratories is a multimission laboratory managed and operated by National Technology and Engineering Solutions of Sandia, LLC., a wholly owned subsidiary of Honeywell International, Inc., for the U.S. Department of Energy's National Nuclear Security Administration under contract DE-NA-0003525.
+ArborX is a performance-portable geometric search library based on Kokkos. Fast geometric search is an often overlooked but a critical part in scientific application in many domains: cosmology, additive manufacturing, contact mechanics, particle simulations. In this talk, we provide an overview of the functionality in ArborX, discuss its design and user interface, and discuss the ways we use Kokkos.
 
 
 ## Contribute
