@@ -19,7 +19,7 @@ It can be followed on [Zoom](https://cnrs.zoom.us/j/97834891802?pwd=NXhzd2paY051
 
 Romin Tomasetti will animate a discussion around the theme: "Asynchronous execution, use cases and adoption"
 
-# {{% cta cta_text="Get the slides" cta_link="2024-06-19-Third-Kokkos-tea-time-slides.pdf" cta_new_tab="true" %}}
+#{{% cta cta_text="Get the slides" cta_link="2024-06-19-Third-Kokkos-tea-time-slides.pdf" cta_new_tab="true" %}}
 
 
 ## Asynchronous execution, use cases and adoption
