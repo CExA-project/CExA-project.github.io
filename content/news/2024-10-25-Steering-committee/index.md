@@ -36,9 +36,9 @@ The agenda for the public session of the Steering Committee is as follows:
 
 ## Additional info
 
-### Join us physically in  Room 24 of the DIGITEO building 
+### Join us physically in  Room 45 of the DIGITEO building 
 
-Room 24 of [Digiteo Saclay building](https://maps.app.goo.gl/dWmfDSAyc6TLkrnC9) is in Saclay center, near the Orphée entrance.
+Room 45 of [Digiteo Saclay building](https://maps.app.goo.gl/dWmfDSAyc6TLkrnC9) is in Saclay center, near the Orphée entrance.
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2631.8449189785!2d2.15407651328232!3d48.72755487119501!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47e67f3d6ca35351%3A0xad658a7f81b4a1fe!2sMaison%20de%20la%20Simulation!5e0!3m2!1sen!2sfr!4v1690451425962!5m2!1sen!2sfr" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
 
