@@ -1,32 +1,30 @@
 ---
-title: "June 19th 2024: third Kokkos tea-time"
-subtitle: "Kokkos MPI Interop for all"
-date: 2024-06-04
+title: "November 4th 2024: tenth CExA coffee"
+subtitle: "Asynchronous execution, use cases and adoption"
+date: 2024-10-24
 links:
-- icon_pack: fas
-  name: 'Get the slides'
-  icon: file-pdf
-  url: '2024-06-19-Third-Kokkos-tea-time-slides.pdf'
-  cta_new_tab: true
+#   - icon_pack: fas
+# name: 'Get the slides'
+#  icon: file-pdf
+#  url: '2024-06-19-Third-Kokkos-tea-time-slides.pdf'
+#  cta_new_tab: true
 ---
 
 {{< cta cta_text="Register to be notified about future events" cta_link="https://lists.cexa-project.org/sympa/subscribe/network" >}}
 
-CExA organizes its third international **Kokkos tea-time** on Wednesday, June the 19th, 2024 for 45min starting at 8AM MT, 10AM EST, 2PM UTC, 4PM CEST.
+CExA organizes its tenth CExA virtual coffee on Monday, November the 4th, 2024 starting at 1PM CEST..
 It can be followed on [Zoom](https://cnrs.zoom.us/j/97834891802?pwd=NXhzd2paY051S3dQekVQVllvTW5MUT09), by [phone]({{< ref "#by-phone" >}}), from [a visio room]({{< ref "#from-a-visio-room" >}}) or from the [Mandelbrot room in the Digiteo Saclay building, France]({{< ref "#come-to-the-mandelbrot-room" >}}).
 
-{{< cta cta_text="<i class='fa fa-calendar'></i>&nbsp; Add to calendar" cta_link="/kokkos-tea-time.ics" >}}
+{{< cta cta_text="<i class='fa fa-calendar'></i>&nbsp; Add to calendar" cta_link="/cexa-coffee.ics" >}}
 
-Cédric Chevalier will animate a discussion around the theme: "Kokkos MPI Interop for all"
+Romin Tomasetti will animate a discussion around the theme: "Asynchronous execution, use cases and adoption"
 
-{{% cta cta_text="Get the slides" cta_link="2024-06-19-Third-Kokkos-tea-time-slides.pdf" cta_new_tab="true" %}}
+# {{% cta cta_text="Get the slides" cta_link="2024-06-19-Third-Kokkos-tea-time-slides.pdf" cta_new_tab="true" %}}
 
 
-## Kokkos MPI Interop for all
+## Asynchronous execution, use cases and adoption
 
-We will present a new effort to provide a standard wrapper library to ease the use of MPI in Kokkos applications.
-We will describe the main short-term and long-term goals and give an overview of the code development.
-We also want to collect your use cases to ensure this new library will fit the needs of the various Kokkos or soon-to-be Kokkos applications.
+We Will talk about how Kokkos can help you efficiently schedule asynchronous workloads that expose dependencies.
 
 
 ## Contribute
