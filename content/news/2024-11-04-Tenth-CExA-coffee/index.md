@@ -1,6 +1,6 @@
 ---
 title: "November 4th 2024: tenth CExA coffee"
-subtitle: "Kokkos graph : Asynchronous execution, use cases and adoption"
+subtitle: "Kokkos::Graph : Asynchronous execution, use cases and adoption"
 date: 2024-10-24
 links:
 #   - icon_pack: fas
@@ -22,9 +22,9 @@ Romin Tomasetti will animate a discussion around the theme: "Asynchronous execut
 #{{% cta cta_text="Get the slides" cta_link="2024-06-19-Third-Kokkos-tea-time-slides.pdf" cta_new_tab="true" %}}
 
 
-## Kokkos graph : Asynchronous execution, use cases and adoption
+## Kokkos::Graph : Asynchronous execution, use cases and adoption
 
-We Will talk about how Kokkos graph abstraction can help you efficiently schedule asynchronous workloads that expose dependencies.
+We Will talk about how Kokkos::Graph abstraction can help you efficiently schedule asynchronous workloads that expose dependencies.
 
 
 ## Contribute
