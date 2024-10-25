@@ -1,7 +1,7 @@
 ---
-title: "November 20th 2024: fifth Kokkos tea-time"
-subtitle: "ArborX: a performance portable geometric search library"
-date: 2024-10-24
+title: "December 18th 2024: sixth Kokkos tea-time"
+subtitle: "Cabana: a Kokkos+MPI library for particles and hybrid particle-grid applications"
+date: 2024-10-25
 links:
 - icon_pack: fas
   name: 'Get the slides'
@@ -12,23 +12,22 @@ links:
 
 {{< cta cta_text="Register to be notified about future events" cta_link="https://lists.cexa-project.org/sympa/subscribe/network" >}}
 
-CExA organizes its fifth international **Kokkos tea-time** on Wednesday, November the 20th, 2024 for 45min starting at 8AM MT, 10AM EST, 2PM UTC, 4PM CEST.
+CExA organizes its fifth international **Kokkos tea-time** on Wednesday, December the 18th, 2024 for 45min starting at 8AM MT, 10AM EST, 2PM UTC, 4PM CEST.
 It can be followed on [Zoom](https://cnrs.zoom.us/j/97834891802?pwd=NXhzd2paY051S3dQekVQVllvTW5MUT09), by [phone]({{< ref "#by-phone" >}}), or from [a visio room]({{< ref "#from-a-visio-room" >}}).
 
 {{< cta cta_text="<i class='fa fa-calendar'></i>&nbsp; Add to calendar" cta_link="/kokkos-tea-time.ics" >}}
 
-Andrey Prokopenko will give a talk on "ArborX: a performance portable geometric search library"
+Sam Reeve will give a talk on "Cabana: a Kokkos+MPI library for particles and hybrid particle-grid applications"
 
-Andrey Prokopenko is a computational scientist at Oak Ridge National Laboratory. His research interests include multigrid algorithms, geometricsearch, and extreme scale computing.
+Sam Reeve is a  staff scientist at Oak Ridge National Lab, working at the intersection of materials and computational science. His current focus is software development for performance portability and scalability in materials applications. He obtained his BS from Iowa State University and his PhD from Purdue University, both in Materials Engineering.
 
 <!-- {{% cta cta_text="Get the slides" cta_link="2024_Kokkos_TeaTime.pdf" cta_new_tab="true" %}} -->
 
 
 
-## ArborX: a performance portable geometric search library
+## Cabana: a Kokkos+MPI library for particles and hybrid particle-grid applications
 
-ArborX is a performance-portable geometric search library based on Kokkos. Fast geometric search is an often overlooked but a critical part in scientific application in many domains: cosmology, additive manufacturing, contact mechanics, particle simulations. In this talk, we provide an overview of the functionality in ArborX, discuss its design and user interface, and discuss the ways we use Kokkos.
-
+A wide range of computational methods center on particles, from atomistic predictions to cosmology. Cabana is a library built on Kokkos and MPI for performance portable and scalable particle simulation. In addition, Cabana includes structured grids for hybrid particle-grid methods. The current library capabilities will be discussed, as well as applications using Cabana and plans for future work. Cabana and many Cabana-based mini applications are available at https://github.com/ECP-CoPA
 
 ## Contribute
 
