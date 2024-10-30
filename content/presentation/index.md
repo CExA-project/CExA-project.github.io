@@ -59,9 +59,9 @@ sections:
       text: |-
         * Trainings
           - [First training]({{< relref "2023-09-20-kokkos-training" >}}) with Christian Trott & Damien Lebrun september 2023in Saclay
-          - [Second training]({{< relref "triclade" >}}) on June 17-19 2024 @ Saclay with Damien Lebrun & Luc Berger-Vergiat
+          - [Second training]({{< relref "2024-06-17-training" >}}) on June 17-19 2024 @ Saclay with Damien Lebrun & Luc Berger-Vergiat
         * Regular online meetings: Informal presentations & discussions about Kokkos, its ecosystem & GPU at large
-          * [CExA virtual café]({{< relref "triclade" >}}) in French, once a month
+          * [CExA virtual café]({{< relref "news" >}}) in French, once a month
           * [Kokkos virtual tea-time]({{< relref "news" >}}) in English, once a month
         * [Kokkos slack](https://join.slack.com/t/kokkosteam/shared_invite/zt-2jbbafsab-dOUkTEUmuRdKesSfrRHwWQ) now has a #general-fr channel (~10% of the whole community)
         * CEA / EDF / Inria summer school in summer 2025
