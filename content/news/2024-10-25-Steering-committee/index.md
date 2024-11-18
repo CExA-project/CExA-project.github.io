@@ -20,7 +20,7 @@ The CExA team will present its work to CEA's Operating Divisions. This in-depth 
 
 The agenda for the public session of the Steering Committee is as follows:
 - 9:00-9:10 - General introduction
-- 9h10-10h15 - One-year review of the project, with a focus on a few specific achievements (CExA team)
+- 9h10-10h15 - [One-year review of the project, with a focus on a few specific achievements (CExA team)](2024-10-15-CExA_steering_board.pdf)
 
 <br>
 
@@ -28,9 +28,9 @@ The agenda for the public session of the Steering Committee is as follows:
 
 <br>
 
-- 10h25-10h50 - Demonstrator 1: GyselaX (Virginie Grandgirard)
-- 10h50-11h05 - Demonstrator 2: Triclade (Cédric Chevalier)
-- 11h05-11h30 - Demonstrator 3: Trust/TrioCFD (Pierre Ledac)
+- 10h25-10h50 - [Demonstrator 1: GyselaX (Virginie Grandgirard)](2024-10-15-VGrandgirard_CExA_SteeringCommitee.pdf)
+- 10h50-11h05 - [Demonstrator 2: Triclade (Cédric Chevalier)](2024-10-25-Triclade_suivi.pdf)
+- 11h05-11h30 - [Demonstrator 3: Trust/TrioCFD (Pierre Ledac)](2024-10-15-TRUST_Suivi_CExA_2024.pdf)
 - 11h30-11h40 - Conclusion
 
 
