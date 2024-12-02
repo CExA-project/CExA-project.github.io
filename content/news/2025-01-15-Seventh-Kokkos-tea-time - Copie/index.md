@@ -1,7 +1,7 @@
 ---
-title: "November 20th 2024: fifth Kokkos tea-time"
-subtitle: "ArborX: a performance portable geometric search library"
-date: 2024-10-24
+title: "January 15th 2025: Seventh Kokkos tea-time"
+subtitle: "Optimizing Derived Data Computation with Kokkos for I/O-Bound Workloads"
+date: 2024-12-02
 links:
 - icon_pack: fas
   name: 'Get the slides'
@@ -12,22 +12,22 @@ links:
 
 {{< cta cta_text="Register to be notified about future events" cta_link="https://lists.cexa-project.org/sympa/subscribe/network" >}}
 
-CExA organizes its fifth international **Kokkos tea-time** on Wednesday, November the 20th, 2024 for 45min starting at 8AM MT, 10AM EST, 2PM UTC, 4PM CEST.
+CExA organizes its seventh international **Kokkos tea-time** on Wednesday, January the 15th, 2025 for 45min starting at 8AM MT, 10AM EST, 2PM UTC, 4PM CET.
 It can be followed on [Zoom](https://cnrs.zoom.us/j/97834891802?pwd=NXhzd2paY051S3dQekVQVllvTW5MUT09), by [phone]({{< ref "#by-phone" >}}), or from [a visio room]({{< ref "#from-a-visio-room" >}}).
 
 {{< cta cta_text="<i class='fa fa-calendar'></i>&nbsp; Add to calendar" cta_link="/kokkos-tea-time.ics" >}}
 
-Andrey Prokopenko will give a talk on "ArborX: a performance portable geometric search library"
+Ana Gainaru will give a talk on "Optimizing Derived Data Computation with Kokkos for I/O-Bound Workloads"
 
-Andrey Prokopenko is a computational scientist at Oak Ridge National Laboratory. His research interests include multigrid algorithms, geometricsearch, and extreme scale computing.
+Ana Gainaru is a computer scientist in the CSM division at Oak Ridge National Laboratory, working on performance optimization for large scale scientific applications and on profiling, managing, and analyzing large-scale data. She received her PhD from the University of Illinois at Urbana-Champaign and has a background in optimizing the execution of scientific applications at every level of the software stack, from data-aware runtime design to scheduling, fault tolerance and code optimization.
 
 <!-- {{% cta cta_text="Get the slides" cta_link="2024_Kokkos_TeaTime.pdf" cta_new_tab="true" %}} -->
 
 
 
-## ArborX: a performance portable geometric search library
+## Optimizing Derived Data Computation with Kokkos for I/O-Bound Workloads
 
-ArborX is a performance-portable geometric search library based on Kokkos. Fast geometric search is an often overlooked but a critical part in scientific application in many domains: cosmology, additive manufacturing, contact mechanics, particle simulations. In this talk, we provide an overview of the functionality in ArborX, discuss its design and user interface, and discuss the ways we use Kokkos.
+Scientific data analysis often involves complex queries across distributed datasets, requiring manipulation of multiple variables and generating derived data on the fly. Derived quantities are obtained by mathematical transformations of primary data (generated directly by applications) and allow researchers to focus in their analysis on specific aspects of their simulation. For example, in combustion simulations, calculating the magnitude of the velocity (primary data) creates a derived variable that effectively identifies areas of high interest, such as regions with intense burning. In this talk I will present optimization opportunities when the decision on when to compute the derived variables is offloaded to the I/O library and how Kokkos can be used to handled them efficiently for I/O intensive applications.
 
 
 ## Contribute
