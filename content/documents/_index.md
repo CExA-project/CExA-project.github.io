@@ -10,5 +10,5 @@ title: Kokkos Cheat Sheet
 /*-->*/</style>
 
 {{< figure src="content/documents/Kokkos Cheat Sheet install.png" title="Kokkos Cheat Sheet install" link="Kokkos Cheat Sheet install.pdf" class="black_bordered" >}}
-{{< figure src="content/documents/Kokkos Cheat Sheet utilization.png" title="content/documents/Kokkos Cheat Sheet utilization" link="Kokkos Cheat Sheet utilization.pdf" class="black_bordered" >}}
+{{< figure src="content/documents/Kokkos Cheat Sheet utilization.png" title="Kokkos Cheat Sheet utilization" link="Kokkos Cheat Sheet utilization.pdf" class="black_bordered" >}}
 
