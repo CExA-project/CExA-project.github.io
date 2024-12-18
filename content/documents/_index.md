@@ -1,5 +1,5 @@
 ---
-title: Kokkos Cheat Sheet                
+title: Cheat Sheet for Kokkos                
 ---
 <style>/*<--!*/
 .black_bordered{
@@ -9,6 +9,6 @@ title: Kokkos Cheat Sheet
 }
 /*-->*/</style>
 
-{{< figure src="Kokkos Cheat Sheet install.jpg" title="Kokkos Cheat Sheet install" link="Kokkos Cheat Sheet install.pdf" class="black_bordered" >}}
-{{< figure src="Kokkos Cheat Sheet utilization.jpg" title="Kokkos Cheat Sheet utilization" link="Kokkos Cheat Sheet utilization.pdf" class="black_bordered" >}}
+{{< figure src="Cheat Sheet install for Kokkos" title="Cheat Sheet install for Kokkos" link="cheat_sheet_install_for_kokkos.pdf" class="black_bordered" >}}
+{{< figure src="Cheat Sheet utilization for Kokkos.jpg" title="Cheat Sheet utilization for Kokkos" link="cheat_sheet_utilization-for_kokkos.pdf" class="black_bordered" >}}
 
