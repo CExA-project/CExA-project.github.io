@@ -43,7 +43,7 @@ main:
     parent: doc
     url: content
     weight: 10
-  - name: Kokkos Cheat Sheet
+  - name: Cheat Sheet for Kokkos
     parent: doc
     url: documents
     weight: 20
