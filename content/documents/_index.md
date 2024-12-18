@@ -1,5 +1,5 @@
 ---
-title: Our presentations
+title: Kokkos Cheat Sheet                
 ---
 <style>/*<--!*/
 .black_bordered{
