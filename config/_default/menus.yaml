@@ -38,6 +38,14 @@ main:
   - name: Presentations & Documents
     url: content
     weight: 60
+    - name: Our presentations
+    parent: demos
+    url: content
+    weight: 10
+  - name: Kokkos Cheat Sheet
+    parent: demos
+    url: documents
+    weight: 20
   - name: The team
     url: team
     weight: 70
