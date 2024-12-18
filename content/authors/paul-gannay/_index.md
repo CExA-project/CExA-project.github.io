@@ -2,7 +2,7 @@
 authors: [ paul-gannay ]
 name: Paul Gannay
 email: paul.gannay@cea.fr
-title:
+title: Paul Gannay
 role: Developer
 organizations:
 - name: CEA
