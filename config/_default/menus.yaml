@@ -36,14 +36,15 @@ main:
     url: join-us
     weight: 50
   - name: Presentations & Documents
-    url: content
+    identifier: doc
+    url: documents
     weight: 60
   - name: Our presentations
-    parent: demos
+    parent: doc
     url: content
     weight: 10
   - name: Kokkos Cheat Sheet
-    parent: demos
+    parent: doc
     url: documents
     weight: 20
   - name: The team
