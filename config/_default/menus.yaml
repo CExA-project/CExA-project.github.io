@@ -38,7 +38,7 @@ main:
   - name: Presentations & Documents
     url: content
     weight: 60
-    - name: Our presentations
+  - name: Our presentations
     parent: demos
     url: content
     weight: 10
