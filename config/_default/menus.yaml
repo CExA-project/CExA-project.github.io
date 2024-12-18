@@ -37,7 +37,7 @@ main:
     weight: 50
   - name: Presentations & Documents
     identifier: doc
-    url: documents
+    url: doc
     weight: 60
   - name: Our presentations
     parent: doc
