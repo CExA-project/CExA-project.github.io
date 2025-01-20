@@ -1,33 +1,30 @@
 ---
-title: "November 20th 2024: fifth Kokkos tea-time"
-subtitle: "ArborX: a performance portable geometric search library"
-date: 2024-10-24
+title: "February 19th 2025: eigth Kokkos tea-time"
+subtitle: "Experience with Kokkos for Lattice QCD Code Bridge++"
+date: 2025-01-20
 links:
 - icon_pack: fas
-  name: 'Get the slides'
-  icon: file-pdf
-  url: '2024_Kokkos_TeaTime.pdf'
+    url: '2024_Kokkos_TeaTime.pdf'
   cta_new_tab: true
 ---
 
 {{< cta cta_text="Register to be notified about future events" cta_link="https://lists.cexa-project.org/sympa/subscribe/network" >}}
 
-CExA organizes its fifth international **Kokkos tea-time** on Wednesday, November the 20th, 2024 for 45min starting at 8AM MT, 10AM EST, 2PM UTC, 4PM CEST.
+CExA organizes its eigth international **Kokkos tea-time** on Wednesday, February the 19th, 2025 for 45min starting at 8AM MT, 10AM EST, 2PM UTC, 4PM CEST.
 It can be followed on [Zoom](https://cnrs.zoom.us/j/97834891802?pwd=NXhzd2paY051S3dQekVQVllvTW5MUT09), by [phone]({{< ref "#by-phone" >}}), or from [a visio room]({{< ref "#from-a-visio-room" >}}).
 
 {{< cta cta_text="<i class='fa fa-calendar'></i>&nbsp; Add to calendar" cta_link="/kokkos-tea-time.ics" >}}
 
-Andrey Prokopenko will give a talk on "ArborX: a performance portable geometric search library"
+Keigo Nitadori will give a talk on "Experience with Kokkos for Lattice QCD Code Bridge++"
 
-Andrey Prokopenko is a computational scientist at Oak Ridge National Laboratory. His research interests include multigrid algorithms, geometricsearch, and extreme scale computing.
+Keigo Nitadori is a technical scientist at RIKEN R-CCS.
 
 <!-- {{% cta cta_text="Get the slides" cta_link="2024_Kokkos_TeaTime.pdf" cta_new_tab="true" %}} -->
 
 
 
-## ArborX: a performance portable geometric search library
+## Experience with Kokkos for Lattice QCD Code Bridge++
 
-ArborX is a performance-portable geometric search library based on Kokkos. Fast geometric search is an often overlooked but a critical part in scientific application in many domains: cosmology, additive manufacturing, contact mechanics, particle simulations. In this talk, we provide an overview of the functionality in ArborX, discuss its design and user interface, and discuss the ways we use Kokkos.
 
 
 ## Contribute
