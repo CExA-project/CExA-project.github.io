@@ -2,10 +2,7 @@
 title: "February 19th 2025: eigth Kokkos tea-time"
 subtitle: "Experience with Kokkos for Lattice QCD Code Bridge++"
 date: 2025-01-20
-links:
-- icon_pack: fas
-    url: '2024_Kokkos_TeaTime.pdf'
-  cta_new_tab: true
+
 ---
 
 {{< cta cta_text="Register to be notified about future events" cta_link="https://lists.cexa-project.org/sympa/subscribe/network" >}}
