@@ -5,7 +5,7 @@ links:
 - icon_pack: fas
   name: 'Get the slides'
   icon: file-pdf
-  url: '2024-10-25-steering-committee/#agenda'
+  url: '/news/2024-10-25-steering-committee/#agenda'
   cta_new_tab: true
 ---
 
