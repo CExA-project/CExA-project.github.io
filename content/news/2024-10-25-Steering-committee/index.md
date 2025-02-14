@@ -1,6 +1,12 @@
 ---
 title: "October 25th 2024: CExA Steering Committee"
 date: 2024-10-18
+links:
+- icon_pack: fas
+  name: 'Get the slides'
+  icon: file-pdf
+  url: '2024-10-25-steering-committee/#agenda'
+  cta_new_tab: true
 ---
 
 {{< cta cta_text="Register to be notified about future events" cta_link="https://lists.cexa-project.org/sympa/subscribe/network" >}}
@@ -12,7 +18,7 @@ The public part of this session can be followed on [Zoom](https://cnrs.zoom.us/j
 
 The CExA team will present its work to CEA's Operating Divisions. This in-depth dive into the achievements of the project will include talks by demonstrators working on applications, that have been collaborating with CExA developers. 
 
-The agenda for the public session of the Steering Committee is as follows:
+The <span id=agenda>agenda</span> for the public session of the Steering Committee is as follows:
 - 9:00-9:10 - General introduction
 - 9h10-10h15 - [One-year review of the project, with a focus on a few specific achievements (CExA team)](2024-10-15-CExA_steering_board.pdf)
 
