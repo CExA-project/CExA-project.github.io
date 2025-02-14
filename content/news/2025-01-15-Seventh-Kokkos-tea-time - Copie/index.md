@@ -3,16 +3,16 @@ title: "January 15th 2025: Seventh Kokkos tea-time"
 subtitle: "Optimizing Derived Data Computation with Kokkos for I/O-Bound Workloads"
 date: 2024-12-02
 links:
-- icon_pack: fas
-  name: 'Get the slides'
-  icon: file-pdf
-  url: '2024_Kokkos_TeaTime.pdf'
-  cta_new_tab: true
+#- icon_pack: fas
+#  name: 'Get the slides'
+#  icon: file-pdf
+#  url: 'slides.pdf'
+#  cta_new_tab: true
 ---
 
 {{< cta cta_text="Register to be notified about future events" cta_link="https://lists.cexa-project.org/sympa/subscribe/network" >}}
 
-CExA organizes its seventh international **Kokkos tea-time** on Wednesday, January the 15th, 2025 for 45min starting at 8AM MT, 10AM EST, 2PM UTC, 4PM CET.
+CExA organizes its seventh international **Kokkos tea-time** on Wednesday, January the 15th, 2025 for 45min starting at [7AM PST, 8AM MST, 10AM EST, 3PM UTC, 4PM CET](https://www.worldtimebuddy.com/?qm=1&lid=12,100,5,7,8&h=12&date=2025-01-15&sln=16-17&hf=1).
 It can be followed on [Zoom](https://cnrs.zoom.us/j/97834891802?pwd=NXhzd2paY051S3dQekVQVllvTW5MUT09), by [phone]({{< ref "#by-phone" >}}), or from [a visio room]({{< ref "#from-a-visio-room" >}}).
 
 {{< cta cta_text="<i class='fa fa-calendar'></i>&nbsp; Add to calendar" cta_link="/kokkos-tea-time.ics" >}}
@@ -21,7 +21,7 @@ Ana Gainaru will give a talk on "Optimizing Derived Data Computation with Kokkos
 
 Ana Gainaru is a computer scientist in the CSM division at Oak Ridge National Laboratory, working on performance optimization for large scale scientific applications and on profiling, managing, and analyzing large-scale data. She received her PhD from the University of Illinois at Urbana-Champaign and has a background in optimizing the execution of scientific applications at every level of the software stack, from data-aware runtime design to scheduling, fault tolerance and code optimization.
 
-<!-- {{% cta cta_text="Get the slides" cta_link="2024_Kokkos_TeaTime.pdf" cta_new_tab="true" %}} -->
+<!-- {{% cta cta_text="Get the slides" cta_link="slides.pdf" cta_new_tab="true" %}} -->
 
 
 

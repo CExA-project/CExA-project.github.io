@@ -2,11 +2,21 @@
 title: "February 19th 2025: eigth Kokkos tea-time"
 subtitle: "Experience with Kokkos for Lattice QCD Code Bridge++"
 date: 2025-01-20
+links:
+- icon_pack: fa
+  icon: calendar
+  name: Add to calendar
+  url: '/kokkos-tea-time.ics'
+#- icon_pack: fas
+#  name: 'Get the slides'
+#  icon: file-pdf
+#  url: 'slides.pdf'
+#  cta_new_tab: true
 ---
 
 {{< cta cta_text="Register to be notified about future events" cta_link="https://lists.cexa-project.org/sympa/subscribe/network" >}}
 
-CExA organizes its eigth international **Kokkos tea-time** on Wednesday, February the 19th, 2025 for 45min starting at 8AM MT, 10AM EST, 2PM UTC, 4PM CEST.
+CExA organizes its eigth international **Kokkos tea-time** on Wednesday, February the 19th, 2025 for 45min starting at [7AM PST, 8AM MST, 10AM EST, 3PM UTC, 4PM CET](https://www.worldtimebuddy.com/?qm=1&lid=12,100,5,7,8&h=12&date=2025-02-19&sln=16-17&hf=1).
 It can be followed on [Zoom](https://cnrs.zoom.us/j/97834891802?pwd=NXhzd2paY051S3dQekVQVllvTW5MUT09), by [phone]({{< ref "#by-phone" >}}), or from [a visio room]({{< ref "#from-a-visio-room" >}}).
 
 {{< cta cta_text="<i class='fa fa-calendar'></i>&nbsp; Add to calendar" cta_link="/kokkos-tea-time.ics" >}}
@@ -15,7 +25,7 @@ Keigo Nitadori will give a talk on "Experience with Kokkos for Lattice QCD Code 
 
 Keigo Nitadori is a technical scientist at RIKEN R-CCS. He has a Ph.D. in Science (defended in 2009), for Computational Astronomy; he specializes in high-performance gravitational N-body simulations and was recipient of the ACM Gordon Bell Prize in SC09 and SC12.
 
-<!-- {{% cta cta_text="Get the slides" cta_link="2024_Kokkos_TeaTime.pdf" cta_new_tab="true" %}} -->
+<!-- {{% cta cta_text="Get the slides" cta_link="slides.pdf" cta_new_tab="true" %}} -->
 
 
 

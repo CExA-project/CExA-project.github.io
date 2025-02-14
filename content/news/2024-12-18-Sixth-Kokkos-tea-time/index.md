@@ -3,25 +3,25 @@ title: "December 18th 2024: sixth Kokkos tea-time"
 subtitle: "Cabana: a Kokkos+MPI library for particles and hybrid particle-grid applications"
 date: 2024-10-25
 links:
-- icon_pack: fas
-  name: 'Get the slides'
-  icon: file-pdf
-  url: '2024_Kokkos_TeaTime.pdf'
-  cta_new_tab: true
+#- icon_pack: fas
+#  name: 'Get the slides'
+#  icon: file-pdf
+#  url: '2024_Kokkos_TeaTime.pdf'
+#  cta_new_tab: true
 ---
 
 {{< cta cta_text="Register to be notified about future events" cta_link="https://lists.cexa-project.org/sympa/subscribe/network" >}}
 
-CExA organizes its fifth international **Kokkos tea-time** on Wednesday, December the 18th, 2024 for 45min starting at [8AM MST, 10AM EST, 3PM UTC, 4PM CET](https://www.worldtimebuddy.com/?qm=1&lid=12,100,5,7,8&h=12&date=2024-11-20&sln=16-17&hf=1).
+CExA organizes its fifth international **Kokkos tea-time** on Wednesday, December the 18th, 2024 for 45min starting at [7AM PST, 8AM MST, 10AM EST, 3PM UTC, 4PM CET](https://www.worldtimebuddy.com/?qm=1&lid=12,100,5,7,8&h=12&date=2024-12-18&sln=16-17&hf=1).
 It can be followed on [Zoom](https://cnrs.zoom.us/j/97834891802?pwd=NXhzd2paY051S3dQekVQVllvTW5MUT09), by [phone]({{< ref "#by-phone" >}}), or from [a visio room]({{< ref "#from-a-visio-room" >}}).
 
 {{< cta cta_text="<i class='fa fa-calendar'></i>&nbsp; Add to calendar" cta_link="/kokkos-tea-time.ics" >}}
 
 Sam Reeve will give a talk on "Cabana: a Kokkos+MPI library for particles and hybrid particle-grid applications"
 
-Sam Reeve is a  staff scientist at Oak Ridge National Lab, working at the intersection of materials and computational science. His current focus is software development for performance portability and scalability in materials applications. He obtained his BS from Iowa State University and his PhD from Purdue University, both in Materials Engineering.
+Sam Reeve is a  staff scientist at Oak Ridge National Lab, working at the intersection of materials and computational science. His current focus is software development for performance portability and scalability in materials applications. He obtained his BS from Iowa State University and his PhD from Purdue University, both in Materials Engineering.        
 
-<!-- {{% cta cta_text="Get the slides" cta_link="2024_Kokkos_TeaTime.pdf" cta_new_tab="true" %}} -->
+<!-- {{% cta cta_text="Get the slides" cta_link="slides.pdf" cta_new_tab="true" %}} -->
 
 
 

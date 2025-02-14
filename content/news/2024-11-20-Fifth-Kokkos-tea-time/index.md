@@ -3,16 +3,16 @@ title: "November 20th 2024: fifth Kokkos tea-time"
 subtitle: "ArborX: a performance portable geometric search library"
 date: 2024-10-24
 links:
-- icon_pack: fas
-  name: 'Get the slides'
-  icon: file-pdf
-  url: '2024_Kokkos_TeaTime.pdf'
-  cta_new_tab: true
+#- icon_pack: fas
+#  name: 'Get the slides'
+#  icon: file-pdf
+#  url: '2024_Kokkos_TeaTime.pdf'
+#  cta_new_tab: true
 ---
 
 {{< cta cta_text="Register to be notified about future events" cta_link="https://lists.cexa-project.org/sympa/subscribe/network" >}}
 
-CExA organizes its fifth international **Kokkos tea-time** on Wednesday, November the 20th, 2024 for 45min starting at [8AM MST, 10AM EST, 3PM UTC, 4PM CET](https://www.worldtimebuddy.com/?qm=1&lid=12,100,5,7,8&h=12&date=2024-11-20&sln=16-17&hf=1).
+CExA organizes its fifth international **Kokkos tea-time** on Wednesday, November the 20th, 2024 for 45min starting at [7AM PST, 8AM MST, 10AM EST, 3PM UTC, 4PM CET](https://www.worldtimebuddy.com/?qm=1&lid=12,100,5,7,8&h=12&date=2024-11-20&sln=16-17&hf=1).
 It can be followed on [Zoom](https://cnrs.zoom.us/j/97834891802?pwd=NXhzd2paY051S3dQekVQVllvTW5MUT09), by [phone]({{< ref "#by-phone" >}}), or from [a visio room]({{< ref "#from-a-visio-room" >}}).
 
 {{< cta cta_text="<i class='fa fa-calendar'></i>&nbsp; Add to calendar" cta_link="/kokkos-tea-time.ics" >}}
@@ -21,7 +21,7 @@ Andrey Prokopenko will give a talk on "ArborX: a performance portable geometric 
 
 Andrey Prokopenko is a computational scientist at Oak Ridge National Laboratory. His research interests include multigrid algorithms, geometricsearch, and extreme scale computing.
 
-<!-- {{% cta cta_text="Get the slides" cta_link="2024_Kokkos_TeaTime.pdf" cta_new_tab="true" %}} -->
+<!-- {{% cta cta_text="Get the slides" cta_link="slides.pdf" cta_new_tab="true" %}} -->
 
 
 

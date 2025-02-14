@@ -1,12 +1,6 @@
 ---
 title: "October 25th 2024: CExA Steering Committee"
 date: 2024-10-18
-links:
-- icon_pack: fa
-  icon: calendar
-  name: Add to calendar
-  url: 'steering-committee.ics'
-
 ---
 
 {{< cta cta_text="Register to be notified about future events" cta_link="https://lists.cexa-project.org/sympa/subscribe/network" >}}
