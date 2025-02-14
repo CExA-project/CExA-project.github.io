@@ -7,9 +7,9 @@ role: Developer
 organizations:
 - name: CEA
   url: https://www.cea.fr/
-- name: DES/ISAS
+- name: ISAS
   url: https://www.cea.fr/english/Pages/research-areas/energies.aspx
-- name: DES/ISAS/DM2S/SGLS/LCAN
+- name: LCAN
 social:
 - icon: envelope
   icon_pack: fas
