@@ -3,11 +3,11 @@ title: "January 15th 2025: Seventh Kokkos tea-time"
 subtitle: "Optimizing Derived Data Computation with Kokkos for I/O-Bound Workloads"
 date: 2024-12-02
 links:
-#- icon_pack: fas
-#  name: 'Get the slides'
-#  icon: file-pdf
-#  url: 'slides.pdf'
-#  cta_new_tab: true
+- icon_pack: fas
+  name: 'Get the slides'
+  icon: file-pdf
+  url: '2025_Jan_tea-time.pdf'
+  cta_new_tab: true
 ---
 
 {{< cta cta_text="Register to be notified about future events" cta_link="https://lists.cexa-project.org/sympa/subscribe/network" >}}
@@ -21,7 +21,7 @@ Ana Gainaru will give a talk on "Optimizing Derived Data Computation with Kokkos
 
 Ana Gainaru is a computer scientist in the CSM division at Oak Ridge National Laboratory, working on performance optimization for large scale scientific applications and on profiling, managing, and analyzing large-scale data. She received her PhD from the University of Illinois at Urbana-Champaign and has a background in optimizing the execution of scientific applications at every level of the software stack, from data-aware runtime design to scheduling, fault tolerance and code optimization.
 
-<!-- {{% cta cta_text="Get the slides" cta_link="slides.pdf" cta_new_tab="true" %}} -->
+{{% cta cta_text="Get the slides" cta_link="2025_Jan_tea-time.pdf" cta_new_tab="true" %}} 
 
 
 
