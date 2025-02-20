@@ -2,7 +2,7 @@
 authors: [ taberner-adrien ]
 name: Adrien Taberner
 email: adrien.taberner@cea.fr
-title: Adrien
+title: Adrien Taberner
 role: Developer
 organizations:
 - name: CEA
@@ -16,7 +16,6 @@ social:
   link: mailto:adrien.taberner@cea.fr
 user_groups:
   - Core team
-
 ---
 
 Adrien joined the CExA team in January 2025 as a developer. He graduated from the ISTY engineering school and completed the CHPS master's program at UVSQ Paris-Saclay during his final year. 
