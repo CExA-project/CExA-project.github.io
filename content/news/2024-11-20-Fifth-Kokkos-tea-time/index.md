@@ -3,11 +3,11 @@ title: "November 20th 2024: fifth Kokkos tea-time"
 subtitle: "ArborX: a performance portable geometric search library"
 date: 2024-10-24
 links:
-#- icon_pack: fas
-#  name: 'Get the slides'
-#  icon: file-pdf
-#  url: '2024_Kokkos_TeaTime.pdf'
-#  cta_new_tab: true
+- icon_pack: fas
+  name: 'Get the slides'
+  icon: file-pdf
+  url: '20241120-kokkos-tea-time-arborx.pdf'
+  cta_new_tab: true
 ---
 
 {{< cta cta_text="Register to be notified about future events" cta_link="https://lists.cexa-project.org/sympa/subscribe/network" >}}
@@ -21,7 +21,7 @@ Andrey Prokopenko will give a talk on "ArborX: a performance portable geometric 
 
 Andrey Prokopenko is a computational scientist at Oak Ridge National Laboratory. His research interests include multigrid algorithms, geometricsearch, and extreme scale computing.
 
-<!-- {{% cta cta_text="Get the slides" cta_link="slides.pdf" cta_new_tab="true" %}} -->
+{{% cta cta_text="Get the slides" cta_link="20241120-kokkos-tea-time-arborx.pdf" cta_new_tab="true" %}} 
 
 
 
