@@ -3,11 +3,11 @@ title: "December 18th 2024: sixth Kokkos tea-time"
 subtitle: "Cabana: a Kokkos+MPI library for particles and hybrid particle-grid applications"
 date: 2024-10-25
 links:
-#- icon_pack: fas
-#  name: 'Get the slides'
-#  icon: file-pdf
-#  url: '2024_Kokkos_TeaTime.pdf'
-#  cta_new_tab: true
+- icon_pack: fas
+  name: 'Get the slides'
+  icon: file-pdf
+  url: 'Cabana.pdf'
+  cta_new_tab: true
 ---
 
 {{< cta cta_text="Register to be notified about future events" cta_link="https://lists.cexa-project.org/sympa/subscribe/network" >}}
@@ -21,7 +21,7 @@ Sam Reeve will give a talk on "Cabana: a Kokkos+MPI library for particles and hy
 
 Sam Reeve is a  staff scientist at Oak Ridge National Lab, working at the intersection of materials and computational science. His current focus is software development for performance portability and scalability in materials applications. He obtained his BS from Iowa State University and his PhD from Purdue University, both in Materials Engineering.        
 
-<!-- {{% cta cta_text="Get the slides" cta_link="slides.pdf" cta_new_tab="true" %}} -->
+{{% cta cta_text="Get the slides" cta_link="Cabana.pdf" cta_new_tab="true" %}} 
 
 
 
