@@ -3,11 +3,11 @@ title: "November 4th 2024: tenth CExA coffee"
 subtitle: "Kokkos::Graph : Asynchronous execution, use cases and adoption"
 date: 2024-10-24
 links:
-#   - icon_pack: fas
-# name: 'Get the slides'
-#  icon: file-pdf
-#  url: '2024-06-19-Third-Kokkos-tea-time-slides.pdf'
-#  cta_new_tab: true
+- icon_pack: fas
+  name: 'Get the slides'
+  icon: file-pdf
+  url: 'kokkos_tea_time_2024_11_04_graph-trimmed.pdf'
+  cta_new_tab: true
 ---
 
 {{< cta cta_text="Register to be notified about future events" cta_link="https://lists.cexa-project.org/sympa/subscribe/network" >}}
@@ -19,7 +19,7 @@ It can be followed on [Zoom](https://cnrs.zoom.us/j/97834891802?pwd=NXhzd2paY051
 
 Romin Tomasetti will animate a discussion around the theme: "Asynchronous execution, use cases and adoption"
 
-<!-- {{% cta cta_text="Get the slides" cta_link="2024-06-19-Third-Kokkos-tea-time-slides.pdf" cta_new_tab="true" %}} -->
+{{% cta cta_text="Get the slides" cta_link="kokkos_tea_time_2024_11_04_graph-trimmed.pdf" cta_new_tab="true" %}} 
 
 
 ## Kokkos::Graph : Asynchronous execution, use cases and adoption
