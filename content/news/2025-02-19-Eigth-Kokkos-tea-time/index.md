@@ -2,6 +2,7 @@
 title: "February 19th 2025: eigth Kokkos tea-time"
 subtitle: "Experience with Kokkos for Lattice QCD Code Bridge++"
 date: 2025-01-20
+summary: On February the 19th, Keigo Nitadori from RIKEN R-CCS will give a talk entitled "Experience with Kokkos for Lattice QCD Code Bridge++"
 links:
 #- icon_pack: fa
 #  icon: calendar
@@ -21,7 +22,7 @@ It can be followed on [Zoom](https://cnrs.zoom.us/j/97834891802?pwd=NXhzd2paY051
 
 {{< cta cta_text="<i class='fa fa-calendar'></i>&nbsp; Add to calendar" cta_link="/kokkos-tea-time.ics" >}}
 
-Keigo Nitadori will give a talk on "Experience with Kokkos for Lattice QCD Code Bridge++"
+Keigo Nitadori will give a talk entitled "Experience with Kokkos for Lattice QCD Code Bridge++"
 
 Keigo Nitadori is a technical scientist at RIKEN R-CCS. He has a Ph.D. in Science (defended in 2009), for Computational Astronomy; he specializes in high-performance gravitational N-body simulations and was recipient of the ACM Gordon Bell Prize in SC09 and SC12.
 

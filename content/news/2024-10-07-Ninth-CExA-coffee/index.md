@@ -2,6 +2,7 @@
 title: "7 October 2024: ninth CExA coffee"
 subtitle: "Exploring SYCL for Batched Kernels with Memory Allocations"
 date: 2024-09-26
+summary: On October the 7th, Aymeric Millan from CEA/MdlS will give a talk entitled "Exploring SYCL for Batched Kernels with Memory Allocations"
 links:
 - icon_pack: fa
   icon: calendar

@@ -2,6 +2,7 @@
 title: "January 15th 2025: Seventh Kokkos tea-time"
 subtitle: "Optimizing Derived Data Computation with Kokkos for I/O-Bound Workloads"
 date: 2024-12-02
+summary: On January the 15th, Ana Gainaru from Oak Ridge National Laboratory will give a talk entitled "Optimizing Derived Data Computation with Kokkos for I/O-Bound Workloads"
 links:
 - icon_pack: fas
   name: 'Get the slides'

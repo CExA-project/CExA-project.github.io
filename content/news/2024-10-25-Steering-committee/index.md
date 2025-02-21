@@ -1,6 +1,7 @@
 ---
 title: "October 25th 2024: CExA Steering Committee"
 date: 2024-10-18
+summary: 'On October the 25th, CExA organizes its 2024 Steering Committee'
 links:
 - icon_pack: fas
   name: 'Get the slides'

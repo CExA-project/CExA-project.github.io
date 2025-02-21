@@ -2,6 +2,7 @@
 title: "October 16th 2024: fourth Kokkos tea-time"
 subtitle: "LAMMPS and SPARTA: Performance Portability of Particle Methods Through Kokkos"
 date: 2024-10-01
+summary: 'On October the 16th, Stan Moore from Sandia National Laboratories will give a talk entitled "LAMMPS and SPARTA: Performance Portability of Particle Methods Through Kokkos"'
 links:
 - icon_pack: fas
   name: 'Get the slides'

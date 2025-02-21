@@ -2,6 +2,7 @@
 title: "November 4th 2024: tenth CExA coffee"
 subtitle: "Kokkos::Graph : Asynchronous execution, use cases and adoption"
 date: 2024-10-24
+summary: 'On November the 4th, Romin Tomasetti will give a talk entitled "Asynchronous execution, use cases and adoption"'
 links:
 - icon_pack: fas
   name: 'Get the slides'

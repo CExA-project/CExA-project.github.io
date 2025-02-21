@@ -2,6 +2,7 @@
 title: "December 18th 2024: sixth Kokkos tea-time"
 subtitle: "Cabana: a Kokkos+MPI library for particles and hybrid particle-grid applications"
 date: 2024-10-25
+summary: 'On December the 18th, Sam Reeve from Oak Ridge National Lab will give a talk entitled "Cabana: a Kokkos+MPI library for particles and hybrid particle-grid applications"'
 links:
 - icon_pack: fas
   name: 'Get the slides'

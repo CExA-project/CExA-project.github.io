@@ -2,6 +2,7 @@
 title: "November 20th 2024: fifth Kokkos tea-time"
 subtitle: "ArborX: a performance portable geometric search library"
 date: 2024-10-24
+summary: 'On November the 20th, Andrey Prokopenko from Oak Ridge National Laboratory will give a talk entitled "ArborX: a performance portable geometric search library"'
 links:
 - icon_pack: fas
   name: 'Get the slides'
