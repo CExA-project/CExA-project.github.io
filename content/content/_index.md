@@ -9,6 +9,11 @@ title: Our presentations
 }
 /*-->*/</style>
 
+{{< figure src="2025-01-23_Kokkos_HPSF_and_CExA_at_CERFACS.jpg" title="2025-01-23 Kokkos HPSF and CExA at CERFACS" link="2025-01-23_Kokkos_HPSF_and_CExA_at_CERFACS.pdf" class="black_bordered" >}}
+{{< figure src="2025-01-15_Kokkos_HPSF_and_CExA_at_School.jpg" title="2025-01-15 Kokkos HPSF and CExA at School" link="2025-01-15_Kokkos_HPSF_and_CExA_at_School.pdf" class="black_bordered" >}}
+{{< figure src="2024-12-12_Kokkos_HPSF_and_CExA_at_Riken.jpg" title="2024-12-12 Kokkos HPSF and CExA at Riken" link="2024-12-12_Kokkos_HPSF_and_CExA_at_Riken.pdf" class="black_bordered" >}}
+{{< figure src="2024-12-06_Kokkos_HPSF_and_CExA_at_U_Tokyo.jpg" title="2024-12-06 Kokkos HPSF and CExA at U Tokyo" link="2024-12-06_Kokkos_HPSF_and_CExA_at_U_Tokyo.pdf" class="black_bordered" >}}
+{{< figure src="2024-11-18_Kokkos_at_P3HPC.jpg" title="2024-11-18 Kokkos at P3HPC" link="2024-11-18_Kokkos_at_P3HPC.pdf" class="black_bordered" >}}
 {{< figure src="2024-09-25_Kokkos_at_CELIA.jpg" title="2024-09-25 Kokkos and CExA presentation at CELIA" link="2024-09-25_Kokkos_at_CELIA.pdf" class="black_bordered" >}}
 {{< figure src="2024-06-12_NumPEx_GPU_Workshop.jpg" title="2024-06-12 NumPEx GPU Workshop" link="2024-06-12_NumPEx_GPU_Workshop.pdf" class="black_bordered" >}}
 {{< figure src="2024-05-21_CEA-Riken.jpg" title="2024-05-21 CEA-Riken" link="2024-05-21_CEA-Riken.pdf" class="black_bordered" >}}
