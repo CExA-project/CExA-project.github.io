@@ -23,7 +23,7 @@ It can be followed on [Zoom](https://cnrs.zoom.us/j/97834891802?pwd=NXhzd2paY051
 
 {{< cta cta_text="<i class='fa fa-calendar'></i>&nbsp; Add to calendar" cta_link="/kokkos-tea-time.ics" >}}
 
-Damien Lebrun-Grandié will give a talk entitled "Kokkos Best Practices: Integrating Kokkos into Your Project"
+Yohei Miki will give a talk entitled "Solomon: unified schemes for directive-based GPU offloading"
 
 
 Yohei Miki is a faculty at the University of Tokyo. He has a Ph.D. in Science (defended in 2014). His research interests include galactic archaeology, coevolution of massive black holes and galaxies, N-body simulations, and GPU computing.
