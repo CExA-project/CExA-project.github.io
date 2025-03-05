@@ -1,8 +1,9 @@
 ---
-title: "March 19th 2025: ninth Kokkos tea-time"
-subtitle: "Kokkos Best Practices: Integrating Kokkos into Your Project"
-date: 2025-02-20
-summary: 'On March the 19th, Damien Lebrun-Grandié from Oak Ridge National Laboratory will give a talk entitled "Kokkos Best Practices: Integrating Kokkos into Your Project"'
+title: "April 16th 2025: tenth Kokkos tea-time"
+subtitle: "Solomon: unified schemes for directive-based GPU offloading"
+date: 2025-03-05
+summary: 'On April the 16th, Yohei Miki will give a talk entitled "Solomon: unified schemes for directive-based GPU offloading". 
+
 links:
 - icon_pack: fa
   icon: calendar
@@ -17,23 +18,22 @@ links:
 
 {{< cta cta_text="Register to be notified about future events" cta_link="https://lists.cexa-project.org/sympa/subscribe/network" >}}
 
-CExA organizes its eigth international **Kokkos tea-time** on Wednesday, March the 19th, 2025 for 45min starting at [7AM PST, 8AM MST, 10AM EST, 3PM UTC, 4PM CET](https://www.worldtimebuddy.com/?qm=1&lid=12,100,5,7,8&h=12&date=2025-03-19&sln=16-17&hf=1).
+CExA organizes its tenth international **Kokkos tea-time** on Wednesday, April the 16th, 2025 for 45min starting at [7AM PST, 8AM MST, 10AM EST, 3PM UTC, 4PM CET](https://www.worldtimebuddy.com/?qm=1&lid=12,100,5,7,8&h=12&date=2025-03-19&sln=16-17&hf=1).
 It can be followed on [Zoom](https://cnrs.zoom.us/j/97834891802?pwd=NXhzd2paY051S3dQekVQVllvTW5MUT09), by [phone]({{< ref "#by-phone" >}}), or from [a visio room]({{< ref "#from-a-visio-room" >}}).
 
 {{< cta cta_text="<i class='fa fa-calendar'></i>&nbsp; Add to calendar" cta_link="/kokkos-tea-time.ics" >}}
 
 Damien Lebrun-Grandié will give a talk entitled "Kokkos Best Practices: Integrating Kokkos into Your Project"
 
-![Damien Lebrun-Grandié](2022-damien-portrait.jpg "Damien Lebrun-Grandié")
 
-Damien Lebrun-Grandié is a Computational Scientist at Oak Ridge National Laboratory and co-leads the Kokkos performance portability project. His expertise in high-performance computing informs his work on enabling technologies for large-scale scientific applications. He also serves on the ISO C++ Standards Committee.
+Yohei Miki is a faculty at the University of Tokyo. He has a Ph.D. in Science (defended in 2014). His research interests include galactic archaeology, coevolution of massive black holes and galaxies, N-body simulations, and GPU computing.
 
 <!--{{% cta cta_text="Get the slides" cta_link="slides.pdf" cta_new_tab="true" %}}-->
 
 
-## Kokkos Best Practices: Integrating Kokkos into Your Project
+## Solomon: unified schemes for directive-based GPU offloading
 
-This Kokkos tea-time session will cover best practices for integrating Kokkos into your project using CMake. We'll explore options for managing Kokkos, including using an external installation versus building Kokkos as part of your project. The session will also detail recommended procedures for initializing and finalizing Kokkos within your library or application
+Directive-based GPU offloading using OpenACC or OpenMP target is a convenient way to port existing codes originally developed for multicore CPUs. Although OpenACC and OpenMP target provide similar features, both methods have pros and cons. OpenACC has better functions and an abundance of documents, but it is virtually for NVIDIA GPUs. OpenMP target supports NVIDIA/AMD/Intel GPUs but has fewer functions than  OpenACC. In this talk, we will present a newly developed header-only library, Solomon (Simple Off-LOading Macros Orchestrating multiple Notations), to unify the interface for GPU offloading with the support of both OpenACC and OpenMP target.
 
 
 ## Contribute
