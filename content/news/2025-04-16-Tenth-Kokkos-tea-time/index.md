@@ -2,7 +2,7 @@
 title: "April 16th 2025: tenth Kokkos tea-time"
 subtitle: "Solomon: unified schemes for directive-based GPU offloading"
 date: 2025-03-05
-summary: 'On April the 16th, Yohei Miki will give a talk entitled "Solomon: unified schemes for directive-based GPU offloading". 
+summary: 'On April the 16th, Yohei Miki will give a talk entitled "Solomon: unified schemes for directive-based GPU offloading"'
 
 links:
 - icon_pack: fa
