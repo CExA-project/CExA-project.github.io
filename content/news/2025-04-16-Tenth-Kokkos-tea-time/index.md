@@ -26,7 +26,7 @@ It can be followed on [Zoom](https://cnrs.zoom.us/j/97834891802?pwd=NXhzd2paY051
 Yohei Miki will give a talk entitled "Solomon: unified schemes for directive-based GPU offloading"
 
 
-Yohei Miki is a faculty at the University of Tokyo. He has a Ph.D. in Science (defended in 2014). His research interests include galactic archaeology, coevolution of massive black holes and galaxies, N-body simulations, and GPU computing.
+Yohei Miki is an associate professor at the University of Tokyo. He has a Ph.D. in Science (defended in 2014). His research interests include galactic archaeology, coevolution of massive black holes and galaxies, N-body simulations, and GPU computing.
 
 <!--{{% cta cta_text="Get the slides" cta_link="slides.pdf" cta_new_tab="true" %}}-->
 
