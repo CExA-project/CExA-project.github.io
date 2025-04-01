@@ -31,4 +31,4 @@ The HPSF YouTube channel will feature a variety of content tailored for the high
 
 The first videos are already live, featuring the CExA Tea-Times of HPSF project Kokkos, with many more to come. Be sure to subscribe to the channel so you don’t miss out on new content as we roll it out!
 
-▶️ Subscribe now and join us in accelerating the future of high performance software.
+▶️ [Subscribe now] (https://www.youtube.com/@hpsf-community) and join us in accelerating the future of high performance software.
