@@ -14,7 +14,7 @@ The CExA project team is proud to collaborate on the launch of the official High
 ## **Why a YouTube Channel?**
 
 Exchange and collaboration play an essential role in the advancement of high-performance software. The video format offers an enjoyable and easily accessible way of sharing knowledge, highlighting concrete use cases, and keeping the community informed of the latest advances in the field. 
-The CExA project team is therefore delighted to be able to contribute to its development by sharing content, particularly around Kokkos.
+The CExA project team is therefore delighted to be able to contribute to its development by sharing content, particularly around Kokkos.These videos will be available through a dedicated “CExA Kokkos tea-time” playlist.
 The first videos are already online, with many more to come!
 
 
