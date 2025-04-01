@@ -22,10 +22,15 @@ The first videos are already online, with many more to come!
 ## **What to Expect**
 
 The HPSF YouTube channel will feature a variety of content tailored for the high performance software community, including:
+
 •	Expert Talks & Panels – Gain insights from leading voices in high performance software, HPC, open source development, and more.
+
 •	Tutorials & Deep Dives – Learn best practices, techniques, and emerging trends in high performance computing.
+
 •	Project Spotlights – Discover HPSF projects and their impact on the broader tech landscape.
+
 •	Community Showcases – Get to know HPSF community leaders and contributors.
+
 •	Event Coverage – Watch keynote session and discussion recordings from HPSF events, including HPSF Conference in early May 2025.
 
 
