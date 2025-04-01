@@ -24,8 +24,6 @@ It can be followed on [Zoom](https://cnrs.zoom.us/j/97834891802?pwd=NXhzd2paY051
 
 Ester El Khoury will give a talk entitled "Exploring C++ Standard Parallelism Features for GPU Programming in a Particle-In-Cell Application"
 
-![C++ Standard Parallelism](ester-image.jpg)
-
 Ester El Khoury is currently a first-year PhD student in Informatics at Maison de la Simulation, CEA Saclay, France. Her research focuses on exploring asynchronous programming models using modern C++ for porting scientific applications to GPUs. Prior to starting her PhD, she completed a six-month internship at Maison de la Simulation, during which she worked on the study presented in this talk. She holds an engineering degree in Electronics and Embedded Systems from Polytech Paris-Saclay, as well as a Master’s degree (M2) in Embedded Systems and Information Processing from Université Paris-Saclay.
 
 <!--{{% cta cta_text="Get the slides" cta_link="slides.pdf" cta_new_tab="true" %}}-->
@@ -35,6 +33,7 @@ Ester El Khoury is currently a first-year PhD student in Informatics at Maison d
 
 The C++17 standard introduced stdpar, a high-level parallelism model aimed at simplifying parallel programming. NVIDIA took the initiative to extend this model for GPU execution within heterogeneous computing architectures, with AMD later implementing stdpar as well. In this talk, we evaluate the performance of both NVIDIA’s and AMD’s stdpar implementations in the context of a GPU-accelerated Particle-In-Cell (PIC) code, and compare them with other parallel programming models.
 
+![C++ Standard Parallelism](ester-image.jpg)
 
 ## Contribute
 
