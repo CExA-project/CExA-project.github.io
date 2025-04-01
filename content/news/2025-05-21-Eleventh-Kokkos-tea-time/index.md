@@ -1,8 +1,8 @@
 ---
-title: "March 19th 2025: ninth Kokkos tea-time"
-subtitle: "Kokkos Best Practices: Integrating Kokkos into Your Project"
-date: 2025-02-20
-summary: 'On March the 19th, Damien Lebrun-Grandié from Oak Ridge National Laboratory will give a talk entitled "Kokkos Best Practices: Integrating Kokkos into Your Project"'
+title: "May 21th 2025: eleventh Kokkos tea-time"
+subtitle: "Exploring C++ Standard Parallelism Features for GPU Programming in a Particle-In-Cell Application"
+date: 2025-04-01
+summary: 'On May the 21th, Ester El Khoury from Maison de la Simulation will give a talk entitled "Exploring C++ Standard Parallelism Features for GPU Programming in a Particle-In-Cell Application"'
 links:
 - icon_pack: fa
   icon: calendar
@@ -17,23 +17,23 @@ links:
 
 {{< cta cta_text="Register to be notified about future events" cta_link="https://lists.cexa-project.org/sympa/subscribe/network" >}}
 
-CExA organizes its eigth international **Kokkos tea-time** on Wednesday, March the 19th, 2025 for 45min starting at [7AM PST, 9AM MDT, 11AM EST, 3PM UTC, 4PM CET](https://www.worldtimebuddy.com/?qm=1&lid=12,100,5,7,8&h=12&date=2025-03-19&sln=16-17&hf=1).
+CExA organizes its eleventh international **Kokkos tea-time** on Wednesday, May the 21th, 2025 for 45min starting at [7AM PST, 9AM MDT, 11AM EST, 3PM UTC, 4PM CET]([https://www.worldtimebuddy.com/?qm=1&lid=12,100,5,7,8&h=12&date=2025-03-19&sln=16-17&hf=1](https://www.worldtimebuddy.com/?qm=1&lid=12,100,5,7,8&h=12&date=2025-03-19&sln=16-17&hf=1)).
 It can be followed on [Zoom](https://cnrs.zoom.us/j/97834891802?pwd=NXhzd2paY051S3dQekVQVllvTW5MUT09), by [phone]({{< ref "#by-phone" >}}), or from [a visio room]({{< ref "#from-a-visio-room" >}}).
 
 {{< cta cta_text="<i class='fa fa-calendar'></i>&nbsp; Add to calendar" cta_link="/kokkos-tea-time.ics" >}}
 
-Damien Lebrun-Grandié will give a talk entitled "Kokkos Best Practices: Integrating Kokkos into Your Project"
+Ester El Khoury will give a talk entitled "Exploring C++ Standard Parallelism Features for GPU Programming in a Particle-In-Cell Application"
 
-![Damien Lebrun-Grandié](2022-damien-portrait.jpg "Damien Lebrun-Grandié")
+![C++ Standard Parallelism](ester-image.jpg)
 
-Damien Lebrun-Grandié is a Computational Scientist at Oak Ridge National Laboratory and co-leads the Kokkos performance portability project. His expertise in high-performance computing informs his work on enabling technologies for large-scale scientific applications. He also serves on the ISO C++ Standards Committee.
+Ester El Khoury is currently a first-year PhD student in Informatics at Maison de la Simulation, CEA Saclay, France. Her research focuses on exploring asynchronous programming models using modern C++ for porting scientific applications to GPUs. Prior to starting her PhD, she completed a six-month internship at Maison de la Simulation, during which she worked on the study presented in this talk. She holds an engineering degree in Electronics and Embedded Systems from Polytech Paris-Saclay, as well as a Master’s degree (M2) in Embedded Systems and Information Processing from Université Paris-Saclay.
 
 <!--{{% cta cta_text="Get the slides" cta_link="slides.pdf" cta_new_tab="true" %}}-->
 
 
-## Kokkos Best Practices: Integrating Kokkos into Your Project
+## Exploring C++ Standard Parallelism Features for GPU Programming in a Particle-In-Cell Application
 
-This Kokkos tea-time session will cover best practices for integrating Kokkos into your project using CMake. We'll explore options for managing Kokkos, including using an external installation versus building Kokkos as part of your project. The session will also detail recommended procedures for initializing and finalizing Kokkos within your library or application
+The C++17 standard introduced stdpar, a high-level parallelism model aimed at simplifying parallel programming. NVIDIA took the initiative to extend this model for GPU execution within heterogeneous computing architectures, with AMD later implementing stdpar as well. In this talk, we evaluate the performance of both NVIDIA’s and AMD’s stdpar implementations in the context of a GPU-accelerated Particle-In-Cell (PIC) code, and compare them with other parallel programming models.
 
 
 ## Contribute
