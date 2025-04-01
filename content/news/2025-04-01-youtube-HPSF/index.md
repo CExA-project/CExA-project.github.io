@@ -7,7 +7,7 @@ summary: 'HPSF YouTube channel is online!'
 
 {{< cta cta_text="Register to be notified about future events" cta_link="https://lists.cexa-project.org/sympa/subscribe/network" >}}
 
-The CExA project team is proud to collaborate on the launch of the official High Performance Software Foundation (HPSF) YouTube channel. This platform will serve as a place for developers, researchers, and industry leaders who are passionate about high performance computing (HPC), scalable software, and open source innovation to get information on high performance software in video format. Check it out: @HPSF-community 
+The CExA project team is proud to collaborate on the launch of the official High Performance Software Foundation (HPSF) YouTube channel. This platform will serve as a place for developers, researchers, and industry leaders who are passionate about high performance computing (HPC), scalable software, and open source innovation to get information on high performance software in video format. Check it out: [@HPSF-community] (https://www.youtube.com/@HPSF-community)  
 
 
 ## Why a YouTube Channel?
