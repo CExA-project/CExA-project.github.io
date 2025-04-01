@@ -11,7 +11,7 @@ The CExA project team is proud to collaborate on the launch of the official High
 
 
 
-**## Why a YouTube Channel?**
+## **Why a YouTube Channel?**
 
 Exchange and collaboration play an essential role in the advancement of high-performance software. The video format offers an enjoyable and easily accessible way of sharing knowledge, highlighting concrete use cases, and keeping the community informed of the latest advances in the field. 
 The CExA project team is therefore delighted to be able to contribute to its development by sharing content, particularly around Kokkos.
@@ -19,7 +19,7 @@ The first videos are already online, with many more to come!
 
 
 
-**## What to Expect**
+## **What to Expect**
 
 The HPSF YouTube channel will feature a variety of content tailored for the high performance software community, including:
 •	Expert Talks & Panels – Gain insights from leading voices in high performance software, HPC, open source development, and more.
@@ -30,7 +30,7 @@ The HPSF YouTube channel will feature a variety of content tailored for the high
 
 
 
-**## Subscribe & Stay Connected**
+## **Subscribe & Stay Connected**
 
 The first videos are already live, featuring the CExA Tea-Times of HPSF project Kokkos, with many more to come. Be sure to subscribe to the channel so you don’t miss out on new content as we roll it out!
 
