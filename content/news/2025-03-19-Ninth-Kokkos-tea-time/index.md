@@ -4,15 +4,15 @@ subtitle: "Kokkos Best Practices: Integrating Kokkos into Your Project"
 date: 2025-02-20
 summary: 'On March the 19th, Damien Lebrun-Grandié from Oak Ridge National Laboratory will give a talk entitled "Kokkos Best Practices: Integrating Kokkos into Your Project"'
 links:
-- icon_pack: fa
-  icon: calendar
-  name: Add to calendar
-  url: '/kokkos-tea-time.ics'
-#- icon_pack: fas
-#  name: 'Get the slides'
-#  icon: file-pdf
-#  url: 'slides.pdf'
-#  cta_new_tab: true
+#- icon_pack: fa
+#  icon: calendar
+#  name: Add to calendar
+#  url: '/kokkos-tea-time.ics'
+- icon_pack: fas
+  name: 'Get the slides'
+  icon: file-pdf
+  url: '2025_cexa_tea_time_integrating_kokkos_into_your_application.pdf'
+  cta_new_tab: true
 ---
 
 {{< cta cta_text="Register to be notified about future events" cta_link="https://lists.cexa-project.org/sympa/subscribe/network" >}}
