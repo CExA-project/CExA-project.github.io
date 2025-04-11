@@ -1,0 +1,2 @@
+[filtering]
+ignorewarnings=http-redirected,mail-no-mx-host

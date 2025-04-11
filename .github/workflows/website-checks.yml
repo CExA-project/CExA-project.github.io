@@ -1,0 +1,19 @@
+---
+name: Website tests
+
+on:
+  pull_request: # To be removed
+  workflow_dispatch:
+
+jobs:
+  links-check:
+    name: Links check using linkchecker
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Install linkchecker
+        run: |
+          pipx install linkchecker
+      - name: Analysing the links of the website
+        run: |
+          linkchecker --config=.linkcheckerrc --no-status https://cexa-project.org

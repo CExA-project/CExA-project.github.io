@@ -7,7 +7,7 @@ CExA organises a 3-days Kokkos training from the 20 to the 22 of Septembre in
 Saclay provided by Kokkos lead developers
 [Cristian Trott](https://extremecomputingtraining.anl.gov/speakers/christian-trott-snl/)
 and
-[Damien Lebrun-Grandié](https://www.ornl.gov/staff-profile/damien-t-lebrun-grandie).
+[Damien Lebrun-Grandié](https://www.ornl.gov/staff-profile/damien-lebrun-grandie).
 
 Registration to the first day is free and open to all, but mandatory to attend:
 https://indico.math.cnrs.fr/e/kokkos-1

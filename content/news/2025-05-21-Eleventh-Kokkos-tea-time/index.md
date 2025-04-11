@@ -17,7 +17,7 @@ links:
 
 {{< cta cta_text="Register to be notified about future events" cta_link="https://lists.cexa-project.org/sympa/subscribe/network" >}}
 
-CExA organizes its eleventh international **Kokkos tea-time** on Wednesday, May the 21th, 2025 for 45min starting at [7AM PST, 9AM MDT, 11AM EST, 3PM UTC, 4PM CET]([https://www.worldtimebuddy.com/?qm=1&lid=12,100,5,7,8&h=12&date=2025-03-19&sln=16-17&hf=1](https://www.worldtimebuddy.com/?qm=1&lid=12,100,5,7,8&h=12&date=2025-03-19&sln=16-17&hf=1)).
+CExA organizes its eleventh international **Kokkos tea-time** on Wednesday, May the 21th, 2025 for 45min starting at [7AM PST, 9AM MDT, 11AM EST, 3PM UTC, 4PM CET](https://www.worldtimebuddy.com/?qm=1&lid=12,100,5,7,8&h=12&date=2025-03-19&sln=16-17&hf=1).
 It can be followed on [Zoom](https://cnrs.zoom.us/j/97834891802?pwd=NXhzd2paY051S3dQekVQVllvTW5MUT09), by [phone]({{< ref "#by-phone" >}}), or from [a visio room]({{< ref "#from-a-visio-room" >}}).
 
 {{< cta cta_text="<i class='fa fa-calendar'></i>&nbsp; Add to calendar" cta_link="/kokkos-tea-time.ics" >}}

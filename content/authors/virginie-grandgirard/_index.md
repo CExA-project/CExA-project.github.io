@@ -8,7 +8,7 @@ organizations:
 - name: CEA
   url: https://www.cea.fr/
 - name: IRFM
-  url: http://irfm.cea.fr
+  url: https://irfm.cea.fr
 highlight_name: false
 social:
 - icon: envelope
