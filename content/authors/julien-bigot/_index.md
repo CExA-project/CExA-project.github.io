@@ -25,7 +25,7 @@ social:
   link: https://orcid.org/0000-0002-0015-4304
 - icon: researchgate
   icon_pack: ai
-  link: https://www.researchgate.net/profile/Julien_Bigot2
+  link: https://www.researchgate.net/profile/Julien-Bigot-2
 - icon: ideas-repec
   icon_pack: ai
   link: https://cv.archives-ouvertes.fr/julien-bigot
