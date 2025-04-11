@@ -8,7 +8,7 @@ organizations:
 - name: CEA
   url: https://www.cea.fr/
 - name: Maison de la Simulation
-  url: http://www.mdls.fr/
+  url: https://mdls.fr/
 - name: DRF
 social:
 - icon: envelope

@@ -8,7 +8,7 @@ organizations:
 - name: CEA
   url: https://www.cea.fr/
 - name: Maison de la Simulation
-  url: http://www.maisondelasimulation.fr/
+  url: https://mdls.fr/
 social:
 - icon: envelope
   icon_pack: fas
