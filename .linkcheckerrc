@@ -3,3 +3,8 @@ sslverify=0
 
 [filtering]
 ignorewarnings=http-redirected,mail-no-mx-host
+ignore=
+  https://hugoblox\.com/\?utm_campaign=poweredby
+  https://www\.researchgate\.net/profile/Julien-Bigot-2
+  https://scholar\.google\.co\.uk/citations\?user=lwrAj8AAAAAJ
+  https://programmes-i\.extra\.cea\.fr/.*
