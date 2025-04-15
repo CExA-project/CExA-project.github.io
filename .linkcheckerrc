@@ -1,2 +1,5 @@
+[checking]
+sslverify=0
+
 [filtering]
 ignorewarnings=http-redirected,mail-no-mx-host
