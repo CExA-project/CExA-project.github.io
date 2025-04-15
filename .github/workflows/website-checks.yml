@@ -17,4 +17,4 @@ jobs:
           pipx install linkchecker
       - name: Analysing the links of the website
         run: |
-          linkchecker --config=.linkcheckerrc --check-extern https://cexa-project.org
+          linkchecker --config=.linkcheckerrc --threads=4 --check-extern https://cexa-project.org
