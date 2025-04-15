@@ -2,7 +2,8 @@
 name: Website tests
 
 on:
-  pull_request: # To be removed
+  schedule:
+    - cron: "0 1 * * 0"  # At 01:00 on Sunday.
   workflow_dispatch:
 
 jobs:
@@ -16,4 +17,4 @@ jobs:
           pipx install linkchecker
       - name: Analysing the links of the website
         run: |
-          linkchecker --config=.linkcheckerrc --no-status https://cexa-project.org
+          linkchecker --config=.linkcheckerrc --check-extern https://cexa-project.org
