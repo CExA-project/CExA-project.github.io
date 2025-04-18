@@ -8,7 +8,7 @@ organizations:
 - name: CEA
   url: https://www.cea.fr/
 - name: DM2S
-  url: http://www.materials.cea.fr/Phocea/Vie_des_labos/Ast/ast_sstheme.php?id_ast=77
+  url: https://www.cea.fr/Pages/le-cea/direction-des-energies.aspx
 highlight_name: false
 social:
 - icon: envelope
