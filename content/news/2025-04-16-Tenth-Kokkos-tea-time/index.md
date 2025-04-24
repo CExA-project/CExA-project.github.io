@@ -5,15 +5,15 @@ date: 2025-03-05
 summary: 'On April the 16th, Yohei Miki will give a talk entitled "Solomon: unified schemes for directive-based GPU offloading"'
 
 links:
-- icon_pack: fa
-  icon: calendar
-  name: Add to calendar
-  url: '/kokkos-tea-time.ics'
-#- icon_pack: fas
-#  name: 'Get the slides'
-#  icon: file-pdf
-#  url: 'slides.pdf'
-#  cta_new_tab: true
+# - icon_pack: fa
+#   icon: calendar
+#   name: Add to calendar
+#   url: '/kokkos-tea-time.ics'
+- icon_pack: fas
+  name: 'Get the slides'
+  icon: file-pdf
+  url: '250416Solomon_KokkosTeaTime.pdf'
+  cta_new_tab: true
 ---
 
 {{< cta cta_text="Register to be notified about future events" cta_link="https://lists.cexa-project.org/sympa/subscribe/network" >}}
