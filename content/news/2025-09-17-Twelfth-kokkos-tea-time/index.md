@@ -26,11 +26,13 @@ Wolfgang Bangerth is a professor of mathematics and geosciences at Colorado Stat
 <!--{{% cta cta_text="Get the slides" cta_link="slides.pdf" cta_new_tab="true" %}}-->
 
 
+
 ## Experience converting large scientific software packages written in C++ to C++20 modules
 
 Many of the most widely used scientific software libraries are written in C++, but almost all of them still use the traditional header-based approach inherited from C to connect declarations provided in one file to uses and implementations in another file. On the other hand, C++20 has introduced a module system that is intended to give C++ a proper "import" statement that goes beyond the textual inclusion of "#include".
 
 In this talk, I will outline my experience with converting the deal.II finite element library -- a library with 1.8M lines of C++ -- to use C++20-style modules. I will discuss how I did this from a technical perspective, and in particular how that actually works in practice.
+
 
 
 ## Contribute
@@ -39,6 +41,7 @@ Any subject is welcome if it is related to the Kokkos ecosystem (developments, u
 Feel free to contact us to propose a talk: contact@cexa-project.org
 
 We target very informal discussion in English. You can propose any subject for discussion even if you don't have a dedicated slide deck.
+
 
 
 ## Additional info
