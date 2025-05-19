@@ -1,8 +1,8 @@
 ---
-title: "March 19th 2025: ninth Kokkos tea-time"
-subtitle: "Kokkos Best Practices: Integrating Kokkos into Your Project"
-date: 2025-02-20
-summary: 'On March the 19th, Damien Lebrun-Grandié from Oak Ridge National Laboratory will give a talk entitled "Kokkos Best Practices: Integrating Kokkos into Your Project"'
+title: "September 17th 2025: twelfth Kokkos tea-time"
+subtitle: "Experience converting large scientific software packages written in C++ to C++20 modules"
+date: 2025-05-19
+summary: 'On September the 17th, Wolfgang Bangerth from Colorado State University will give a talk entitled "Experience converting large scientific software packages written in C++ to C++20 modules"'
 links:
 #- icon_pack: fa
 #  icon: calendar
@@ -17,23 +17,25 @@ links:
 
 {{< cta cta_text="Register to be notified about future events" cta_link="https://lists.cexa-project.org/sympa/subscribe/network" >}}
 
-CExA organizes its eigth international **Kokkos tea-time** on Wednesday, March the 19th, 2025 for 45min starting at [7AM PST, 9AM MDT, 11AM EST, 3PM UTC, 4PM CET](https://www.worldtimebuddy.com/?qm=1&lid=12,100,5,7,8&h=12&date=2025-03-19&sln=16-17&hf=1).
+CExA organizes its twelfth international **Kokkos tea-time** on Wednesday, September the 17th, 2025 for 45min starting at [7AM PST, 9AM MDT, 11AM EST, 3PM UTC, 4PM CET](https://www.worldtimebuddy.com/?qm=1&lid=12,100,5,7,8&h=12&date=2025-03-19&sln=16-17&hf=1).
 It can be followed on [Zoom](https://cnrs.zoom.us/j/97834891802?pwd=NXhzd2paY051S3dQekVQVllvTW5MUT09), by [phone]({{< ref "#by-phone" >}}), or from [a visio room]({{< ref "#from-a-visio-room" >}}).
 
 {{< cta cta_text="<i class='fa fa-calendar'></i>&nbsp; Add to calendar" cta_link="/kokkos-tea-time.ics" >}}
 
-Damien Lebrun-Grandié will give a talk entitled "Kokkos Best Practices: Integrating Kokkos into Your Project"
+Wolfgang Bangerth will give a talk entitled "Experience converting large scientific software packages written in C++ to C++20 modules"
 
-![Damien Lebrun-Grandié](2022-damien-portrait.jpg "Damien Lebrun-Grandié")
+![Wolfgang Bangerth](2025-wolfgang-portrait.jpg "Wolfgang Bangerth")
 
-Damien Lebrun-Grandié is a Computational Scientist at Oak Ridge National Laboratory and co-leads the Kokkos performance portability project. His expertise in high-performance computing informs his work on enabling technologies for large-scale scientific applications. He also serves on the ISO C++ Standards Committee.
+Wolfgang Bangerth is a professor of mathematics and geosciences at Colorado State University, USA. He holds an undergraduate degree in physics, and a PhD in mathematics from Heidelberg University, Germany. As a graduate student in 1997, he co-founded the deal.II project (https://www.dealii.org), a widely used software library that provides finite element functionality. He is now one of the Principal Developers of the project.
 
 <!--{{% cta cta_text="Get the slides" cta_link="slides.pdf" cta_new_tab="true" %}}-->
 
 
-## Kokkos Best Practices: Integrating Kokkos into Your Project
+## Experience converting large scientific software packages written in C++ to C++20 modules
 
-This Kokkos tea-time session will cover best practices for integrating Kokkos into your project using CMake. We'll explore options for managing Kokkos, including using an external installation versus building Kokkos as part of your project. The session will also detail recommended procedures for initializing and finalizing Kokkos within your library or application
+Many of the most widely used scientific software libraries are written in C++, but almost all of them still use the traditional header-based approach inherited from C to connect declarations provided in one file to uses and implementations in another file. On the other hand, C++20 has introduced a module system that is intended to give C++ a proper "import" statement that goes beyond the textual inclusion of "#include".
+
+In this talk, I will outline my experience with converting the deal.II finite element library -- a library with 1.8M lines of C++ -- to use C++20-style modules. I will discuss how I did this from a technical perspective, and in particular how that actually works in practice.
 
 
 ## Contribute
