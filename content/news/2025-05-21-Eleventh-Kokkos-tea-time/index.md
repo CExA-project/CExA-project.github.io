@@ -17,14 +17,14 @@ links:
 
 {{< cta cta_text="Register to be notified about future events" cta_link="https://lists.cexa-project.org/sympa/subscribe/network" >}}
 
-CExA organizes its eleventh international **Kokkos tea-time** on Wednesday, May the 21th, 2025 for 45min starting at [7AM PST, 9AM MDT, 11AM EST, 3PM UTC, 4PM CET](https://www.worldtimebuddy.com/?qm=1&lid=12,100,5,7,8&h=12&date=2025-03-19&sln=16-17&hf=1).
+CExA organizes its eleventh international **Kokkos tea-time** on Wednesday, May the 21th, 2025 for 45min starting at [7AM PDT, 9AM MDT, 11AM EST, 3PM UTC, 4PM CEST](https://www.worldtimebuddy.com/?qm=1&lid=12,100,5,7,8&h=12&date=2025-03-19&sln=16-17&hf=1).
 It can be followed on [Zoom](https://cnrs.zoom.us/j/97834891802?pwd=NXhzd2paY051S3dQekVQVllvTW5MUT09), by [phone]({{< ref "#by-phone" >}}), or from [a visio room]({{< ref "#from-a-visio-room" >}}).
 
 {{< cta cta_text="<i class='fa fa-calendar'></i>&nbsp; Add to calendar" cta_link="/kokkos-tea-time.ics" >}}
 
 Ester El Khoury will give a talk entitled "Exploring C++ Standard Parallelism Features for GPU Programming in a Particle-In-Cell Application"
 
-Ester El Khoury is currently a first-year PhD student in Informatics at Maison de la Simulation, CEA Saclay, France. Her research focuses on exploring asynchronous programming models using modern C++ for porting scientific applications to GPUs. Prior to starting her PhD, she completed a six-month internship at Maison de la Simulation, during which she worked on the study presented in this talk. She holds an engineering degree in Electronics and Embedded Systems from Polytech Paris-Saclay, as well as a Master’s degree (M2) in Embedded Systems and Information Processing from Université Paris-Saclay.
+Ester El Khoury is currently a PhD student in Informatics at Maison de la Simulation, CEA Saclay, France. Her research focuses on exploring asynchronous programming models using modern C++ for porting scientific applications to GPUs. Prior to starting her PhD, she completed a six-month internship at Maison de la Simulation, during which she worked on the study presented in this talk. She holds an engineering degree in Electronics and Embedded Systems from Polytech Paris-Saclay, as well as a Master’s degree (M2) in Embedded Systems and Information Processing from Université Paris-Saclay.
 
 <!--{{% cta cta_text="Get the slides" cta_link="slides.pdf" cta_new_tab="true" %}}-->
 
