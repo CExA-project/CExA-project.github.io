@@ -10,5 +10,7 @@ title: Cheat Sheet for Kokkos
 /*-->*/</style>
 
 {{< figure src="Cheat Sheet install for Kokkos.jpg" title="Cheat Sheet install for Kokkos" link="cheat_sheet_install_for_kokkos.pdf" class="black_bordered" >}}
+{{< figure src="Cheat Sheet terminology for Kokkos.jpg" title="Cheat Sheet terminology for Kokkos" link="cheat_sheet_terminology_for_kokkos.pdf" class="black_bordered" >}}
 {{< figure src="Cheat Sheet utilization for Kokkos.jpg" title="Cheat Sheet utilization for Kokkos" link="cheat_sheet_utilization-for_kokkos.pdf" class="black_bordered" >}}
+
 
