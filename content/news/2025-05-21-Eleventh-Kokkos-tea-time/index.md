@@ -4,15 +4,15 @@ subtitle: "Exploring C++ Standard Parallelism Features for GPU Programming in a 
 date: 2025-04-01
 summary: 'On May the 21th, Ester El Khoury from Maison de la Simulation will give a talk entitled "Exploring C++ Standard Parallelism Features for GPU Programming in a Particle-In-Cell Application"'
 links:
-- icon_pack: fa
-  icon: calendar
-  name: Add to calendar
-  url: '/kokkos-tea-time.ics'
-#- icon_pack: fas
-#  name: 'Get the slides'
-#  icon: file-pdf
-#  url: 'slides.pdf'
-#  cta_new_tab: true
+# - icon_pack: fa
+#   icon: calendar
+#   name: Add to calendar
+#   url: '/kokkos-tea-time.ics'
+- icon_pack: fas
+ name: 'Get the slides'
+ icon: file-pdf
+ url: 'kokkos_tea_time_presentation.pdf'
+ cta_new_tab: true
 ---
 
 {{< cta cta_text="Register to be notified about future events" cta_link="https://lists.cexa-project.org/sympa/subscribe/network" >}}
