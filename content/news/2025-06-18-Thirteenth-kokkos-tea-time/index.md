@@ -1,8 +1,8 @@
 ---
-title: "January 15th 2025: Seventh Kokkos tea-time"
-subtitle: "Optimizing Derived Data Computation with Kokkos for I/O-Bound Workloads"
-date: 2024-12-02
-summary: On January the 15th, Ana Gainaru from Oak Ridge National Laboratory will give a talk entitled "Optimizing Derived Data Computation with Kokkos for I/O-Bound Workloads"
+title: "June 18th 2025: Thirteenth Kokkos tea-time"
+subtitle: "SERGHEI: a Kokkos-based framework for computational hydraulics and hydrology"
+date: 2025-06-16
+summary: On June the 18th, Daniel Caviedes-Voullieme from the Simulation and Data Laboratory for Terrestrial Systems of the Jülich Supercomputing Centre will give a talk entitled "SERGHEI: a Kokkos-based framework for computational hydraulics and hydrology"
 links:
 - icon_pack: fas
   name: 'Get the slides'
@@ -13,22 +13,22 @@ links:
 
 {{< cta cta_text="Register to be notified about future events" cta_link="https://lists.cexa-project.org/sympa/subscribe/network" >}}
 
-CExA organizes its seventh international **Kokkos tea-time** on Wednesday, January the 15th, 2025 for 45min starting at [7AM PST, 8AM MST, 10AM EST, 3PM UTC, 4PM CET](https://www.worldtimebuddy.com/?qm=1&lid=12,100,5,7,8&h=12&date=2025-01-15&sln=16-17&hf=1).
+CExA organizes its thirteenth international **Kokkos tea-time** on Wednesday, June the 18th, 2025 for 45min starting at [7AM PST, 8AM MST, 10AM EST, 3PM UTC, 4PM CET](https://www.worldtimebuddy.com/?qm=1&lid=12,100,5,7,8&h=12&date=2025-01-15&sln=16-17&hf=1).
 It can be followed on [Zoom](https://cnrs.zoom.us/j/97834891802?pwd=NXhzd2paY051S3dQekVQVllvTW5MUT09), by [phone]({{< ref "#by-phone" >}}), or from [a visio room]({{< ref "#from-a-visio-room" >}}).
 
 {{< cta cta_text="<i class='fa fa-calendar'></i>&nbsp; Add to calendar" cta_link="/kokkos-tea-time.ics" >}}
 
-Ana Gainaru will give a talk on "Optimizing Derived Data Computation with Kokkos for I/O-Bound Workloads"
+Daniel Caviedes-Voullieme will give a talk on "SERGHEI: a Kokkos-based framework for computational hydraulics and hydrology"
 
-Ana Gainaru is a computer scientist in the CSM division at Oak Ridge National Laboratory, working on performance optimization for large scale scientific applications and on profiling, managing, and analyzing large-scale data. She received her PhD from the University of Illinois at Urbana-Champaign and has a background in optimizing the execution of scientific applications at every level of the software stack, from data-aware runtime design to scheduling, fault tolerance and code optimization.
+Daniel Caviedes-Voullieme is a computational hydrologist. He is the team leader of the Simulation and Data Laboratory for Terrestrial Systems of the Jülich Supercomputing Centre (Forschungszentrum Jülich, Germany). He obtained a Civil Engineering degree from the University of Costa Rica, an Msc in Applied Mechanics and a PhD degree from the University of Zaragoza. He has previously held research and teaching positions at the University of Zaragoza (ES), University of Sheffield (UK) and BTU Cottbus-Senftenberg (DE). His research is centered around high-performing, performance-portable and scalable numerical solvers for hydrodynamics and hydrology, and their application for environmental hydraulics and hydrology across scales.
 
 {{% cta cta_text="Get the slides" cta_link="2025_Jan_tea-time.pdf" cta_new_tab="true" %}} 
 
 
 
-## Optimizing Derived Data Computation with Kokkos for I/O-Bound Workloads
+## SERGHEI: a Kokkos-based framework for computational hydraulics and hydrology
 
-Scientific data analysis often involves complex queries across distributed datasets, requiring manipulation of multiple variables and generating derived data on the fly. Derived quantities are obtained by mathematical transformations of primary data (generated directly by applications) and allow researchers to focus in their analysis on specific aspects of their simulation. For example, in combustion simulations, calculating the magnitude of the velocity (primary data) creates a derived variable that effectively identifies areas of high interest, such as regions with intense burning. In this talk I will present optimization opportunities when the decision on when to compute the derived variables is offloaded to the I/O library and how Kokkos can be used to handled them efficiently for I/O intensive applications.
+The Simulation EnviRonment for Geomorphoogy, Hydrodynamics and Ecohydrology in Integrated form (SERGHEI) is a Kokkos-based project which couples a variety of solvers for environmental processes driven by hydrodynamics. Aiming at performance-portability, it was developed from the start on Kokkos, and is currently being extended by a growing international team. In this talk we will introduce SERGHEI and its goals, showcase some of its scientific features and applications, and report some of experiences implementing and testing it. Additionally, we will report on the ongoing investigation of the performance-portability and scalability of SERGHEI on exascale systems.
 
 
 ## Contribute
