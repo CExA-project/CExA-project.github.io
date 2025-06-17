@@ -45,9 +45,9 @@ We target very informal discussion in English. You can propose any subject for d
 
 In a web browser or from the application.
 
-https://cnrs.zoom.us/j/97834891802?pwd=NXhzd2paY051S3dQekVQVllvTW5MUT09
-* Meeting ID: 978 3489 1802
-* Passcode: VdCL7d
+https://zoom-lfx.platform.linuxfoundation.org/meeting/92397190835?password=b177af2d-9c4a-4376-9d17-b57588a88146
+* Meeting ID: 92397190835
+* Passcode: 218480
 
 
 ### From a visio room
@@ -61,9 +61,9 @@ https://cnrs.zoom.us/j/97834891802?pwd=NXhzd2paY051S3dQekVQVllvTW5MUT09
 * 162.255.37.11 (US West)
 * 162.255.36.11 (US East)
 
-Meeting ID: 978 3489 1802
+Meeting ID: 92397190835
 
-Passcode: 712542
+Passcode: 218480
 
 ###  One tap mobile
 
@@ -72,9 +72,9 @@ Passcode: 712542
 
 ### By phone
 
-* Meeting ID: 978 3489 1802
-* Passcode: 712542
-* Find your local number: https://cnrs.zoom.us/u/adb4LKJbkK
+* Meeting ID: 92397190835
+* Passcode: 218480
+* Find your local number: https://zoom.us/u/alwnPIaVT
 
 Dial by your location
 * +33 1 7095 0350 France
