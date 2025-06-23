@@ -22,7 +22,7 @@ Daniel Caviedes-Voullieme will give a talk on "SERGHEI: a Kokkos-based framework
 
 Daniel Caviedes-Voullieme is a computational hydrologist. He is the team leader of the Simulation and Data Laboratory for Terrestrial Systems of the Jülich Supercomputing Centre (Forschungszentrum Jülich, Germany). He obtained a Civil Engineering degree from the University of Costa Rica, an Msc in Applied Mechanics and a PhD degree from the University of Zaragoza. He has previously held research and teaching positions at the University of Zaragoza (ES), University of Sheffield (UK) and BTU Cottbus-Senftenberg (DE). His research is centered around high-performing, performance-portable and scalable numerical solvers for hydrodynamics and hydrology, and their application for environmental hydraulics and hydrology across scales.
 
-{{% cta cta_text="Get the slides" cta_link="2025_Jan_tea-time.pdf" cta_new_tab="true" %}} 
+#{{% cta cta_text="Get the slides" cta_link="2025_Jan_tea-time.pdf" cta_new_tab="true" %}} 
 
 
 
