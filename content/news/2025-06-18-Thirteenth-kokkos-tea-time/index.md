@@ -28,7 +28,7 @@ Daniel Caviedes-Voullieme is a computational hydrologist. He is the team leader 
 
 ## SERGHEI: a Kokkos-based framework for computational hydraulics and hydrology
 
-The Simulation EnviRonment for Geomorphoogy, Hydrodynamics and Ecohydrology in Integrated form (SERGHEI) is a Kokkos-based project which couples a variety of solvers for environmental processes driven by hydrodynamics. Aiming at performance-portability, it was developed from the start on Kokkos, and is currently being extended by a growing international team. In this talk we will introduce SERGHEI and its goals, showcase some of its scientific features and applications, and report some of experiences implementing and testing it. Additionally, we will report on the ongoing investigation of the performance-portability and scalability of SERGHEI on exascale systems.
+The Simulation EnviRonment for Geomorphology, Hydrodynamics and Ecohydrology in Integrated form (SERGHEI) is a Kokkos-based project which couples a variety of solvers for environmental processes driven by hydrodynamics. Aiming at performance-portability, it was developed from the start on Kokkos, and is currently being extended by a growing international team. In this talk we will introduce SERGHEI and its goals, showcase some of its scientific features and applications, and report some of experiences implementing and testing it. Additionally, we will report on the ongoing investigation of the performance-portability and scalability of SERGHEI on exascale systems.
 
 
 ## Contribute
