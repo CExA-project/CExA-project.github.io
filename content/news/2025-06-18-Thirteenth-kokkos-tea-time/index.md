@@ -1,7 +1,7 @@
 ---
 title: "June 18th 2025: Thirteenth Kokkos tea-time"
 subtitle: "SERGHEI: a Kokkos-based framework for computational hydraulics and hydrology"
-date: 2025-06-16
+date: 2025-05-18
 summary: 'On June the 18th, Daniel Caviedes-Voullieme from the Simulation and Data Laboratory for Terrestrial Systems of the Jülich Supercomputing Centre will give a talk entitled "SERGHEI: a Kokkos-based framework for computational hydraulics and hydrology"'
 links:
 - icon_pack: fas
