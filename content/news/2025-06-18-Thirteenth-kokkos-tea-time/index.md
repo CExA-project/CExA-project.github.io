@@ -4,11 +4,11 @@ subtitle: "SERGHEI: a Kokkos-based framework for computational hydraulics and hy
 date: 2025-05-18
 summary: 'On June the 18th, Daniel Caviedes-Voullieme from the Simulation and Data Laboratory for Terrestrial Systems of the Jülich Supercomputing Centre will give a talk entitled "SERGHEI: a Kokkos-based framework for computational hydraulics and hydrology"'
 links:
-- icon_pack: fas
-  name: 'Get the slides'
-  icon: file-pdf
-  url: '2025_Jan_tea-time.pdf'
-  cta_new_tab: true
+#- icon_pack: fas
+#  name: 'Get the slides'
+#  icon: file-pdf
+#  url: '2025_Jan_tea-time.pdf'
+#  cta_new_tab: true
 ---
 
 {{< cta cta_text="Register to be notified about future events" cta_link="https://lists.cexa-project.org/sympa/subscribe/network" >}}
