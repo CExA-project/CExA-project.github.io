@@ -1,38 +1,38 @@
 ---
-title: "September 17th 2025: twelfth Kokkos tea-time"
-subtitle: "Experience converting large scientific software packages written in C++ to C++20 modules"
-date: 2025-05-19
-summary: 'On September the 17th, Wolfgang Bangerth from Colorado State University will give a talk entitled "Experience converting large scientific software packages written in C++ to C++20 modules"'
+title: "June tea-time: SERGHEI: a Kokkos-based framework for computational hydraulics and hydrology"
+subtitle: "June 18th 2025: Kokkos tea-time"
+date: 2025-05-18
+summary: 'On June the 18th, Daniel Caviedes-Voullieme from the Simulation and Data Laboratory for Terrestrial Systems of the Jülich Supercomputing Centre will give a talk entitled "SERGHEI: a Kokkos-based framework for computational hydraulics and hydrology"'
 links:
-#- icon_pack: fa
-#  icon: calendar
-#  name: Add to calendar
-#  url: '/kokkos-tea-time.ics'
+- icon_pack: fa
+  icon: calendar
+  name: Add to calendar
+  url: 'https://webcal.prod.itx.linuxfoundation.org/lfx/a092M00001MsyOeQAJ'
+#- icon_pack: fas
+#  name: 'Get the slides'
+#  icon: file-pdf
+#  url: 'slides.pdf'
+#  cta_new_tab: true
 ---
 
 {{< cta cta_text="Register to be notified about future events" cta_link="https://lists.cexa-project.org/sympa/subscribe/network" >}}
 
-CExA organizes its twelfth international **Kokkos tea-time** on Wednesday, September the 17th, 2025 for 45min starting at [7AM PDT, 9AM MDT, 11AM EST, 3PM UTC, 4PM CEST](https://www.worldtimebuddy.com/?qm=1&lid=12,100,5,7,8&h=12&date=2025-03-19&sln=16-17&hf=1).
-It can be followed on [Zoom](https://cnrs.zoom.us/j/97834891802?pwd=NXhzd2paY051S3dQekVQVllvTW5MUT09), by [phone]({{< ref "#by-phone" >}}), or from [a visio room]({{< ref "#from-a-visio-room" >}}).
+CExA organizes the 12th **Kokkos tea-time** on Wednesday, June the 18th, 2025 for 45min starting at [7AM PDT, 8AM MDT, 10AM EST, 2PM UTC, 4PM CEST](https://www.worldtimebuddy.com/?qm=1&lid=12,8,100,5,7,8&h=12&date=2025-6-17&sln=16-17&hf=1).
+It can be followed on [Zoom](https://zoom-lfx.platform.linuxfoundation.org/meeting/92397190835?password=b177af2d-9c4a-4376-9d17-b57588a88146), by [phone]({{< ref "#by-phone" >}}), or from [a visio room]({{< ref "#from-a-visio-room" >}}).
 
-{{< cta cta_text="<i class='fa fa-calendar'></i>&nbsp; Add to calendar" cta_link="/kokkos-tea-time.ics" >}}
+{{< cta cta_text="<i class='fa fa-calendar'></i>&nbsp; Add to calendar" cta_link="https://webcal.prod.itx.linuxfoundation.org/lfx/a092M00001MsyOeQAJ" >}}
 
-Wolfgang Bangerth will give a talk entitled "Experience converting large scientific software packages written in C++ to C++20 modules"
+Daniel Caviedes-Voullieme will give a talk on "SERGHEI: a Kokkos-based framework for computational hydraulics and hydrology"
 
-![Wolfgang Bangerth](2025-wolfgang-portrait.jpg "Wolfgang Bangerth")
+Daniel Caviedes-Voullieme is a computational hydrologist. He is the team leader of the Simulation and Data Laboratory for Terrestrial Systems of the Jülich Supercomputing Centre (Forschungszentrum Jülich, Germany). He obtained a Civil Engineering degree from the University of Costa Rica, an Msc in Applied Mechanics and a PhD degree from the University of Zaragoza. He has previously held research and teaching positions at the University of Zaragoza (ES), University of Sheffield (UK) and BTU Cottbus-Senftenberg (DE). His research is centered around high-performing, performance-portable and scalable numerical solvers for hydrodynamics and hydrology, and their application for environmental hydraulics and hydrology across scales.
 
-Wolfgang Bangerth is a professor of mathematics and geosciences at Colorado State University, USA. He holds an undergraduate degree in physics, and a PhD in mathematics from Heidelberg University, Germany. As a graduate student in 1997, he co-founded the deal.II project (https://www.dealii.org), a widely used software library that provides finite element functionality. He is now one of the Principal Developers of the project.
-
-<!--{{% cta cta_text="Get the slides" cta_link="slides.pdf" cta_new_tab="true" %}}-->
+<!-- {{% cta cta_text="Get the slides" cta_link="slides.pdf" cta_new_tab="true" %}} -->
 
 
 
-## Experience converting large scientific software packages written in C++ to C++20 modules
+## SERGHEI: a Kokkos-based framework for computational hydraulics and hydrology
 
-Many of the most widely used scientific software libraries are written in C++, but almost all of them still use the traditional header-based approach inherited from C to connect declarations provided in one file to uses and implementations in another file. On the other hand, C++20 has introduced a module system that is intended to give C++ a proper "import" statement that goes beyond the textual inclusion of "#include".
-
-In this talk, I will outline my experience with converting the deal.II finite element library -- a library with 1.8M lines of C++ -- to use C++20-style modules. I will discuss how I did this from a technical perspective, and in particular how that actually works in practice.
-
+The Simulation EnviRonment for Geomorphology, Hydrodynamics and Ecohydrology in Integrated form (SERGHEI) is a Kokkos-based project which couples a variety of solvers for environmental processes driven by hydrodynamics. Aiming at performance-portability, it was developed from the start on Kokkos, and is currently being extended by a growing international team. In this talk we will introduce SERGHEI and its goals, showcase some of its scientific features and applications, and report some of experiences implementing and testing it. Additionally, we will report on the ongoing investigation of the performance-portability and scalability of SERGHEI on exascale systems.
 
 
 ## Contribute
@@ -43,16 +43,15 @@ Feel free to contact us to propose a talk: contact@cexa-project.org
 We target very informal discussion in English. You can propose any subject for discussion even if you don't have a dedicated slide deck.
 
 
-
 ## Additional info
 
 ### Zoom link
 
 In a web browser or from the application.
 
-https://cnrs.zoom.us/j/97834891802?pwd=NXhzd2paY051S3dQekVQVllvTW5MUT09
-* Meeting ID: 978 3489 1802
-* Passcode: VdCL7d
+https://zoom-lfx.platform.linuxfoundation.org/meeting/92397190835?password=b177af2d-9c4a-4376-9d17-b57588a88146
+* Meeting ID: 92397190835
+* Passcode: 218480
 
 
 ### From a visio room
@@ -66,20 +65,20 @@ https://cnrs.zoom.us/j/97834891802?pwd=NXhzd2paY051S3dQekVQVllvTW5MUT09
 * 162.255.37.11 (US West)
 * 162.255.36.11 (US East)
 
-Meeting ID: 978 3489 1802
+Meeting ID: 92397190835
 
-Passcode: 712542
+Passcode: 218480
 
 ###  One tap mobile
 
-+33170950350,,97834891802#,,,,*712542# France
-+33186995831,,97834891802#,,,,*712542# France
+US (iOS): +12532158782,,92397190835#,,,,*218480# 
+US (Android): +12532158782;92397190835#;218480#
 
 ### By phone
 
-* Meeting ID: 978 3489 1802
-* Passcode: 712542
-* Find your local number: https://cnrs.zoom.us/u/adb4LKJbkK
+* Meeting ID: 92397190835
+* Passcode: 218480
+* Find your local number: https://zoom.us/u/alwnPIaVT
 
 Dial by your location
 * +33 1 7095 0350 France
