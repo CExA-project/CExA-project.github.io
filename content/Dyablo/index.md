@@ -1,14 +1,14 @@
 ---
-title: Triclade
+title: Dyablo
 type: landing
 
 sections:
   - block: hero
     content:
-      title: Triclade
+      title: Dyablo
       image:
-        filename: triclade.jpg
-      text: The Triclade application helps study turbulent mixing zone at fluids interface.
+        filename: Dyablo.png
+      text: Dyablo cosmological run
 #      cta:
 #        url:
 #        label: Git repository
@@ -17,10 +17,8 @@ sections:
   - block: markdown
     content:
       text: |
-        The Triclade code is developed and used in-house at [CEA](https://www.cea.fr), nationnaly with the [ISAE](https://groupe-isae.fr/), an internationnaly within the Ɵ-Group collaboration. It deals with the turbulent mixing phenomenon, typically found in various fields, such as Astrophysics, Geophysics, or Inertial Confinement Fusion.
-        Triclade models Turbulent Mixing Zone created and developed at fluids interface from shocks, expansions, accelerations, etc. in a highly compressible environment. It solves Navier-Stokes equations on a structured Cartesian mesh using various "Shock-capturing" numerical schemes.        
-        Triclade is a standalone parallel (MPI) application written in C++ (100 kloc).
-        It is currently in the process of becoming open-source and available on GitHub.
+        Dyablo is a modern C++ code for the simulation of astrophysical fluids with adaptive mesh refinement on heterogenous architectures. Dyablo is developed mainly at CEA and has users all over France. Parallelism is handled using Kokkos and MPI and is thus compatible with all major supercomputer infrastructures in France. Its modular architecture allows it to simulate various phenomena from compressible hydrodynamics to cosmology and magnetohydrodynamics.
+        The code is open-source and available on [github](https://github.com/Dyablo-HPC/Dyablo)      
 
         Example of a triclade run:
         {{< figure src="triclade.gif" width="33%" >}}
