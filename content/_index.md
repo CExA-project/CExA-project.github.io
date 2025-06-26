@@ -106,6 +106,10 @@ sections:
           description: MultiFluid
           icon: camera-retro
           icon_pack: fas
+        - name: '[Dyablo]({{< relref "Dyablo" >}})'
+          description: Astrophysical Fluids
+          icon: camera-retro
+          icon_pack: fas
   - block: markdown
     content:
       title: 
