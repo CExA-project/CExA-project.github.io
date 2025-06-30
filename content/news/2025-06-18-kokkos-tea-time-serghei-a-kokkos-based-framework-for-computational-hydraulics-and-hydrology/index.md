@@ -28,7 +28,7 @@ Daniel Caviedes-Voullieme is a computational hydrologist. He is the team leader 
 
 <!-- {{% cta cta_text="Get the slides" cta_link="slides.pdf" cta_new_tab="true" %}} -->
 
-
+{{< youtube scI8jB2e5UQ >}}
 
 ## SERGHEI: a Kokkos-based framework for computational hydraulics and hydrology
 
