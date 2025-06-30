@@ -14,7 +14,7 @@ links:
   url: 'kokkos_tea_time_presentation.pdf'
   cta_new_tab: true
 
-- icon_pack: fas
+- icon_pack: fa
   name: 'Watch on Youtube'
   icon: youtube
   url: https://youtu.be/5RuyTHjjb5M
