@@ -7,13 +7,13 @@ sections:
     content:
       title: Dyablo
       image:
-        filename: Dyablo.png
+        filename: Dyablo1.png
       text: Dyablo cosmological run
-#      cta:
-#        url:
-#        label: Git repository
-#        icon_pack: fab
-#        icon: github    
+      cta:
+        url: https://github.com/Dyablo-HPC/Dyablo 
+        label: Git repository
+        icon_pack: fab
+        icon: github    
   - block: markdown
     content:
       text: |
