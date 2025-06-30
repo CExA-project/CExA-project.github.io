@@ -17,6 +17,10 @@ main:
     identifier: demos
     url: demos
     weight: 30
+  - name: Dyablo
+    parent: demos
+    url: dyablo
+    weight: 5
   - name: GyselaX++
     parent: demos
     url: gyselax
