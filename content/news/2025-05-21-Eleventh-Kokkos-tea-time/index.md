@@ -26,7 +26,7 @@ Ester El Khoury will give a talk entitled "Exploring C++ Standard Parallelism Fe
 
 Ester El Khoury is currently a PhD student in Informatics at Maison de la Simulation, CEA Saclay, France. Her research focuses on exploring asynchronous programming models using modern C++ for porting scientific applications to GPUs. Prior to starting her PhD, she completed a six-month internship at Maison de la Simulation, during which she worked on the study presented in this talk. She holds an engineering degree in Electronics and Embedded Systems from Polytech Paris-Saclay, as well as a Master’s degree (M2) in Embedded Systems and Information Processing from Université Paris-Saclay.
 
-<!--{{% cta cta_text="Get the slides" cta_link="slides.pdf" cta_new_tab="true" %}}-->
+{{% cta cta_text="Get the slides" cta_link="kokkos_tea_time_presentation.pdf" cta_new_tab="true" %}}
 
 
 ## Exploring C++ Standard Parallelism Features for GPU Programming in a Particle-In-Cell Application
