@@ -16,7 +16,7 @@ links:
 
 - icon_pack: fa
   name: 'Watch on Youtube'
-  icon: <i class="fa-brands fa-square-youtube"></i>
+  icon: square-youtube
   url: https://youtu.be/5RuyTHjjb5M
   cta_new_tab: true
 ---
