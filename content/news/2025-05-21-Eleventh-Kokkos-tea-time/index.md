@@ -28,6 +28,7 @@ Ester El Khoury is currently a PhD student in Informatics at Maison de la Simula
 
 {{% cta cta_text="Get the slides" cta_link="kokkos_tea_time_presentation.pdf" cta_new_tab="true" %}}
 
+{{< youtube 5RuyTHjjb5M >}}
 
 ## Exploring C++ Standard Parallelism Features for GPU Programming in a Particle-In-Cell Application
 
