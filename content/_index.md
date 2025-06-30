@@ -107,7 +107,7 @@ sections:
           icon: camera-retro
           icon_pack: fas
         - name: '[Dyablo]({{< relref "dyablo" >}})'
-          description: Astrophysical Fluids
+          description: Astrophysics
           icon: camera-retro
           icon_pack: fas
   - block: markdown
