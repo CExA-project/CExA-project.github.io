@@ -9,6 +9,7 @@ title: Our presentations
 }
 /*-->*/</style>
 
+{{< figure src="2025-06-16-CEA-Sustainability-Strategy-through-the-High-Performance-Software-Foundation.jpg" title="2025-06-16 PASC: CEA Sustainability Strategy through the High Performance Software Foundation.pdf" link="2025-06-16-CEA-Sustainability-Strategy-through-the-High-Performance-Software-Foundation.pdf" class="black_bordered" >}}
 {{< figure src="2025-05-20_Kokkos_at_ORAP.jpg" title="2025-05-20 Kokkos at ORAP" link="2025-05-20_Kokkos_at_ORAP.pdf" class="black_bordered" >}}
 {{< figure src="2025-01-23_Kokkos_HPSF_and_CExA_at_CERFACS.jpg" title="2025-01-23 Kokkos HPSF and CExA at CERFACS" link="2025-01-23_Kokkos_HPSF_and_CExA_at_CERFACS.pdf" class="black_bordered" >}}
 {{< figure src="2025-01-15_Kokkos_HPSF_and_CExA_at_School.jpg" title="2025-01-15 Kokkos HPSF and CExA at School" link="2025-01-15_Kokkos_HPSF_and_CExA_at_School.pdf" class="black_bordered" >}}
