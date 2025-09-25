@@ -110,6 +110,10 @@ sections:
           description: Astrophysics
           icon: camera-retro
           icon_pack: fas
+        - name: '[Tripoli 5]({{< relref "tripoli" >}})'
+          description: Neutronics
+          icon: atom
+          icon_pack: fas
   - block: markdown
     content:
       title: 

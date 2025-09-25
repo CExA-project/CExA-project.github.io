@@ -33,6 +33,10 @@ main:
     parent: demos
     url: triocfd
     weight: 30
+  - name: Tripoli 5
+    parent: demos
+    url: tripoli
+    weight: 40
   - name: "Community & Contacts"
     url: community
     weight: 40
