@@ -13,6 +13,12 @@ links:
 #  icon: file-pdf
 #  url: '2025_Jan_tea-time.pdf'
 #  cta_new_tab: true
+
+- icon_pack: fas
+  name: 'Watch on Youtube'
+  icon: square-youtube
+  url: https://youtu.be/Mab0A84xBMM?si=uabJPNtUVNTEL_Tz 
+  cta_new_tab: true
 ---
 
 {{< cta cta_text="Register to be notified about future events" cta_link="https://lists.cexa-project.org/sympa/subscribe/network" >}}
