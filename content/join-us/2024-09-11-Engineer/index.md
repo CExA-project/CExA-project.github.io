@@ -13,6 +13,13 @@ links:
 
 ---
 
+# THIS POSITION HAS BEEN FILLED.  
+However, please feel free to send us your CV at contact@cexa-project.org, so we can contact you if an opportunity matching your profile becomes available.
+
+<!--more--> 
+---
+
+
 # Methods and tools for optimizing Kokkos kernels in large GPU codes
 
 CEA is recruiting a C++/HPC expert engineers for a 2-year period to join the CExA "Moonshot" project team to develop new methods and tools to optimize the performance of portable kernels implemented using the Kokkos library. As a use-case, these tools and techniques will be demonstrated in the Dyablo code, a novel HPC code for simulating astrophysical fluids, from stellar
