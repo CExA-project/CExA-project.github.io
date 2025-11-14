@@ -13,6 +13,13 @@ links:
 
 ---
 
+# THIS POSITION HAS BEEN FILLED.  
+However, please feel free to send us your CV at contact@cexa-project.org, so we can contact you if an opportunity matching your profile becomes available.
+
+<!--more--> 
+---
+
+
 # C++ expert engineer 👩‍💻🧑‍💻
 
 ## Contribution to the development of the Kokkos GPU computing library within the CExA “Moonshot” project
