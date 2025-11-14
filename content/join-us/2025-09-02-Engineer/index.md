@@ -19,6 +19,7 @@ However, please feel free to send us your CV at contact@cexa-project.org, so we 
 
 ---
 
+
 # 🚀 Job Offer: C++/HPC Engineer – MLIR / JAX / Pytorch / Kokkos
 
 ## 🧭 Context
