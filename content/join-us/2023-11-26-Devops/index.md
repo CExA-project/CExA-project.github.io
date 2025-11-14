@@ -13,6 +13,13 @@ links:
 
 ---
 
+# THIS POSITION HAS BEEN FILLED.  
+However, please feel free to send us your CV at contact@cexa-project.org, so we can contact you if an opportunity matching your profile becomes available.
+
+<!--more--> 
+---
+
+
 # HPC DevOps Engineer at CEA 👩‍💻🧑‍💻
 
 ## Deployment and CI on supercomputers for the C++ Kokkos library within the "Moonshot" CExA project
