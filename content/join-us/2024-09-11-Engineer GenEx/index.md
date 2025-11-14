@@ -13,6 +13,13 @@ links:
 
 ---
 
+# THIS POSITION HAS BEEN FILLED.  
+However, please feel free to send us your CV at contact@cexa-project.org, so we can contact you if an opportunity matching your profile becomes available.
+
+<!--more--> 
+---
+
+
 # Contribution to the development of a genomic code on GPU for the GenEx project
 
 Join the CEA's ambitious GenEx project and contribute to the development of a genomic computing library adapted to GPU and exascale systems. We are recruiting an HPC engineer for a period of 1 year (renewable for a second year) to work at our CEA Saclay site near Paris.
