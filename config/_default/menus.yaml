@@ -5,56 +5,78 @@
 
 main:
   - name: The project
+    identifier: project
+    url: '#'
+    weight: 100
+  - name: Presentation
+    parent: project
     url: '#the-project'
-    weight: 1
+    weight: 110
   - name: CExA in practice
+    parent: project
     url: presentation
-    weight: 10
+    weight: 120
   - name: News
+    identifier: news
     url: news
-    weight: 20
-  - name: Our demonstrators
+    weight: 200
+  - name: Kokkos Tea-times
+    parent: news
+    url: kokkos-tea-time
+    weight: 210
+  - name: Other news
+    parent: news
+    url: news
+    weight: 220
+  - name: Demonstrator apps.
     identifier: demos
     url: demos
-    weight: 30
+    weight: 300
   - name: Dyablo
     parent: demos
     url: dyablo
-    weight: 5
+    weight: 310
   - name: GyselaX++
     parent: demos
     url: gyselax
-    weight: 10
+    weight: 320
   - name: Triclade
     parent: demos
     url: triclade
-    weight: 20
-  - name: Trust/TrioCFD
-    parent: demos
-    url: triocfd
-    weight: 30
+    weight: 330
   - name: Tripoli 5
     parent: demos
     url: tripoli
-    weight: 40
-  - name: "Community & Contacts"
-    url: community
-    weight: 40
-  - name: Join us
-    url: join-us
-    weight: 50
-  - name: Presentations & Documents
+    weight: 340
+  - name: Trust/TrioCFD
+    parent: demos
+    url: triocfd
+    weight: 350
+  - name: Our content
     identifier: doc
     url: doc
-    weight: 60
-  - name: Our presentations
+    weight: 400
+  - name: Presentations
     parent: doc
     url: content
-    weight: 10
+    weight: 410
   - name: Cheat Sheet for Kokkos
     parent: doc
     url: documents
-    weight: 20
+    weight: 420
   - name: The team
+    identifier: team
     url: team
-    weight: 70
+    weight: 500
+  - name: Meet us
+    parent: team
+    url: team
+    weight: 510
+  - name: Contact us
+    parent: team
+    url: community
+    weight: 520
+  - name: Join us
+    parent: team
+    url: join-us
+    weight: 530
