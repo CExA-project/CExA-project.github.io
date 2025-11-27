@@ -7,6 +7,40 @@ sections:
   - block: slider
     content:
       slides:
+      - title: Join the [Kokkos Hackathon](cexa.org/news/2026-01-12-kokkos-hackathon)
+        content: |
+          <br><br><br><br><br><br><br><br>
+          C**ExA** organizes a [hackathon](cexa.org/news/2026-01-12-kokkos-hackathon) to discover and get your hands dirty with Kokkos
+        align: center
+        background:
+          image:
+            filename: hackathon.png
+            filters:
+              brightness: 0.6
+          position: center
+          color: '#222'
+        link:
+          icon: lightbulb
+          icon_pack: fas
+          text: Find out more and register
+          url: 'news/2026-01-12-kokkos-hackathon'
+      - title: Meet the team in the European Kokkos user Group
+        content: |
+          <br><br><br><br><br><br><br><br><br><br><br>
+          Join the European Kokkos User Group at the HPSF Community Summit, in Braunschweig
+        align: left
+        background:
+          image:
+            filename: hpsfcs.jpg
+            filters:
+              brightness: 0.6
+          position: center
+          color: '#222'
+        link:
+          icon: lightbulb
+          icon_pack: fas
+          text: Find out more and register
+          url: 'news/2026-01-12-kokkos-hackathon'
       - title: CEA project for GPU computing
         content: |
           C**ExA** is a Moonshot project launched by [CEA](https://cea.fr/) to adapt [Kokkos](https://kokkos.org/) to **your** needs and help **you** adopt it.
@@ -23,37 +57,6 @@ sections:
           icon_pack: fas
           text: Learn more
           url: '#the-project'
-      - title: Discover CExA
-        content: 'A [Kokkos](https://kokkos.org/)-based platform for computing at Exascale!'
-        align: center
-        background:
-          image:
-            filename: gpus.jpg
-            filters:
-              brightness: 0.5
-          position: center
-          color: '#555'
-        link:
-          icon: gear
-          icon_pack: fas
-          text: Discover our tools
-          url: ../presentation/
-      - title: 👋 Join the team
-        content: |
-          Come work with us, contribute to the [Kokkos](https://kokkos.org/) project, contribute to the future of C++ for GPU computing in [CEA](https://cea.fr/), France, Europe and in the world 🌎!
-        align: left
-        background:
-          image:
-            filename: coders.jpg
-            filters:
-              brightness: 0.4
-          position: right
-          color: '#666'
-        link:
-          icon: graduation-cap
-          icon_pack: fas
-          text: Join Us
-          url: ../join-us/
     design:
       # Slide height is automatic unless you force a specific height (e.g. '400px')
       slide_height: ''

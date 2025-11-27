@@ -1,7 +1,7 @@
 ---
 title: Kokkos Hackathon
-date: 2025-11-25
-summary: 'The CExA team is happy to welcome you again for our next Kokkos Hackathon on January 12-16, 2026, at Maison de la Simulation, Saclay, France)'
+date: 2025-11-20
+summary: 'The CExA team is looking forward to welcome you again for our next Kokkos Hackathon on January 12-16, 2026, at Maison de la Simulation, Saclay, France)'
 links:
 - name: 'Find out more'
   url: https://indico.math.cnrs.fr/e/kokkos-hackathon-26
@@ -10,7 +10,7 @@ links:
 
 {{< cta cta_text="Find out more" cta_link="https://indico.math.cnrs.fr/e/kokkos-hackathon-26" cta_new_tab="true" >}}
 
-The CExA team is happy to welcome you again for our next Kokkos Hackathon on January 12-16, 2026, at [Maison de la Simulation (MdlS)](https://mdls.fr/how-to-come/).
+The CExA team is looking forward to welcome you again for our next Kokkos Hackathon on January 12-16, 2026, at [Maison de la Simulation (MdlS)](https://mdls.fr/how-to-come/).
 
 This training is two-fold.
 * It first features a full-day course to discover Kokkos or refresh ones knowledge of the library.
@@ -26,6 +26,6 @@ Find out more at https://indico.math.cnrs.fr/e/kokkos-hackathon-26
 
 ## Location
 
-- **Where**: [Digiteo building, Saclay](https://maps.app.goo.gl/AYV41zVqD6qFynjr6), [how to come](https://mdls.fr/how-to-come/)
+- [**Where**: Digiteo building, Saclay](https://maps.app.goo.gl/AYV41zVqD6qFynjr6), [how to come](https://mdls.fr/how-to-come/)
 - **When**: January, the 12th to 16th, 2026.
-- [**Agenda**](https://indico.math.cnrs.fr/event/15313/timetable/#all)
+- [**Agenda**: https://indico.math.cnrs.fr/event/15313/timetable/#all](https://indico.math.cnrs.fr/event/15313/timetable/#all)
