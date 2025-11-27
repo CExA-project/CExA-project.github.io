@@ -16,7 +16,7 @@ main:
     parent: project
     url: presentation
     weight: 120
-  - name: News
+  - name: News & events
     identifier: news
     url: news
     weight: 200
@@ -24,7 +24,7 @@ main:
     parent: news
     url: kokkos-tea-time
     weight: 210
-  - name: Other news
+  - name: Other news & events
     parent: news
     url: news
     weight: 220
