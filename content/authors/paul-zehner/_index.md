@@ -23,8 +23,11 @@ Dr. Paul Zehner obtained a Master of Engineering degree in fluid mechanics from 
 He received a Ph. D. in science from *Arts et Métiers ParisTech* while working at *Office National d’Études et de Recherches Aérospatiales* (ONERA) in 2018.
 The thesis was about the aeroacoustic study of the orthogonal blade/vortex interaction, which was conduced by numerical means.
 
-He was an invited researcher at Japan Aerospace Exploration Agency (JAXA) from 2019 to 2023 and worked on the GPU acceleration of the FaSTAR unstructured Computational Fluid Dynamics (CFD) solver using OpenACC.
+He was an invited researcher at *Japan Aerospace Exploration Agency* (JAXA) from 2019 to 2023 and worked on the GPU acceleration of the FaSTAR unstructured Computational Fluid Dynamics (CFD) solver using OpenACC.
 He also worked on the integration testing and on the continuous integration of the aforementioned code.
 
-He has been working as a research engineer at CEA, Maison de la Simulation, since 2023, and is involved in the CExA project.
-His interests are fluid mechanics, CFD, algorithms, High Performance Computing (HPC), Graphical Processing Units (GPUs), continuous integration, code quality, and software engineering.
+He joined CEA in 2023 as a research engineer at *Maison de la Simulation*, and was involved in the CExA project.
+He contributed to the development of Kokkos, animated Kokkos trainings, managed the Kokkos CI at CEA, and developed small libraries for CExA demonstrators.
+
+He became a permanent research engineer at CEA DES in 2025, and has been working since then on TRUST, Tripoli 5, and the CExA project.
+His interests are fluid mechanics, Computational Fluid Dynamics (CFD), algorithms, High Performance Computing (HPC), Graphical Processing Units (GPUs), continuous integration (CI), code quality, packaging, and software engineering.
