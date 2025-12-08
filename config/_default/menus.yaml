@@ -44,9 +44,9 @@ main:
     parent: demos
     url: triclade
     weight: 330
-  - name: Tripoli 5
+  - name: Tripoli-5
     parent: demos
-    url: tripoli
+    url: tripoli5
     weight: 340
   - name: Trust/TrioCFD
     parent: demos
