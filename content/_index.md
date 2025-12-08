@@ -113,7 +113,7 @@ sections:
           description: Astrophysics
           icon: camera-retro
           icon_pack: fas
-        - name: '[Tripoli 5]({{< relref "tripoli" >}})'
+        - name: '[Tripoli-5]({{< relref "tripoli5" >}})'
           description: Neutronics
           icon: atom
           icon_pack: fas

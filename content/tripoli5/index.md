@@ -1,13 +1,13 @@
 ---
-title: Tripoli
+title: Tripoli-5
 type: landing
 
 sections:
   - block: hero
     content:
-      title: Tripoli 5
+      title: Tripoli-5
       image:
-        filename: tripoli.png
+        filename: tripoli5.png
       text: A Monte Carlo code for HPC.
   - block: markdown
     content:
@@ -22,7 +22,7 @@ sections:
         and nuclear instrumentation) and thus supersede the current-generation Monte Carlo codes [TRIPOLI-4&reg;](https://www.cea.fr/energies/tripoli-4/Pages/Code%20features/Code_features.aspx),
         developed at CEA, and MORET6, developed at ASNR (ex IRSN).
 
-        {{< figure src="tripoli_case.jpg" >}}
+        {{< figure src="tripoli5_case.jpg" >}}
 
         [^1]: Davide Mancusi, Emeric Brun, Benjamin Dechenaux, Kévin Fröhlicher, Thomas Gonçalves, et al.. Overview of TRIPOLI-5, a Monte Carlo code for HPC. EPJ N - Nuclear Sciences & Technologies, 2024, 10, pp.26. [doi:10.1051/epjn/2024028](https://doi.org/10.1051/epjn/2024028). hal-04852783
 ---
