@@ -7,10 +7,10 @@ sections:
   - block: slider
     content:
       slides:
-      - title: Join the [Kokkos Hackathon](cexa.org/news/2026-01-12-kokkos-hackathon)
+      - title: Join the [Kokkos Hackathon](news/2026-01-12-kokkos-hackathon)
         content: |
           <br><br><br><br><br><br><br><br>
-          C**ExA** organizes a [hackathon](cexa.org/news/2026-01-12-kokkos-hackathon) to discover and get your hands dirty with Kokkos
+          C**ExA** organizes a [hackathon](news/2026-01-12-kokkos-hackathon) to discover and get your hands dirty with Kokkos
         align: center
         background:
           image:
@@ -40,7 +40,7 @@ sections:
           icon: lightbulb
           icon_pack: fas
           text: Find out more and register
-          url: 'news/2026-01-12-kokkos-hackathon'
+          url: 'news/2026-02-25-hpsf-community-summit'
       - title: CEA project for GPU computing
         content: |
           C**ExA** is a Moonshot project launched by [CEA](https://cea.fr/) to adapt [Kokkos](https://kokkos.org/) to **your** needs and help **you** adopt it.
