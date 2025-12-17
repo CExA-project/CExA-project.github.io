@@ -27,11 +27,9 @@ It can be followed on [Zoom](https://zoom-lfx.platform.linuxfoundation.org/meeti
 
 {{< cta cta_text="<i class='fa fa-calendar'></i>&nbsp; Add to calendar" cta_link="https://webcal.prod.itx.linuxfoundation.org/lfx/a092M00001MsyOeQAJ" >}}
 
-**Ugo Battiston will give a talk entitled "Experience converting large scientific software packages written in C++ to C++20 modules"**
+Ugo Battiston will give a talk entitled "Connecting Kokkos with the Polyhedral Model"
 
-How can we maximize the compile time performance of a compute library using the polyhedral model? By making the library's abstractions transparent to static analysis, we enable the application of aggressive loop transformations via Polly (an LLVM project), operating directly on the Intermediate Representation.
-
-<!-- ![Ugo Battiston](portrait.jpg "Ugo Battiston") -->
+![Ugo Battiston](portrait.jpg "Ugo Battiston")
 
 Ugo Battiston is a third-year PhD student in the CAMUS team at Inria Strasbourg. Following a Master's degree in High-Performance Computing and Simulation from Paris-Saclay University, his research now focuses on program optimization and compilation leveraging the polyhedral model.
 
@@ -42,6 +40,8 @@ Ugo Battiston is a third-year PhD student in the CAMUS team at Inria Strasbourg.
 
 
 ## Connecting Kokkos with the Polyhedral Model
+
+How can we maximize the compile time performance of a compute library using the polyhedral model? By making the library's abstractions transparent to static analysis, we enable the application of aggressive loop transformations via Polly (an LLVM project), operating directly on the Intermediate Representation.
 
 
 
