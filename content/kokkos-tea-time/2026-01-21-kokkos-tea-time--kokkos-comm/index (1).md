@@ -22,7 +22,7 @@ links:
 
 {{< cta cta_text="<i class='fa fa-envelope'></i>&nbsp; Register to be notified about future events" cta_link="https://lists.hpsf.io/g/kokkos-announcements" >}}
 
-CExA organizes the 14th **Kokkos tea-time** on Wednesday, December the 17th, 2025 for 45min starting at [7AM Pacific, 10AM Eastern, 4PM Paris, 11PM Tokyo](https://www.worldtimebuddy.com/?qm=1&lid=8,5,2988507,1850147&h=8&date=2025-12-17&sln=7-8).
+CExA organizes the 15th **Kokkos tea-time** on Wednesday, December the 17th, 2025 for 45min starting at [7AM Pacific, 10AM Eastern, 4PM Paris, 11PM Tokyo](https://www.worldtimebuddy.com/?qm=1&lid=8,5,2988507,1850147&h=8&date=2025-12-17&sln=7-8).
 It can be followed on [Zoom](https://zoom-lfx.platform.linuxfoundation.org/meeting/92397190835?password=b177af2d-9c4a-4376-9d17-b57588a88146), or by [phone]({{< ref "#by-phone" >}}).
 
 {{< cta cta_text="<i class='fa fa-calendar'></i>&nbsp; Add to calendar" cta_link="https://webcal.prod.itx.linuxfoundation.org/lfx/a092M00001MsyOeQAJ" >}}
