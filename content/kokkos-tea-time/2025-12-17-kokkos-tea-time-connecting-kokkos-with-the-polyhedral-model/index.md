@@ -4,11 +4,11 @@ subtitle: "December 17th 2025: Kokkos tea-time"
 summary: 'On December the 17th, Ugo Battiston from Inria Camus team will give a talk entitled "Connecting Kokkos with the Polyhedral Model"'
 date: 2025-11-26
 links:
-#- icon_pack: fab
-#  name: 'Watch on Youtube'
-#  icon: youtube
-#  url: [https://youtu.be/](https://youtu.be/D-LQIYuZmWc)
-#  cta_new_tab: true
+- icon_pack: fab
+  name: 'Watch on Youtube'
+  icon: youtube
+  url: [https://youtu.be/Mab0A84xBMM?si=uabJPNtUVNTEL_Tz ](https://youtu.be/D-LQIYuZmWc?si=TcEDD5btQofeb0Zp)
+  cta_new_tab: true
 #- icon_pack: fas
 #  name: 'Get the slides'
 #  icon: file-pdf
