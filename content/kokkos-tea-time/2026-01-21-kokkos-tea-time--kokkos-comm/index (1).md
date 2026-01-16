@@ -1,13 +1,13 @@
 ---
-title: "December tea-time: Connecting Kokkos with the Polyhedral Model"
-subtitle: "December 17th 2025: Kokkos tea-time"
-summary: 'On December the 17th, Ugo Battiston from Inria Camus team will give a talk entitled "Connecting Kokkos with the Polyhedral Model"'
-date: 2025-11-26
+title: "January tea-time: Kokkos Comm: Performance-Portable Communication API for Distributed Kokkos Applications"
+subtitle: "January 17st 2026: Kokkos tea-time"
+summary: ''
+date: 2026-01-16
 links:
 #- icon_pack: fab
 #  name: 'Watch on Youtube'
 #  icon: youtube
-#  url: [https://youtu.be/](https://youtu.be/D-LQIYuZmWc)
+#  url: 
 #  cta_new_tab: true
 #- icon_pack: fas
 #  name: 'Get the slides'
@@ -27,11 +27,7 @@ It can be followed on [Zoom](https://zoom-lfx.platform.linuxfoundation.org/meeti
 
 {{< cta cta_text="<i class='fa fa-calendar'></i>&nbsp; Add to calendar" cta_link="https://webcal.prod.itx.linuxfoundation.org/lfx/a092M00001MsyOeQAJ" >}}
 
-Ugo Battiston will give a talk entitled "Connecting Kokkos with the Polyhedral Model"
 
-![Ugo Battiston](portrait.jpg "Ugo Battiston")
-
-Ugo Battiston is a third-year PhD student in the CAMUS team at Inria Strasbourg. Following a Master's degree in High-Performance Computing and Simulation from Paris-Saclay University, his research now focuses on program optimization and compilation leveraging the polyhedral model.
 
 <!--{{% cta cta_text="Get the slides" cta_link="slides.pdf" cta_new_tab="true" %}}-->
 
@@ -39,10 +35,9 @@ Ugo Battiston is a third-year PhD student in the CAMUS team at Inria Strasbourg.
 
 
 
-## Connecting Kokkos with the Polyhedral Model
+## Kokkos Comm: Performance-Portable Communication API for Distributed Kokkos Applications
 
-How can we maximize the compile time performance of a compute library using the polyhedral model? By making the library's abstractions transparent to static analysis, we enable the application of aggressive loop transformations via Polly (an LLVM project), operating directly on the Intermediate Representation.
-
+Kokkos Comm is a lightweight C++ library providing performance-portable explicit communication primitives for distributed Kokkos applications. It aims to eliminate code duplication across the Kokkos ecosystem by centralizing solutions to common pain points. Kokkos Comm addresses critical integration challenges between the Kokkos execution model and distributed memory programming by automatically handling GPU awareness, non-contiguous data marshalling, and view lifetime management. It features a minimal asynchronous API that exposes a streamlined subset of the usual point-to-point and collective operations, while preserving flexibility and abstracting backend-specific complexity. The design is centered around simple, composable, and extensible interfaces, ensuring near-zero overhead compared to hand-rolled solutions. Currently, MPI and NCCL backends are supported, with other GPU-oriented (RCCL, oneCLL) and NIC-oriented (OFI, UCX, Portals) backends being explored. Built with C++20, Kokkos Comm maintains performance portability across complex heterogeneous systems (multi-GPU, multi-NIC) while serving as a research platform for advanced communication patterns, parallel programming models and standardization efforts. Kokkos Comm's philosophy is simple: easy to use, hard to misuse.
 
 
 ## Additional info
