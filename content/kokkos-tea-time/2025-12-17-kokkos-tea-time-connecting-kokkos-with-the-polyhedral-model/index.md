@@ -7,7 +7,7 @@ links:
 - icon_pack: fab
   name: 'Watch on Youtube'
   icon: youtube
-  url: [https://youtu.be/Mab0A84xBMM?si=uabJPNtUVNTEL_Tz ](https://youtu.be/D-LQIYuZmWc?si=TcEDD5btQofeb0Zp)
+  url: https://youtu.be/Mab0A84xBMM?si=uabJPNtUVNTEL_Tz
   cta_new_tab: true
 #- icon_pack: fas
 #  name: 'Get the slides'
