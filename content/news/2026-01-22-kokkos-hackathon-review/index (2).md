@@ -1,5 +1,5 @@
 ---
-title: CExA KOKKOS HACKATHON REVIEW
+title: CExA Kokkos Hackathon - Results
 date: 2026-01-22
 summary: 'A week of intensive learning, collaboration, and performance optimization with Kokkos.'
 ---
