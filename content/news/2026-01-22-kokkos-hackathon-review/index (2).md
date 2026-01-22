@@ -1,31 +1,43 @@
 ---
-title: Kokkos Hackathon
-date: 2025-11-20
-summary: 'The CExA team is looking forward to welcome you again for our next Kokkos Hackathon on January 12-16, 2026, at Maison de la Simulation, Saclay, France)'
-links:
-- name: 'Find out more'
-  url: https://indico.math.cnrs.fr/e/kokkos-hackathon-26
-  cta_new_tab: true
+title: CExA KOKKOS HACKATHON REVIEW
+date: 2026-01-22
+summary: 'A week of intensive learning, collaboration, and performance optimization with Kokkos.'
 ---
 
-{{< cta cta_text="Find out more" cta_link="https://indico.math.cnrs.fr/e/kokkos-hackathon-26" cta_new_tab="true" >}}
 
-The CExA team is looking forward to welcome you again for our next Kokkos Hackathon on January 12-16, 2026, at [Maison de la Simulation (MdlS)](https://mdls.fr/how-to-come/).
+The Kokkos hackathon organized by CExA, held at the Maison de la Simulation from January 12 to 16, 2026, came to an end after an intense week marked by discussions, learning opportunities, and technical challenges focused on code optimization and acceleration using Kokkos.  
 
-This training is two-fold.
-* It first features a full-day course to discover Kokkos or refresh ones knowledge of the library.
-* It then proposes a 3-day hackathon, where teams of participants eager to go get their hands dirty will get to know Kokkos by fininshing the porting a provided code to GPU, accelerating and optimizing it.
+# A course to lay the foundations
 
-Trainees can choose to attend either or both parts. Computers with access to a local GPU cluster will be provided.
+The event began with an introductory course that allowed participants to discover or strengthen their knowledge of the Kokkos library and GPU programming.
+The course highlighted the differences between CPU and GPU architectures for numerical computing, introduced Kokkos containers and parallel structures, and was illustrated with live practical examples provided by the instructors. Additional intermediate topics were also covered, such as vectorization, standard algorithms, and code profiling.  
 
-Registration is free but mandatory, there is a limit of 90 attendants for the course, and 45 attendants for the hackathon.
+# Three days of hackathon
 
-Learn more about Kokkos, meet Kokkos developers, share about your experience, join the Kokkos community and more!
+The hackathon then took place over three days, during which participants, divided into teams of three, worked on porting to Kokkos and optimizing a lightweight version of MiniPIC, a single-node pedagogical particle-in-cell (PIC) solver developed by M. Lobet (CEA).  
 
-Find out more at https://indico.math.cnrs.fr/e/kokkos-hackathon-26
+# Results
 
-## Location
+At the end of the week, the hackathon results were compiled into a team ranking, highlighting performance differences through the execution times achieved.
 
-- [**Where**: Digiteo building, Saclay](https://maps.app.goo.gl/AYV41zVqD6qFynjr6), [how to come](https://mdls.fr/how-to-come/)
-- **When**: January, the 12th to 16th, 2026.
-- [**Agenda**: https://indico.math.cnrs.fr/event/15313/timetable/#all](https://indico.math.cnrs.fr/event/15313/timetable/#all)
+
+| Membres   de l’équipe                                    | Rang | Temps cas antenna (s) | Timing cas  beam (s) | Temps cas thermal (s) | Temps cumulé (s) |
+|----------------------------------------------------------|------|-----------------------|----------------------|-----------------------|------------------|
+| Valentin   Kraemer, Luc Lecointre, Guillaume Jomée       | 1    | 1.164                 | 1.602                | 3.468                 | 6.234            |
+| Paul   Regnault, Juan José Silva, Mike Petrault          | 2    | 0.863                 | 1.67                 | 3.787                 | 6.32             |
+| Nicolas   Fond-Massany, Nicolas Rivera, Ramzi Messahel   | 3    | 0.94                  | 1.725                | 3.847                 | 6.513            |
+| Antoine Kempf, Ludovic Aubry, Hugo Bec                   | 4    | 1.071                 | 1.658                | 3.816                 | 6.544            |
+| Zeno Geddo, Guillaume Tcherniatinsky, Alexandre Hoffmann | 5    | 0.982                 | 1.737                | 3.863                 | 6.582            |
+| Anass   Serhani, Michel-Andrès Breton, Sylvain Joube     | 6    | 5.168                 | 1.635                | 3.751                 | 10.554           |
+| Clément   Stutz, Antoine Jego, Hunter Belanger           | 7    | 7.661                 | 1.663                | 3.799                 | 13.124           |
+| Eric Fayoll, Frank Hülsemann, Martin Novak               | 8    | 63.763                | 1.512                | 3.296                 | 68.571           |
+| Thibault   Cimic, Camille Touler Foka, Ivan Tagliaferro  | 9    | 57.721                | 6.685                | 6.113                 | 70.518           |
+| Minh Le, Ivan Huard, Jan Brandejs                        | 10   | 61.232                | 6.998                | 6.238                 | 74.468           |
+
+
+*Note: the ranking is based on the cumulative execution time of the three cases.*  
+
+# A successful collective dynamic
+
+Beyond the numerical results, this hackathon was above all an opportunity to encourage exchanges, collaborative work, and exploration of Kokkos features. Numerous discussions around Kokkos and HPC code optimization also took place.
+The CExA team warmly thanks all participants, instructors, and organizers for their commitment.
