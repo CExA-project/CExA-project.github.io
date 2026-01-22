@@ -4,11 +4,11 @@ subtitle: "January 21st 2026: Kokkos tea-time"
 summary: ''
 date: 2026-01-16
 links:
-#- icon_pack: fab
-#  name: 'Watch on Youtube'
-#  icon: youtube
-#  url: https://youtu.be/WlQ2PN0Fmhg?si=V8PAV5bPM55DLYp2
-#  cta_new_tab: true
+- icon_pack: fab
+  name: 'Watch on Youtube'
+  icon: youtube
+  url: https://youtu.be/WlQ2PN0Fmhg?si=V8PAV5bPM55DLYp2
+  cta_new_tab: true
 #- icon_pack: fas
 #  name: 'Get the slides'
 #  icon: file-pdf
