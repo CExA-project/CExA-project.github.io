@@ -7,7 +7,7 @@ summary: 'A week of intensive learning, collaboration, and performance optimizat
 
 The Kokkos hackathon organized by CExA, held at the Maison de la Simulation from January 12 to 16, 2026, came to an end after an intense week marked by discussions, learning opportunities, and technical challenges focused on code optimization and acceleration using Kokkos.  
 
-![Kokkos slide](assets/images/featured.png)
+![Hackathon CExA](featured.png)
 
  
 **A course to lay the foundations**
