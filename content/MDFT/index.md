@@ -7,8 +7,8 @@ sections:
     content:
       title: MDFT
       image:
-        filename: Dyablo.png
-      text: Dyablo cosmological run
+        filename: MDFT1.jpg
+      text:
 #      cta:
 #        url:
 #        label: Git repository
