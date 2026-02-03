@@ -100,6 +100,10 @@ sections:
           description: Neutronics
           icon: atom
           icon_pack: fas
+        - name: '[MDFT]({{< relref "MDFT" >}})'
+          description: Density
+          icon: atom
+          icon_pack: fas
   - block: markdown
     content:
       title: 
