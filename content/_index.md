@@ -7,23 +7,6 @@ sections:
   - block: slider
     content:
       slides:
-      - title: Join the [Kokkos Hackathon](news/2026-01-12-kokkos-hackathon)
-        content: |
-          <br><br><br><br><br><br><br><br>
-          C**ExA** organizes a [hackathon](news/2026-01-12-kokkos-hackathon) to discover and get your hands dirty with Kokkos
-        align: center
-        background:
-          image:
-            filename: hackathon.png
-            filters:
-              brightness: 0.6
-          position: center
-          color: '#222'
-        link:
-          icon: lightbulb
-          icon_pack: fas
-          text: Find out more and register
-          url: 'news/2026-01-12-kokkos-hackathon'
       - title: Meet the team in the European Kokkos user Group
         content: |
           <br><br><br><br><br><br><br><br><br><br><br>

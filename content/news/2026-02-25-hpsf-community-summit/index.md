@@ -10,7 +10,7 @@ links:
 
 {{< cta cta_text="Find out more" cta_link="https://events.academiccloud.de/e/hpsfcs26" cta_new_tab="true" >}}
 
-The CExA team is looking forward to meet you and hear more from you at the European Kokkos user Group at HPSF Community Summit on February 25-27, 2026, at TU Braunschweig, Germany.
+CExA and the rest of the Kokkos team are looking forward to meet you and hear more from you at the European Kokkos user Group at HPSF Community Summit on February 25-27, 2026, at TU Braunschweig, Germany.
 
 Learn more about Kokkos, meet Kokkos developers, share about your experience, join the Kokkos community and more!
 
