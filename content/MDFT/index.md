@@ -1,11 +1,11 @@
 ---
-title: Dyablo
+title: MDFT
 type: landing
 
 sections:
   - block: hero
     content:
-      title: Dyablo
+      title: MDFT
       image:
         filename: Dyablo.png
       text: Dyablo cosmological run
@@ -17,10 +17,11 @@ sections:
   - block: markdown
     content:
       text: |
-        Dyablo is a modern C++ code for the simulation of astrophysical fluids with adaptive mesh refinement on heterogenous architectures. Dyablo is developed mainly at CEA and has users all over France. Parallelism is handled using Kokkos and MPI and is thus compatible with all major supercomputer infrastructures in France. Its modular architecture allows it to simulate various phenomena from compressible hydrodynamics to cosmology and magnetohydrodynamics.
-        The code is open-source and available on [github](https://github.com/Dyablo-HPC/Dyablo)      
+        MDFT is a software package for classical and molecular density functional theory calculations, enabling the computation of salvation free energies of complexe solutes in solution for a fraction of the price of fully atomistic simulations while keeping data on the solvent structure. Currently MDFT enable solvation in water, supercritical CO2 and high pressured dichloromethane. 
 
-        Example of a triclade run:
-        {{< figure src="triclade.gif" width="33%" >}}
+Currently the code is 50k lines in fortran90 enabling basic OpenMP paralization. The main kernel of the code compute an angular convolution through spherical harmonics on a spatial grid. This is done using state of the art FFTs library. This kernel is currently re-written in C++ with the Kokkos and KokkosFFT libraries to enable heterogeneous computing.
+
+
+      
         
 ---
