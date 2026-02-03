@@ -7,7 +7,7 @@ sections:
     content:
       title: MDFT
       image:
-        filename: MDFT1.jpg
+        filename: MDFT1.jpeg
       text:
 #      cta:
 #        url:
@@ -22,6 +22,6 @@ sections:
 Currently the code is 50k lines in fortran90 enabling basic OpenMP paralization. The main kernel of the code compute an angular convolution through spherical harmonics on a spatial grid. This is done using state of the art FFTs library. This kernel is currently re-written in C++ with the Kokkos and KokkosFFT libraries to enable heterogeneous computing.
 
 
-      
+      {{< figure src="MDFTlogo.jpeg" >}}
         
 ---
