@@ -5,19 +5,19 @@ summary: 'A week of intensive learning, collaboration, and performance optimizat
 ---
 
 
-The Kokkos hackathon organized by CExA, held at the Maison de la Simulation from January 12 to 16, 2026, came to an end after an intense week marked by discussions, learning opportunities, and technical challenges focused on code optimization and acceleration using Kokkos.  
+The Kokkos hackathon organized by CExA, held at the Maison de la Simulation from January 12 to 16, 2026, came to an end after an intense week marked by discussions, learning opportunities, and technical challenges focused on code optimization and acceleration using Kokkos.
 
- 
-**A course to lay the foundations**
+
+# A course to lay the foundations
 
 The event began with an introductory course that allowed participants to discover or strengthen their knowledge of the Kokkos library and GPU programming.
 The course highlighted the differences between CPU and GPU architectures for numerical computing, introduced Kokkos containers and parallel structures, and was illustrated with live practical examples provided by the instructors. Additional intermediate topics were also covered, such as vectorization, standard algorithms, and code profiling.  
 
-**Three days of hackathon**
+# Three days of hackathon
 
-The hackathon then took place over three days, during which participants, divided into teams of three, worked on porting to Kokkos and optimizing a lightweight version of MiniPIC, a single-node pedagogical particle-in-cell (PIC) solver developed by M. Lobet (CEA).  
+The hackathon then took place over three days, during which participants, divided into teams of three, worked on porting to Kokkos and optimizing a lightweight version of MiniPIC, a single-node pedagogical particle-in-cell (PIC) solver developed by M. Lobet (CEA).
 
-**Results**
+# Results
 
 At the end of the week, the hackathon results were compiled into a team ranking, highlighting performance differences through the execution times achieved.
 
@@ -36,9 +36,9 @@ At the end of the week, the hackathon results were compiled into a team ranking,
 | Minh Le, Ivan Huard, Jan Brandejs                        | 10   | 61.232                | 6.998                | 6.238                 | 74.468           |
 
 
-*Note: the ranking is based on the cumulative execution time of the three cases.*  
+*Note: the ranking is based on the cumulative execution time of the three cases.*
 
-**A successful collective dynamic**
+# A successful collective dynamic**
 
 Beyond the numerical results, this hackathon was above all an opportunity to encourage exchanges, collaborative work, and exploration of Kokkos features. Numerous discussions around Kokkos and HPC code optimization also took place.
 The CExA team warmly thanks all participants, instructors, and organizers for their commitment.

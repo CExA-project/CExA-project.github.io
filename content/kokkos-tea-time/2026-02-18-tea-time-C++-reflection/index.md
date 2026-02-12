@@ -12,14 +12,12 @@ buttons:
 
 {{< cta cta_text="<i class='fa fa-envelope'></i>&nbsp; Register to be notified about future events" cta_link="https://lists.hpsf.io/g/kokkos-announcements" >}}
 
-CExA organizes the 16th **Kokkos tea-time** on Wednesday, Febuary the 18th, 2026 for 45min starting at [7AM Pacific, 10AM Eastern, 4PM Paris, 11PM Tokyo](https://www.worldtimebuddy.com/?qm=1&lid=8,5,2988507,1850147&h=8&date=2025-12-17&sln=7-8).
+CExA organizes the 16th **Kokkos tea-time** on Wednesday, Febuary the 18th, 2026 for 45min starting at [7AM Pacific, 10AM Eastern, 4PM Paris, 11PM Tokyo](https://www.worldtimebuddy.com/?qm=1&lid=8,5,2988507,1850147&h=8&date=2026-02-18&sln=7-8).
 It can be followed on [Zoom](https://zoom-lfx.platform.linuxfoundation.org/meeting/92397190835?password=b177af2d-9c4a-4376-9d17-b57588a88146), or by [phone]({{< ref "#by-phone" >}}).
 
 {{< cta cta_text="<i class='fa fa-calendar'></i>&nbsp; Add to calendar" cta_link="https://webcal.prod.itx.linuxfoundation.org/lfx/a092M00001MsyOeQAJ" >}}
 
 Jolly Chen will give a talk entitled "C++ Reflection for Data Layout Abstraction"
-
-![Jolly Chen](featured.png "Jolly Chen")
 
 Jolly Chen is a second year PhD student in Computer Science at CERN, affiliated with the University of Twente in The Netherlands. The topic of her PhD is "Optimizing Memory Access patterns through Data Layout Transformation". Broadly speaking, her research interests are Performance Engineering, GPU Programming, and Performance Modelling. 
 
