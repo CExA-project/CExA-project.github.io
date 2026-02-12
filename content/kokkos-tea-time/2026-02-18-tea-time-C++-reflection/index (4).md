@@ -1,7 +1,7 @@
 ---
 title: "Febuary tea-time: C++ Reflection for Data Layout Abstraction"
 subtitle: "Febuary 18th 2026: Kokkos tea-time"
-summary: 'On Febuary the 18th,•	Jolly Chen from CERN & University of Twente will give a talk entitled "C++ Reflection for Data Layout Abstraction"'
+summary: 'On Febuary the 18th,	Jolly Chen from CERN & University of Twente will give a talk entitled "C++ Reflection for Data Layout Abstraction"'
 date: 2026-02-12
 links:
 - icon_pack: fab
