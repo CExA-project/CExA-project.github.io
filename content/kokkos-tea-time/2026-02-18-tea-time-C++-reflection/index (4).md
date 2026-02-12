@@ -31,7 +31,7 @@ Jolly Chen is a second year PhD student in Computer Science at CERN, affiliated 
 
 Good performance requires good memory access patterns. A common optimization dilemma is choosing between array-of-structures (AoS) and struct-of-arrays (SoA). However, in C++, changing the data layout between AoS to SoA requires modifying both the data structure declarations and the access syntax. This work is repetitive, time consuming, and can lead to less intuitive code. For example, with AoS, we can have an array of particles and access the third particle’s momentum with the syntax `particles[2].x`. In contrast, SoA requires the syntax `particles.x[2]`. To address this dilemma, we want to decouple memory organization from logical data access while preserving the standard C++ access syntax.
 
-In this talk, I present different approaches to abstracting SoA as AoS at compile-time, using C++26 reflection and some Code Injection with Token Sequences as proposed by P3294, which I compare with manually defining SoAs. In addition, I will share my experience with using C++ reflection.  
+In this talk, Jolly will present different approaches to abstracting SoA as AoS at compile-time, using C++26 reflection and some Code Injection with Token Sequences as proposed by P3294, which she compare with manually defining SoAs. In addition, she will share her experience with using C++ reflection.  
 
 
 
