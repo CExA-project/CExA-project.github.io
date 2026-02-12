@@ -8,7 +8,7 @@ sections:
       title: MDFT
       image:
         filename: MDFT1.jpeg
-      text:
+#      text:
 #      cta:
 #        url:
 #        label: Git repository
