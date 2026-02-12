@@ -14,10 +14,6 @@ links:
 #  icon: file-pdf
 #  url: "slides.pdf"
 #  cta_new_tab: true
-- icon_pack: fa
-  icon: calendar
-  name: Add to calendar
-  url: 'https://webcal.prod.itx.linuxfoundation.org/lfx/a092M00001MsyOeQAJ'
 ---
 
 {{< cta cta_text="<i class='fa fa-envelope'></i>&nbsp; Register to be notified about future events" cta_link="https://lists.hpsf.io/g/kokkos-announcements" >}}

@@ -1,7 +1,7 @@
 ---
 title: "January tea-time: Kokkos Comm: Performance-Portable Communication API for Distributed Kokkos Applications"
 subtitle: "January 21st 2026: Kokkos tea-time"
-summary: ''
+summary: 'On January the 21st, Gabriel Dos Santos from CEA, France will give a talk entitled "Kokkos Comm: Performance-Portable Communication API for Distributed Kokkos Applications"'
 date: 2026-01-16
 links:
 - icon_pack: fab
@@ -14,10 +14,6 @@ links:
 #  icon: file-pdf
 #  url: "slides.pdf"
 #  cta_new_tab: true
-- icon_pack: fa
-  icon: calendar
-  name: Add to calendar
-  url: 'https://webcal.prod.itx.linuxfoundation.org/lfx/a092M00001MsyOeQAJ'
 ---
 
 {{< cta cta_text="<i class='fa fa-envelope'></i>&nbsp; Register to be notified about future events" cta_link="https://lists.hpsf.io/g/kokkos-announcements" >}}
@@ -31,7 +27,7 @@ It can be followed on [Zoom](https://zoom-lfx.platform.linuxfoundation.org/meeti
 
 <!--{{% cta cta_text="Get the slides" cta_link="slides.pdf" cta_new_tab="true" %}}-->
 
-<!-- {{< youtube  >}} -->
+{{< youtube WlQ2PN0Fmhg >}}
 
 Gabriel Dos Santos (CEA, France) will give a talk entitled "Kokkos Comm: Performance-Portable Communication API for Distributed Kokkos Applications".
 

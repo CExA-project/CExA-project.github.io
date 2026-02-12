@@ -14,10 +14,10 @@ links:
 #  icon: file-pdf
 #  url: "slides.pdf"
 #  cta_new_tab: true
-- icon_pack: fa
-  icon: calendar
-  name: Add to calendar
-  url: 'https://webcal.prod.itx.linuxfoundation.org/lfx/a092M00001MsyOeQAJ'
+#- icon_pack: fa
+#  icon: calendar
+#  name: Add to calendar
+#  url: 'https://webcal.prod.itx.linuxfoundation.org/lfx/a092M00001MsyOeQAJ'
 ---
 
 {{< cta cta_text="<i class='fa fa-envelope'></i>&nbsp; Register to be notified about future events" cta_link="https://lists.hpsf.io/g/kokkos-announcements" >}}
@@ -35,7 +35,7 @@ Ugo Battiston is a third-year PhD student in the CAMUS team at Inria Strasbourg.
 
 <!--{{% cta cta_text="Get the slides" cta_link="slides.pdf" cta_new_tab="true" %}}-->
 
-<!-- {{< youtube  >}} -->
+{{< youtube  D-LQIYuZmWc >}}
 
 
 

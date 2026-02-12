@@ -2,12 +2,22 @@
 title: "February tea-time: C++ Reflection for Data Layout Abstraction"
 subtitle: "February 18th 2026: Kokkos tea-time"
 summary: 'On February 18th, Jolly Chen from CERN & University of Twente will give a talk entitled "C++ Reflection for Data Layout Abstraction"'
-date: 2026-02-12
-buttons:
-  - icon_pack: fa
-    icon: calendar
-    name: Add to calendar
-    url: 'https://webcal.prod.itx.linuxfoundation.org/lfx/a092M00001MsyOeQAJ'
+date: 2026-02-12              
+links:
+#- icon_pack: fab
+#  name: 'Watch on Youtube'
+#  icon: youtube
+#  url: https://youtu.be/WlQ2PN0Fmhg?si=V8PAV5bPM55DLYp2
+#  cta_new_tab: true
+#- icon_pack: fas
+#  name: 'Get the slides'
+#  icon: file-pdf
+#  url: "slides.pdf"
+#  cta_new_tab: true
+- icon_pack: fa
+  icon: calendar
+  name: Add to calendar
+  url: 'https://webcal.prod.itx.linuxfoundation.org/lfx/a092M00001MsyOeQAJ'
 ---
 
 {{< cta cta_text="<i class='fa fa-envelope'></i>&nbsp; Register to be notified about future events" cta_link="https://lists.hpsf.io/g/kokkos-announcements" >}}
@@ -20,6 +30,10 @@ It can be followed on [Zoom](https://zoom-lfx.platform.linuxfoundation.org/meeti
 Jolly Chen will give a talk entitled "C++ Reflection for Data Layout Abstraction"
 
 Jolly Chen is a second year PhD student in Computer Science at CERN, affiliated with the University of Twente in The Netherlands. The topic of her PhD is "Optimizing Memory Access patterns through Data Layout Transformation". Broadly speaking, her research interests are Performance Engineering, GPU Programming, and Performance Modelling. 
+
+<!--{{% cta cta_text="Get the slides" cta_link="slides.pdf" cta_new_tab="true" %}}-->
+
+<!--{{< youtube  >}}-->
 
 
 
