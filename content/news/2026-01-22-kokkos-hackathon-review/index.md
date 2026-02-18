@@ -22,7 +22,7 @@ The hackathon then took place over three days, during which participants, divide
 At the end of the week, the hackathon results were compiled into a team ranking, highlighting performance differences through the execution times achieved.
 
 
-| Membres   de l’équipe                                    | Rang | Temps cas antenna (s) | Timing cas  beam (s) | Temps cas thermal (s) | Temps cumulé (s) |
+| Members                                    | Rank | Timing antenna (s) | Timing beam (s) | Temps thermal (s) | Cumulated timing (s) |
 |----------------------------------------------------------|------|-----------------------|----------------------|-----------------------|------------------|
 | Valentin   Kraemer, Luc Lecointre, Guillaume Jomée       | 1    | 1.164                 | 1.602                | 3.468                 | 6.234            |
 | Paul   Regnault, Juan José Silva, Mike Petrault          | 2    | 0.863                 | 1.67                 | 3.787                 | 6.32             |
