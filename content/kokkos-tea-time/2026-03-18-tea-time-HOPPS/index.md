@@ -19,12 +19,9 @@ It can be followed on [Zoom](https://zoom-lfx.platform.linuxfoundation.org/meeti
 
 Alexandre Dutka will give a talk entitled "HOPPS: A performance portable spectral difference solver for high-fidelity computational fluid dynamics"
 
-
 Alexandre Dutka is a software engineer and PhD student at CERFACS, mainly interested in high-performance software design, performance portability, GPU computing, and high-order numerics for CFD. His research currently focuses on tree-based adaptive mesh refinement techniques and their use in the context of modern high-fidelity CFD frameworks. He is also a regular open-source contributor, focused on hardening existing HPC libraries and filling the feature gaps highlighted by his research.
 
 <!--{{% cta cta_text="Get the slides" cta_link="slides.pdf" cta_new_tab="true" %}}-->
-
-{{< youtube  D-LQIYuZmWc >}}
 
 
 
