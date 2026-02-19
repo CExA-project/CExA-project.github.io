@@ -4,11 +4,11 @@ subtitle: "February 18th 2026: Kokkos tea-time"
 summary: 'On February 18th, Jolly Chen from CERN & University of Twente will give a talk entitled "C++ Reflection for Data Layout Abstraction"'
 date: 2026-02-12              
 links:
-#- icon_pack: fab
-#  name: 'Watch on Youtube'
-#  icon: youtube
-#  url: https://youtu.be/WlQ2PN0Fmhg?si=V8PAV5bPM55DLYp2
-#  cta_new_tab: true
+- icon_pack: fab
+  name: 'Watch on Youtube'
+  icon: youtube
+  url: https://youtu.be/44JDTK5V1Sk?si=nlmj_lQ3iwVSYH9B
+  cta_new_tab: true
 #- icon_pack: fas
 #  name: 'Get the slides'
 #  icon: file-pdf
