@@ -9,11 +9,11 @@ links:
   icon: youtube
   url: https://youtu.be/44JDTK5V1Sk?si=nlmj_lQ3iwVSYH9B
   cta_new_tab: true
-#- icon_pack: fas
-#  name: 'Get the slides'
-#  icon: file-pdf
-#  url: "slides.pdf"
-#  cta_new_tab: true
+- icon_pack: fas
+  name: 'Get the slides'
+  icon: file-pdf
+  url: "slides.pdf"
+  cta_new_tab: true
 - icon_pack: fa
   icon: calendar
   name: Add to calendar
