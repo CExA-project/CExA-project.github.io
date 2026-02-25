@@ -38,7 +38,7 @@ At the end of the week, the hackathon results were compiled into a team ranking,
 
 *Note: the ranking is based on the cumulative execution time of the three cases.*
 
-# A successful collective dynamic**
+# A successful collective dynamic
 
 Beyond the numerical results, this hackathon was above all an opportunity to encourage exchanges, collaborative work, and exploration of Kokkos features. Numerous discussions around Kokkos and HPC code optimization also took place.
 The CExA team warmly thanks all participants, instructors, and organizers for their commitment.
