@@ -7,7 +7,6 @@ role: Developer
 organizations:
 - name: CEA
   url: https://www.cea.fr/
-- name: DRT
 - name: LIST
   url: https://list.cea.fr/en/
 social:
