@@ -48,10 +48,6 @@ Parthenon is an open source, massively parallel, block-structured, adaptive mesh
 
 
 
-In this talk, Jolly will present different approaches to abstracting SoA as AoS at compile-time, using C++26 reflection and some Code Injection with Token Sequences as proposed by P3294, which she compare with manually defining SoAs. In addition, she will share her experience with using C++ reflection.  
-
-
-
 ## Additional info
 
 ### Zoom link
