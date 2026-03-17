@@ -14,7 +14,7 @@ links:
   icon: file-pdf
   url: "slides.pdf"
   cta_new_tab: true
-  - icon_pack: fa
+- icon_pack: fa
   icon: calendar
   name: Add to calendar
   url: 'https://webcal.prod.itx.linuxfoundation.org/lfx/a092M00001MsyOeQAJ'
