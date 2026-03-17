@@ -3,11 +3,11 @@ title: "March tea-time: HOPPS: A performance portable spectral difference solver
 subtitle: "March 18th 2026: Kokkos tea-time"
 summary: 'On March the 18th, Alexandre Dutka from CERFACS will give a talk entitled "HOPPS: A performance portable spectral difference solver for high-fidelity computational fluid dynamics"'
 date: 2026-02-19
-#  cta_new_tab: true
-#- icon_pack: fa
-#  icon: calendar
-#  name: Add to calendar
-#  url: 'https://webcal.prod.itx.linuxfoundation.org/lfx/a092M00001MsyOeQAJ'
+  cta_new_tab: true
+- icon_pack: fa
+  icon: calendar
+  name: Add to calendar
+  url: 'https://webcal.prod.itx.linuxfoundation.org/lfx/a092M00001MsyOeQAJ'
 ---
 
 {{< cta cta_text="<i class='fa fa-envelope'></i>&nbsp; Register to be notified about future events" cta_link="https://lists.hpsf.io/g/kokkos-announcements" >}}
