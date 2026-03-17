@@ -1,14 +1,14 @@
 ---
-title: "February tea-time: C++ Reflection for Data Layout Abstraction"
-subtitle: "February 18th 2026: Kokkos tea-time"
-summary: 'On February 18th, Jolly Chen from CERN & University of Twente will give a talk entitled "C++ Reflection for Data Layout Abstraction"'
-date: 2026-02-12              
+title: "April tea-time: Parthenon – a performance portable block-structured adaptive mesh refinement framework"
+subtitle: "April 15th 2026: Kokkos tea-time"
+summary: 'On April 15th, Philipp Grete from the University of Hamburg will give a talk entitled "Parthenon – a performance portable block-structured adaptive mesh refinement framework"'
+date: 2026-03-17              
 links:
-- icon_pack: fab
-  name: 'Watch on Youtube'
-  icon: youtube
-  url: https://youtu.be/44JDTK5V1Sk?si=nlmj_lQ3iwVSYH9B
-  cta_new_tab: true
+#- icon_pack: fab
+#  name: 'Watch on Youtube'
+#  icon: youtube
+#  url: 
+#  cta_new_tab: true
 - icon_pack: fas
   name: 'Get the slides'
   icon: file-pdf
@@ -22,14 +22,16 @@ links:
 
 {{< cta cta_text="<i class='fa fa-envelope'></i>&nbsp; Register to be notified about future events" cta_link="https://lists.hpsf.io/g/kokkos-announcements" >}}
 
-CExA organizes the 16th **Kokkos tea-time** on Wednesday, Febuary the 18th, 2026 for 45min starting at [7AM Pacific, 10AM Eastern, 4PM Paris, 11PM Tokyo](https://www.worldtimebuddy.com/?qm=1&lid=8,5,2988507,1850147&h=8&date=2026-02-18&sln=7-8).
+CExA organizes the 18th **Kokkos tea-time** on Wednesday, April the 15th, 2026 for 45min starting at [7AM Pacific, 10AM Eastern, 4PM Paris, 11PM Tokyo](https://www.worldtimebuddy.com/?qm=1&lid=8,5,2988507,1850147&h=8&date=2026-02-18&sln=7-8).
 It can be followed on [Zoom](https://zoom-lfx.platform.linuxfoundation.org/meeting/92397190835?password=b177af2d-9c4a-4376-9d17-b57588a88146), or by [phone]({{< ref "#by-phone" >}}).
 
 {{< cta cta_text="<i class='fa fa-calendar'></i>&nbsp; Add to calendar" cta_link="https://webcal.prod.itx.linuxfoundation.org/lfx/a092M00001MsyOeQAJ" >}}
 
-Jolly Chen will give a talk entitled "C++ Reflection for Data Layout Abstraction"
+Philipp Grete will give a talk entitled "Parthenon – a performance portable block-structured adaptive mesh refinement framework"
 
-Jolly Chen is a second year PhD student in Computer Science at CERN, affiliated with the University of Twente in The Netherlands. The topic of her PhD is "Optimizing Memory Access patterns through Data Layout Transformation". Broadly speaking, her research interests are Performance Engineering, GPU Programming, and Performance Modelling. 
+Philipp Grete is a postdoctoral research associate at the University of Hamburg. His interdisciplinary research covers both physics, e.g., turbulence or (astrophysical) plasma modeling and their role in (astro)physical systems, and computer science, e.g., parallelization and HPC, as well as topics in between such as computational fluid dynamics and numerical methods. Philipp is an advocate of open source, community projects and sustainable software development practices.
+
+
 
 <!--{{% cta cta_text="Get the slides" cta_link="slides.pdf" cta_new_tab="true" %}}-->
 
@@ -39,9 +41,12 @@ Jolly Chen is a second year PhD student in Computer Science at CERN, affiliated 
 
 
 
-## C++ Reflection for Data Layout Abstraction
+## Parthenon – a performance portable block-structured adaptive mesh refinement framework
 
-Good performance requires good memory access patterns. A common optimization dilemma is choosing between array-of-structures (AoS) and struct-of-arrays (SoA). However, in C++, changing the data layout between AoS to SoA requires modifying both the data structure declarations and the access syntax. This work is repetitive, time consuming, and can lead to less intuitive code. For example, with AoS, we can have an array of particles and access the third particle’s momentum with the syntax `particles[2].x`. In contrast, SoA requires the syntax `particles.x[2]`. To address this dilemma, we want to decouple memory organization from logical data access while preserving the standard C++ access syntax.
+Parthenon is an open source, massively parallel, block-structured, adaptive mesh refinement framework. We are using Kokkos for on-node device parallelization and MPI for inter-node parallelization reaching 92% weak scaling parallel efficiency going from a single to 9,216 nodes
+(73,728 logical GPUs) on Frontier. It is the basis for various downstream codes across disciplines from astrophysical magnetohydrodynamics to multi-material laboratory physics. In this talk, I will highlight our performance-motivated key design decisions in developing Parthenon such as logical packing of variable and meshblocks, and coalesced communication patterns via direct, asynchronous device-to-device messages. Moreover, I will highlight key features of Parthenon such as sparsely allocated variables, integrated solvers, type-based variable indexing, or a flexible directed, graph based tasking.
+
+
 
 In this talk, Jolly will present different approaches to abstracting SoA as AoS at compile-time, using C++26 reflection and some Code Injection with Token Sequences as proposed by P3294, which she compare with manually defining SoAs. In addition, she will share her experience with using C++ reflection.  
 
