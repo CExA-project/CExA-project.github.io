@@ -9,11 +9,11 @@ links:
   icon: youtube
   url: https://youtu.be/WlQ2PN0Fmhg?si=V8PAV5bPM55DLYp2
   cta_new_tab: true
-#- icon_pack: fas
-#  name: 'Get the slides'
-#  icon: file-pdf
-#  url: "slides.pdf"
-#  cta_new_tab: true
+- icon_pack: fas
+  name: 'Get the slides'
+  icon: file-pdf
+  url: "slides.pdf"
+  cta_new_tab: true
 ---
 
 {{< cta cta_text="<i class='fa fa-envelope'></i>&nbsp; Register to be notified about future events" cta_link="https://lists.hpsf.io/g/kokkos-announcements" >}}
