@@ -4,6 +4,16 @@ subtitle: "March 18th 2026: Kokkos tea-time"
 summary: 'On March the 18th, Alexandre Dutka from CERFACS will give a talk entitled "HOPPS: A performance portable spectral difference solver for high-fidelity computational fluid dynamics"'
 date: 2026-02-19
 links:
+- icon_pack: fab
+  name: 'Watch on Youtube'
+  icon: youtube
+  url: https://youtu.be/MBnK4XEm1-Q?si=IppeIWk5bS05KKmt 
+  cta_new_tab: true
+- icon_pack: fas
+  name: 'Get the slides'
+  icon: file-pdf
+  url: "slides.pdf"
+  cta_new_tab: true
 - icon_pack: fa
   icon: calendar
   name: Add to calendar
