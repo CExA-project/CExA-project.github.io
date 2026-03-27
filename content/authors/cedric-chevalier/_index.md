@@ -2,12 +2,12 @@
 authors: [ cedric-chevalier ]
 name: Cédric Chevalier
 email: cedric.chevalier@cea.fr
-title: Dr. Cédric Chevalier
-role: Group leader, Senior developer
+title: Cédric Chevalier
+role: Senior developer
 organizations:
 - name: CEA
   url: https://www.cea.fr/
-- name: Laboratory for High Performance Computing and Simulation
+- name: LIHPC
   url: https://www-lihpc.cea.fr/en/index.html
 social:
 - icon: envelope

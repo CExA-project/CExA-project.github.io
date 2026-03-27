@@ -2,8 +2,8 @@
 authors: [ thomas-padioleau ]
 name: Thomas Padioleau
 email: thomas.padioleau@cea.fr
-title: Dr. Thomas Padioleau
-role: Senior developer, architect
+title: Thomas Padioleau
+role: Senior developer
 organizations:
 - name: CEA
   url: https://www.cea.fr/

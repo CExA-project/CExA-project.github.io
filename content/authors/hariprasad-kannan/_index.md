@@ -2,14 +2,13 @@
 authors: [ hariprasad-kannan ]
 name: Hariprasad Kannan
 email: hariprasad.kannan@cea.fr
-title: Dr. Hariprasad Kannan
+title: Hariprasad Kannan
 role: Developer
 organizations:
 - name: CEA
   url: https://www.cea.fr/
-- name: Maison de la Simulation
-  url: https://mdls.fr/
-- name: DES/ISAS/DM2S/SGLS/LCAN
+- name: DEs
+  url: https://www.cea.fr/english/Pages/research-areas/energies.aspx
 social:
 - icon: envelope
   icon_pack: fas

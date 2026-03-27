@@ -2,7 +2,7 @@
 authors: [ paul-zehner ]
 name: Paul Zehner
 email: paul.zehner@cea.fr
-title: Dr. Paul Zehner
+title: Paul Zehner
 role: Senior Developer
 organizations:
 - name: CEA

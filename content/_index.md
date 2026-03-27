@@ -7,23 +7,6 @@ sections:
   - block: slider
     content:
       slides:
-      - title: Meet the team in the European Kokkos user Group
-        content: |
-          <br><br><br><br><br><br><br><br><br><br><br>
-          Join the European Kokkos User Group at the HPSF Community Summit, in Braunschweig
-        align: left
-        background:
-          image:
-            filename: hpsfcs.jpg
-            filters:
-              brightness: 0.6
-          position: center
-          color: '#222'
-        link:
-          icon: lightbulb
-          icon_pack: fas
-          text: Find out more and register
-          url: 'news/2026-02-25-hpsf-community-summit'
       - title: CEA project for GPU computing
         content: |
           C**ExA** is a Moonshot project launched by [CEA](https://cea.fr/) to adapt [Kokkos](https://kokkos.org/) to **your** needs and help **you** adopt it.

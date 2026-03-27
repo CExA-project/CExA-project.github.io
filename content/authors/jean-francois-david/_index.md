@@ -2,14 +2,13 @@
 authors: [ jean-francois-david ]
 name: Jean-François David
 email: jean-francois.david@cea.fr
-title: Dr. Jean-François David
-role: Dyablo developer
+title: Jean-François David
+role: Developer
 organizations:
 - name: CEA
   url: https://www.cea.fr/
 - name: IRFU
   url: https://irfu.cea.fr/
-highlight_name: false
 social:
 - icon: envelope
   icon_pack: fas
@@ -18,7 +17,7 @@ social:
   icon_pack: fab
   link: https://github.com/daxmawal
 user_groups:
-  - Demonstrator devs
+  - Core team
 
 ---
 

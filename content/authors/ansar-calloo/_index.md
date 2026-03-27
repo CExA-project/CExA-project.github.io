@@ -2,12 +2,12 @@
 authors: [ ansar-calloo ]
 name: Ansar Calloo
 email: ansar.calloo@cea.fr
-title: Dr. Ansar Calloo
-role: Group leader, Senior Developer
+title: Ansar Calloo
+role: Senior Developer
 organizations:
 - name: CEA
   url: https://www.cea.fr/
-- name: DES/ISAS
+- name: DEs
   url: https://www.cea.fr/english/Pages/research-areas/energies.aspx
 social:
 - icon: envelope

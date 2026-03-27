@@ -1,13 +1,13 @@
 ---
 authors: [ remi-baron ]
-name: Rémi Baron
+name: Remi Baron
 email: remi.baron@cea.fr
-title: Dr. Rémi Baron
+title: Remi Baron
 role: Senior Developer
 organizations:
 - name: CEA
   url: https://www.cea.fr/
-- name: DES/ISAS
+- name: DES
   url: https://www.cea.fr/Pages/le-cea/direction-des-energies.aspx
 social:
 - icon: envelope
@@ -15,7 +15,6 @@ social:
   link: mailto:remi.baron@cea.fr
 user_groups:
   - Core team
-
 ---
 
 Dr. Rémi Baron is a research engineer at CEA since 2010.

@@ -2,7 +2,7 @@
 authors: [ ivan-tagliaferro ]
 name: Ivan Tagliaferro
 email: ivan.tagliaferro@cea.fr
-title: MSc Ivan Tagliaferro
+title: Ivan Tagliaferro
 role: Developer
 organizations:
 - name: CEA

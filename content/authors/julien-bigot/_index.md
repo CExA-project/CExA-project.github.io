@@ -4,7 +4,7 @@ name: Julien Bigot
 first_name: Julien
 last_name: Bigot
 email: julien.bigot@cea.fr
-title: Dr. Julien Bigot
+title: Julien Bigot
 role: PI
 organizations:
 - name: CEA

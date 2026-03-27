@@ -2,7 +2,7 @@
 authors: [ yuuichi-asahi ]
 name: Yuuichi Asahi
 email: yuuichi.asahi@cea.fr
-title: Dr. Yuuichi Asahi
+title: Yuuichi Asahi
 role: Senior developer
 organizations:
 - name: CEA

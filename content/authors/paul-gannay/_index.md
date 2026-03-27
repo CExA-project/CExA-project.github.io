@@ -9,7 +9,6 @@ organizations:
   url: https://www.cea.fr/
 - name: Maison de la Simulation
   url: https://mdls.fr/
-- name: DRF
 social:
 - icon: envelope
   icon_pack: fas
