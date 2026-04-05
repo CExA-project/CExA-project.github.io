@@ -7,6 +7,14 @@ on:
   workflow_dispatch:
 
 jobs:
+  trailing-whitespaces-check:
+    name: Trailing whitespaces check
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v6
+      - name: Analysing the trailing whitespaces
+        run: ./bin/trailing_spaces --Werror $(git ls-files 'content/*.md')
+
   links-check:
     name: Links check using linkchecker
     runs-on: ubuntu-latest
