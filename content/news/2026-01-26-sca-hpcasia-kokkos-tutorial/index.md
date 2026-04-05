@@ -2,16 +2,16 @@
 title: Kokkos Tutorial at SCA/HPCAsia
 date: 2025-11-21
 summary: |
-  The Kokkos team will give a [tutorial at the SCA/HPCAsia](https://www.sca-hpcasia2026.jp/program.html).
-  [Come and meet us there](https://www.sca-hpcasia2026.jp).
+  The Kokkos team will give a [tutorial at the SCA/HPCAsia](https://www.sc-asia.org/2026/program.html).
+  [Come and meet us there](https://www.sc-asia.org/2026).
 links:
 - name: 'Find out more'
-  url: https://www.sca-hpcasia2026.jp
+  url: https://www.sc-asia.org/2026
   cta_new_tab: true
 ---
 
-The Kokkos team will give a [tutorial at the SCA/HPCAsia](https://www.sca-hpcasia2026.jp/program.html).
-[Come and meet us there](https://www.sca-hpcasia2026.jp).
+The Kokkos team will give a [tutorial at the SCA/HPCAsia](https://www.sc-asia.org/2026/program.html).
+[Come and meet us there](https://www.sc-asia.org/2026).
 
 The Kokkos team will conduct a 1-day tutorial on 26th of January at the combined HPC Asia / SCA 2026 conference in Osaka, Japan.
 For those new to Kokkos this will be an excellent opportunity to hear the introductory lectures, and get a running start into writing performance portable code with Kokkos.
