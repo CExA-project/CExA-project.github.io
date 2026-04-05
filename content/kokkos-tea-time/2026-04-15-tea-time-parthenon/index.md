@@ -2,12 +2,12 @@
 title: "April tea-time: Parthenon – a performance portable block-structured adaptive mesh refinement framework"
 subtitle: "April 15th 2026: Kokkos tea-time"
 summary: 'On April 15th, Philipp Grete from the University of Hamburg will give a talk entitled "Parthenon – a performance portable block-structured adaptive mesh refinement framework"'
-date: 2026-03-17              
+date: 2026-03-17
 links:
 #- icon_pack: fab
 #  name: 'Watch on Youtube'
 #  icon: youtube
-#  url: 
+#  url:
 #  cta_new_tab: true
 # - icon_pack: fas
 #  name: 'Get the slides'

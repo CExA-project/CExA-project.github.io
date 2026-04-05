@@ -14,13 +14,13 @@ We are pleased to announce that [Kokkos-FFT](https://github.com/kokkos/kokkos-ff
 
 * Integrated naturally in the Kokkos ecosystem on top of [Kokkos Views](https://kokkos.org/kokkos-core-wiki/API/core/view/view.html) and [Kokkos ExecutionSpace](https://kokkos.org/kokkos-core-wiki/API/core/execution_spaces.html).
 
-* A simple interface like [`numpy.fft`](https://numpy.org/doc/stable/reference/routines.fft.html) with in-place and out-of-place transforms:  
+* A simple interface like [`numpy.fft`](https://numpy.org/doc/stable/reference/routines.fft.html) with in-place and out-of-place transforms:
 Only accepts `Kokkos Views` to make APIs simple and safe.
 
-* 1D, 2D, 3D standard and real FFT functions (similar to [`numpy.fft`](https://numpy.org/doc/stable/reference/routines.fft.html)) over 1D to 8D Kokkos Views:  
+* 1D, 2D, 3D standard and real FFT functions (similar to [`numpy.fft`](https://numpy.org/doc/stable/reference/routines.fft.html)) over 1D to 8D Kokkos Views:
 Batched plans are automatically used if `View` dimension is larger than FFT dimension.
 
-* A reusable [FFT plan](https://kokkosfft.readthedocs.io/en/latest/api/plan/plan.html) which wraps the vendor libraries for various Kokkos backends: 
+* A reusable [FFT plan](https://kokkosfft.readthedocs.io/en/latest/api/plan/plan.html) which wraps the vendor libraries for various Kokkos backends:
 [FFTW](http://www.fftw.org) for Host Backends (`Serial`, `OpenMP`, and `Threads`), [cuFFT](https://developer.nvidia.com/cufft) for `Cuda` backend, [hipFFT](https://github.com/ROCm/hipFFT) ([rocFFT](https://github.com/ROCm/rocFFT)) for `HIP` backend, and [oneMKL](https://www.intel.com/content/www/us/en/developer/tools/oneapi/onemkl.html) for `SYCL` backend are automatically enabled based on the enabled Kokkos backends.
 
 * Compile-time and run-time checks for invalid usage (e.g. `View` extents mismatch).

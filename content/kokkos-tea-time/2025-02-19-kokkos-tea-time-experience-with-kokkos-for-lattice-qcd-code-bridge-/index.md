@@ -29,7 +29,7 @@ Keigo Nitadori will give a talk entitled "Experience with Kokkos for Lattice QCD
 
 Keigo Nitadori is a technical scientist at RIKEN R-CCS. He has a Ph.D. in Science (defended in 2009), for Computational Astronomy; he specializes in high-performance gravitational N-body simulations and was recipient of the ACM Gordon Bell Prize in SC09 and SC12.
 
-{{% cta cta_text="Get the slides" cta_link="slides.pdf" cta_new_tab="true" %}} 
+{{% cta cta_text="Get the slides" cta_link="slides.pdf" cta_new_tab="true" %}}
 
 {{< youtube Mab0A84xBMM >}}
 
@@ -37,7 +37,7 @@ Keigo Nitadori is a technical scientist at RIKEN R-CCS. He has a Ph.D. in Scienc
 
 ## Experience with Kokkos for Lattice QCD Code Bridge++
 
-Keigo Nitadori will share some insights from his initial experience developing with the Kokkos framework. The target was a Lattice QCD code, specifically the Domain-wall Fermion kernel from a Japanese community code set, Bridge++.  
+Keigo Nitadori will share some insights from his initial experience developing with the Kokkos framework. The target was a Lattice QCD code, specifically the Domain-wall Fermion kernel from a Japanese community code set, Bridge++.
 
 One of the initial challenges was that even a simple "Hello World" code required adequate knowledge of CMAKE for successful builds, posing a significant barrier for first-time users. To integrate Kokkos with Bridge++ without disrupting their conventions, careful attention was paid to maintaining loose coupling through techniques like the pImpl idiom.
 

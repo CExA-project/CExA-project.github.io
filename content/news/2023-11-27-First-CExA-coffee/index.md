@@ -22,11 +22,11 @@ Baptiste Legouix will give a talk entitled "Performance portable Fourier & Splin
 
 ## Performance portable Fourier & Spline transforms for Vlasov-Poisson numerical solve
 
-Numerical changes of basis functions is a very usefull tool for numerical 
-simulation: involved in interpolations, integrations, PDE solvers... In the 
-context of a collaboration between Mdls and IRFM, a Fourier and a Spline 
-transform kernels have been developed and integrated in the library DDC to 
-address the use-case of the gyrokinetic code Gysela in a performance 
+Numerical changes of basis functions is a very usefull tool for numerical
+simulation: involved in interpolations, integrations, PDE solvers... In the
+context of a collaboration between Mdls and IRFM, a Fourier and a Spline
+transform kernels have been developed and integrated in the library DDC to
+address the use-case of the gyrokinetic code Gysela in a performance
 perspective (compatibility with GPU).
 
 {{< cta cta_text="Get the slides" cta_link="dose_slides.pdf" cta_new_tab="true" >}}
@@ -40,7 +40,7 @@ Feel free to contact us to propose a talk: contact@cexa-project.org
 ## Kokkos Korner
 
 For those interested, the coffee will be followed by a "Kokkos Korner".
-If you've tried Kokkos tutorials and you're stuck, if you have issues with Kokkos use, our experts will be available at 2PM in 
+If you've tried Kokkos tutorials and you're stuck, if you have issues with Kokkos use, our experts will be available at 2PM in
 Si vous avez essayé les tutoriaux Kokkos et que vous êtes bloqués, si vous avez des difficultés avec son utilisation, nos experts Kokkos seront disponibles à 14h au même endroit pour répondre à vos questions.
 Pour ceux qui ne peuvent pas se déplacer sur Saclay, nous sommes joignable sur le slack de Kokkos : https://kokkosteam.slack.com/messages , canal #general-fr.
 

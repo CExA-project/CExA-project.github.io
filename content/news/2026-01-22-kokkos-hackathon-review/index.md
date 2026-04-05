@@ -11,7 +11,7 @@ The Kokkos hackathon organized by CExA, held at the Maison de la Simulation from
 # A course to lay the foundations
 
 The event began with an introductory course that allowed participants to discover or strengthen their knowledge of the Kokkos library and GPU programming.
-The course highlighted the differences between CPU and GPU architectures for numerical computing, introduced Kokkos containers and parallel structures, and was illustrated with live practical examples provided by the instructors. Additional intermediate topics were also covered, such as vectorization, standard algorithms, and code profiling.  
+The course highlighted the differences between CPU and GPU architectures for numerical computing, introduced Kokkos containers and parallel structures, and was illustrated with live practical examples provided by the instructors. Additional intermediate topics were also covered, such as vectorization, standard algorithms, and code profiling.
 
 # Three days of hackathon
 

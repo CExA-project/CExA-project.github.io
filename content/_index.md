@@ -31,7 +31,7 @@ sections:
       loop: true
       # Duration of transition between slides (in ms)
       interval: 8000
-  
+
   - block: hero
     content:
       title: <span id="the-project">The project</span>
@@ -47,14 +47,14 @@ sections:
         These supercomputers confirm the trend of a shift towards accelerated architectures where GPUs provide the computing power.
         The Alice Recoque Exascale machine to be installed in France, at CEA/TGCC, can only follow this trend.
         This raises a challenge for French and European applications that have to be redesigned to use these infrastructure.
-        
+
         CExA will work to offer applications a sustainable middleware that can act as a future-proof software catalyst to leverage heterogeneous and GPU-based supercomputers:
         1. adopt and adapt [Kokkos](https://kokkos.org/) and contribute to its ecosystem to offer applications a sustainable software catalyst,
         2. implement this approach in three demonstrator applications to guide our choices and demonstrate their effectiveness,
         3. offer training and contribute to the dissemination of CExA to build an expert network sharing experience and knowledge.
-        
+
         With this project, the CEA will acquire mastery of an essential link in the software stack by increasing its skills on existing tools while filling gaps on critical points for the specific needs of the CEA, the French and European HPC ecosystem.
-        
+
         <div class="mb-3"></div>
 
   - block: features
@@ -89,7 +89,7 @@ sections:
           icon_pack: fas
   - block: markdown
     content:
-      title: 
+      title:
       subtitle:
       text: |
         {{% cta cta_link="./team/" cta_text="Meet the team →" %}}

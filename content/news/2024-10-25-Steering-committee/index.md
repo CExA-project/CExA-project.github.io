@@ -17,7 +17,7 @@ The public part of this session can be followed on [Zoom](https://cnrs.zoom.us/j
 
 {{< cta cta_text="<i class='fa fa-calendar'></i>&nbsp; Add to calendar" cta_link="steering-committee.ics" >}}
 
-The CExA team will present its work to CEA's Operating Divisions. This in-depth dive into the achievements of the project will include talks by demonstrators working on applications, that have been collaborating with CExA developers. 
+The CExA team will present its work to CEA's Operating Divisions. This in-depth dive into the achievements of the project will include talks by demonstrators working on applications, that have been collaborating with CExA developers.
 
 The <span id=agenda>agenda</span> for the public session of the Steering Committee is as follows:
 - 9:00-9:10 - General introduction
@@ -37,7 +37,7 @@ The <span id=agenda>agenda</span> for the public session of the Steering Committ
 
 ## Additional info
 
-### Join us physically in  Room 045 of the DIGITEO building 
+### Join us physically in  Room 045 of the DIGITEO building
 
 Room 045 of [Digiteo Saclay building](https://maps.app.goo.gl/dWmfDSAyc6TLkrnC9) is in Saclay center, near the Orphée entrance.
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2631.8449189785!2d2.15407651328232!3d48.72755487119501!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47e67f3d6ca35351%3A0xad658a7f81b4a1fe!2sMaison%20de%20la%20Simulation!5e0!3m2!1sen!2sfr!4v1690451425962!5m2!1sen!2sfr" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>

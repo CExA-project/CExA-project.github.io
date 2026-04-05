@@ -13,7 +13,7 @@ sections:
         url: https://github.com/cea-trust-platform
         label: Git repository
         icon_pack: fab
-        icon: github    
+        icon: github
   - block: markdown
     content:
       text: |

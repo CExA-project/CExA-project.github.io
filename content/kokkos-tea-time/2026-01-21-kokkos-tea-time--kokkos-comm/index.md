@@ -35,7 +35,7 @@ It can be followed on [Zoom](https://zoom-lfx.platform.linuxfoundation.org/meeti
 
 Gabriel Dos Santos (CEA, France) will give a talk entitled "Kokkos Comm: Performance-Portable Communication API for Distributed Kokkos Applications".
 
-Gabriel Dos Santos is a Ph.D. student at CEA, France. Following a Master’s degree in High-Performance Computing and Simulation from Paris-Saclay University, his research now focuses on data structure optimization and parallel programming. 
+Gabriel Dos Santos is a Ph.D. student at CEA, France. Following a Master’s degree in High-Performance Computing and Simulation from Paris-Saclay University, his research now focuses on data structure optimization and parallel programming.
 
 
 ## Kokkos Comm: Performance-Portable Communication API for Distributed Kokkos Applications

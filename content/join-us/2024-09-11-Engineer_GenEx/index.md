@@ -13,10 +13,10 @@ links:
 
 ---
 
-**THIS POSITION HAS BEEN FILLED.**  
+**THIS POSITION HAS BEEN FILLED.**
 However, please feel free to send us your CV at contact@cexa-project.org, so we can contact you if an opportunity matching your profile becomes available.
 
-<!--more--> 
+<!--more-->
 ---
 
 
@@ -45,16 +45,16 @@ Your mission will include:
 
 *	Discussions and set-up of the physical models to modelise DNA repairs
 *	Test of various algorithms to solve these models
-*	Development of an highly efficient code, based on Kokkos, to implement the aforementioned algorithms 
+*	Development of an highly efficient code, based on Kokkos, to implement the aforementioned algorithms
 
 ## Skills
 
 You have a Master's degree and/or an engineering degree in computer science and:
 
-* You have a good knowledge of C++ 
-*	You have skills in software engineering. You are familiar with common development environments and associated tools 
+* You have a good knowledge of C++
+*	You have skills in software engineering. You are familiar with common development environments and associated tools
 *	Knowledge of parallel programming (GPU, multi-threaded, etc.) is a plus, especially with the Kokkos library or equivalent.
-*	You are autonomous and you wish to be part of an interdisciplinary work team. 
+*	You are autonomous and you wish to be part of an interdisciplinary work team.
 
 
 

@@ -1,5 +1,5 @@
 ---
-title: Cheat Sheets for Kokkos                
+title: Cheat Sheets for Kokkos
 ---
 <style>/*<--!*/
 .black_bordered{

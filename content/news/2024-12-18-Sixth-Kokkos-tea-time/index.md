@@ -31,7 +31,7 @@ Sam Reeve will give a talk on "Cabana: a Kokkos+MPI library for particles and hy
 
 <!-- ![](portrait.jpg "") -->
 
-Sam Reeve is a staff scientist at Oak Ridge National Lab, working at the intersection of materials and computational science. His current focus is software development for performance portability and scalability in materials applications. He obtained his BS from Iowa State University and his PhD from Purdue University, both in Materials Engineering.        
+Sam Reeve is a staff scientist at Oak Ridge National Lab, working at the intersection of materials and computational science. His current focus is software development for performance portability and scalability in materials applications. He obtained his BS from Iowa State University and his PhD from Purdue University, both in Materials Engineering.
 
 {{% cta cta_text="Get the slides" cta_link="slides.pdf" cta_new_tab="true" %}}
 
