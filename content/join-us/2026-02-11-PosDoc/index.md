@@ -25,7 +25,7 @@ The European HPC landscape is transforming rapidly with the emergence of **Exasc
 
 To address this challenge, the **CExA "Moonshot"** initiative contributes to key software infrastructure like **Kokkos** and leverages modern compiler frameworks such as **MLIR** (Multi-level Intermediate Representation) to establish a sustainable approach for domain experts to develop their applications without deep understanding of the modern programming models and architectures. For this purpose, we will explore the coupling technology of kokkos/python with MLIR to allow code developers to maintain kokkos codes only with the python expertise. As a case study, we will port a legacy fortran application for MDFT (Molecular Density Functional Theory) with modern programming approaches including Kokkos, Kokkos/python and python. Then, we will evaluate the performance portability, readability, productivity and mainatinability aspects of each approach to find a reasonable programming model to develop a code for domain scientists.
 
-This position is a 2 years posistion as part of CExA’s efforts to integrate advanced techniques, including **JAX-based or PyTorch-based AI models**, into our HPC workflows, fostering hybrid workloads that combine simulation and machine learning.
+This position is a 2 years position as part of CExA’s efforts to integrate advanced techniques, including **JAX-based or PyTorch-based AI models**, into our HPC workflows, fostering hybrid workloads that combine simulation and machine learning.
 
 ---
 

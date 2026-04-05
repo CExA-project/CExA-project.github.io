@@ -13,7 +13,7 @@ image:
  * L’approche Kokkos vous intéresse?
 * Rejoignez la dynamique !!!
 
-Conaissez vous les [projets transverse de compétences "simulation numérique" (PTC-SN)](https://programmes-i.extra.cea.fr/) du CEA ?
+Connaissez vous les [projets transverse de compétences "simulation numérique" (PTC-SN)](https://programmes-i.extra.cea.fr/) du CEA ?
 
 Déposons un projet ensemble. Profitez de l'expertise CExA en collaboration sur votre code.
 * Contribuez a la pérennisation de CExA

@@ -29,7 +29,7 @@ The <span id=agenda>agenda</span> for the public session of the Steering Committ
 
 <br>
 
-- 10h25-10h50 - [Demonstrator 1: GyselaX (Virginie Grandgirard)](2024-10-15-VGrandgirard_CExA_SteeringCommitee.pdf)
+- 10h25-10h50 - [Demonstrator 1: GyselaX (Virginie Grandgirard)](2024-10-15-VGrandgirard_CExA_SteeringCommittee.pdf)
 - 10h50-11h05 - [Demonstrator 2: Triclade (Cédric Chevalier)](2024-10-25-Triclade_suivi.pdf)
 - 11h05-11h30 - [Demonstrator 3: Trust/TrioCFD (Pierre Ledac)](2024-10-15-TRUST_Suivi_CExA_2024.pdf)
 - 11h30-11h40 - Conclusion
