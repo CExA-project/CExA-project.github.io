@@ -5,7 +5,9 @@ sslverify=0
 ignorewarnings=http-redirected,mail-no-mx-host
 ignore=
   https://hugoblox\.com/\?utm_campaign=poweredby
+  https://www\.researchgate\.net/profile/Ivan-Tagliaferro-De-Oliveira-Tezoto
   https://www\.researchgate\.net/profile/Julien-Bigot-2
   https://scholar\.google\.co\.uk/citations\?user=lwrAj8AAAAAJ
+  https://scholar\.google\.com/citations\?user=7f7XtYsAAAAJ
   https://programmes-i\.extra\.cea\.fr/.*
   https://doi\.org/10\.1051/epjn/2024028
