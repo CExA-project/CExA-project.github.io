@@ -1,3 +1,6 @@
+[default.extend-identifiers]
+WlQ2PN0Fmhg = "WlQ2PN0Fmhg"
+
 [default.extend-words]
 # Don't correct these word (parts)
 softwares = "softwares"
@@ -5,8 +8,6 @@ softwares = "softwares"
 [files]
 # Files containing french words
 extend-exclude = [
-    "content/authors/jean-francois-david/_index.md",
-    "content/kokkos-tea-time/2026-01-21-kokkos-tea-time--kokkos-comm/index.md",
     "content/news/2023-11-19-CExA-coffees/index.md",
     "content/news/2023-11-20-PTC/index.md",
     "content/news/2023-11-27-First-CExA-coffee/index.md",

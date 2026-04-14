@@ -21,4 +21,4 @@ user_groups:
 
 ---
 
-Jean-François David is a Research Scientist at CEA, Institut de Recherche sur les Lois Fondamentales de l'Univers. He specializes in developing tools and methodologies for performance optimization, helping improve the efficiency and scalability of advanced computing applications. His work combines research and practical implementation to address real-world performance challenges.
+Jean-François David is a Research Scientist at CEA, Institute of Research into the Fundamental laws of the Universe. He specializes in developing tools and methodologies for performance optimization, helping improve the efficiency and scalability of advanced computing applications. His work combines research and practical implementation to address real-world performance challenges.
