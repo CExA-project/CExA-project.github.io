@@ -15,6 +15,15 @@ jobs:
       - name: Analysing the trailing whitespaces
         run: ./bin/trailing_spaces --Werror $(git ls-files 'content/*.md')
 
+  spelling-check:
+    name: Spell check using typos
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v6
+      - name: Spell Check Repo
+        uses: crate-ci/typos@v1.45.1
+
   links-check:
     name: Links check using linkchecker
     runs-on: ubuntu-latest
