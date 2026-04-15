@@ -44,14 +44,18 @@ main:
     parent: demos
     url: triclade
     weight: 330
+  - name: MDFT
+    parent: demos
+    url: mdft
+    weight: 340
   - name: Tripoli-5
     parent: demos
     url: tripoli5
-    weight: 340
+    weight: 350
   - name: Trust/TrioCFD
     parent: demos
     url: triocfd
-    weight: 350
+    weight: 360
   - name: Our content
     identifier: doc
     url: doc
