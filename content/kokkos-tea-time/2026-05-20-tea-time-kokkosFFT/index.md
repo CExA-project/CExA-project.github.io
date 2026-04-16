@@ -1,8 +1,8 @@
 ---
-title: "April tea-time: Parthenon – a performance portable block-structured adaptive mesh refinement framework"
-subtitle: "April 15th 2026: Kokkos tea-time"
-summary: 'On April 15th, Philipp Grete from the University of Hamburg will give a talk entitled "Parthenon – a performance portable block-structured adaptive mesh refinement framework"'
-date: 2026-03-17
+title: "May tea-time: KokkosFFT: Performance-Portable Fast Fourier Transform interface for Kokkos Applications"
+subtitle: "May 20th 2026: Kokkos tea-time"
+summary: 'On April 20th, Yuuichi Asahi from CEA will give a talk entitled "KokkosFFT: Performance-Portable Fast Fourier Transform interface for Kokkos Applications"'
+date: 2026-04-16
 links:
 #- icon_pack: fab
 #  name: 'Watch on Youtube'
@@ -22,14 +22,14 @@ links:
 
 {{< cta cta_text="<i class='fa fa-envelope'></i>&nbsp; Register to be notified about future events" cta_link="https://lists.hpsf.io/g/kokkos-announcements" >}}
 
-CExA organizes the 18th **Kokkos tea-time** on Wednesday, April the 15th, 2026 for 45min starting at [7AM Pacific, 10AM Eastern, 4PM Paris, 11PM Tokyo](https://www.worldtimebuddy.com/?qm=1&lid=8,5,2988507,1850147&h=8&date=2026-02-18&sln=7-8).
+CExA organizes the 19th **Kokkos tea-time** on Wednesday, May the 20th, 2026 for 45min starting at [7AM Pacific, 10AM Eastern, 4PM Paris, 11PM Tokyo](https://www.worldtimebuddy.com/?qm=1&lid=8,5,2988507,1850147&h=8&date=2026-02-18&sln=7-8).
 It can be followed on [Zoom](https://zoom-lfx.platform.linuxfoundation.org/meeting/92397190835?password=b177af2d-9c4a-4376-9d17-b57588a88146), or by [phone]({{< ref "#by-phone" >}}).
 
 {{< cta cta_text="<i class='fa fa-calendar'></i>&nbsp; Add to calendar" cta_link="https://webcal.prod.itx.linuxfoundation.org/lfx/a092M00001MsyOeQAJ" >}}
 
-Philipp Grete will give a talk entitled "Parthenon – a performance portable block-structured adaptive mesh refinement framework"
+Yuuichi Asahi will give a talk entitled "KokkosFFT: Performance-Portable Fast Fourier Transform interface for Kokkos Applications"
 
-Philipp Grete is a postdoctoral research associate at the University of Hamburg. His interdisciplinary research covers both physics, e.g., turbulence or (astrophysical) plasma modeling and their role in (astro)physical systems, and computer science, e.g., parallelization and HPC, as well as topics in between such as computational fluid dynamics and numerical methods. Philipp is an advocate of open source, community projects and sustainable software development practices.
+Yuuichi Asahi is a research scientist at Maison de la Simulation, CEA, France. He has focused on the nonlinear plasma turbulence by means of gyrokinetic simulations. High performance computing and large scale data management are key ingredients for these simulations. His current interests include accelerating the gyrokinetic simulation codes for more complicated physics, and analysing the large scale simulation results with machine/deep learning methods.
 
 
 
@@ -41,10 +41,9 @@ Philipp Grete is a postdoctoral research associate at the University of Hamburg.
 
 
 
-## Parthenon – a performance portable block-structured adaptive mesh refinement framework
+## KokkosFFT: Performance-Portable Fast Fourier Transform interface for Kokkos Applications
 
-Parthenon is an open source, massively parallel, block-structured, adaptive mesh refinement framework. We are using Kokkos for on-node device parallelization and MPI for inter-node parallelization reaching 92% weak scaling parallel efficiency going from a single to 9,216 nodes
-(73,728 logical GPUs) on Frontier. It is the basis for various downstream codes across disciplines from astrophysical magnetohydrodynamics to multi-material laboratory physics. In this talk, I will highlight our performance-motivated key design decisions in developing Parthenon such as logical packing of variable and meshblocks, and coalesced communication patterns via direct, asynchronous device-to-device messages. Moreover, I will highlight key features of Parthenon such as sparsely allocated variables, integrated solvers, type-based variable indexing, or a flexible directed, graph based tasking.
+Kokkos-FFT provides a unified, performance-portable interface for Fast Fourier Transforms (FFTs) within the Kokkos ecosystem. It seamlessly integrates with de facto standard FFT libraries, including FFTW, cuFFT, rocFFT, and oneMKL. Designed for simplicity and efficiency, Kokkos-FFT offers a user experience akin to numpy.fft for in-place and out-of-place transforms, while leveraging the raw speed of vendor-optimized libraries. Recently, we have implemented the prototype of the distributed version on top of MPI. In the talk, we will introduce the basic APIs and implementation details. We will present the benchmark results solving 3D Navier-Stokes equations with distributed FFTs. We will also present future development plans. 
 
 
 
