@@ -43,7 +43,7 @@ Yuuichi Asahi is a research scientist at Maison de la Simulation, CEA, France. H
 
 ## KokkosFFT: Performance-Portable Fast Fourier Transform interface for Kokkos Applications
 
-Kokkos-FFT provides a unified, performance-portable interface for Fast Fourier Transforms (FFTs) within the Kokkos ecosystem. It seamlessly integrates with de facto standard FFT libraries, including FFTW, cuFFT, rocFFT, and oneMKL. Designed for simplicity and efficiency, Kokkos-FFT offers a user experience akin to numpy.fft for in-place and out-of-place transforms, while leveraging the raw speed of vendor-optimized libraries. Recently, we have implemented the prototype of the distributed version on top of MPI. In the talk, we will introduce the basic APIs and implementation details. We will present the benchmark results solving 3D Navier-Stokes equations with distributed FFTs. We will also present future development plans. 
+Kokkos-FFT provides a unified, performance-portable interface for Fast Fourier Transforms (FFTs) within the Kokkos ecosystem. It seamlessly integrates with de facto standard FFT libraries, including FFTW, cuFFT, rocFFT, and oneMKL. Designed for simplicity and efficiency, Kokkos-FFT offers a user experience akin to numpy.fft for in-place and out-of-place transforms, while leveraging the raw speed of vendor-optimized libraries. Recently, we have implemented the prototype of the distributed version on top of MPI. In the talk, we will introduce the basic APIs and implementation details. We will present the benchmark results solving 3D Navier-Stokes equations with distributed FFTs. We will also present future development plans.
 
 
 
