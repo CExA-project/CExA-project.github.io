@@ -63,7 +63,7 @@ sections:
         * Regular online meetings: Informal presentations & discussions about Kokkos, its ecosystem & GPU at large
           * [CExA virtual café]({{< relref "news" >}}) in French, once a month
           * [Kokkos virtual tea-time]({{< relref "news" >}}) in English, once a month
-        * [Kokkos slack](https://join.slack.com/t/kokkosteam/shared_invite/zt-2jbbafsab-dOUkTEUmuRdKesSfrRHwWQ) now has a #general-fr channel (~10% of the whole community)
+        * [Kokkos slack](https://kokkosteam.slack.com/join/shared_invite/zt-2jbbafsab-dOUkTEUmuRdKesSfrRHwWQ) now has a #general-fr channel (~10% of the whole community)
         * CEA / EDF / Inria summer school in summer 2025
 
 ---
