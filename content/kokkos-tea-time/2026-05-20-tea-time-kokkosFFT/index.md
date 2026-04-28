@@ -1,7 +1,7 @@
 ---
 title: "May tea-time: KokkosFFT: Performance-Portable Fast Fourier Transform interface for Kokkos Applications"
 subtitle: "May 20th 2026: Kokkos tea-time"
-summary: 'On April 20th, Yuuichi Asahi from CEA will give a talk entitled "KokkosFFT: Performance-Portable Fast Fourier Transform interface for Kokkos Applications"'
+summary: 'On May 20th, Yuuichi Asahi from CEA will give a talk entitled "KokkosFFT: Performance-Portable Fast Fourier Transform interface for Kokkos Applications"'
 date: 2026-04-16
 links:
 #- icon_pack: fab
