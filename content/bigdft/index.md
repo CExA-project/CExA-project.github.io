@@ -23,7 +23,7 @@ sections:
         CExA also serves as a foundational environment for co-design, code modernization, and preparing for future EuroHPC architectures.
         This collaboration directly contributes to the code's long-term viability and its position as one of the leading applications for high-performance computing in Europe.
 
-        The code is open-source and available on [github](https://l_sim.gitlab.io/bigdft-suite/users/install.html#))
+        The code is open-source and available on [github](https://l_sim.gitlab.io/bigdft-suite/users/install.html#)
 
         {{< figure src="bigdftoleds.jpg" >}}
 
