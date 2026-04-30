@@ -87,6 +87,10 @@ sections:
           description: Density
           icon: atom
           icon_pack: fas
+        - name: '[BigDFT]({{< relref "bigdft" >}})'
+          description: Astrophysical fluids
+          icon: flask
+          icon_pack: fas
   - block: markdown
     content:
       title:
