@@ -91,6 +91,10 @@ sections:
           description: Astrophysical fluids
           icon: flask
           icon_pack: fas
+        - name: '[DONUT]({{< relref "donut" >}})'
+          description: Neutron transport solver
+          icon: atom
+          icon_pack: fas    
   - block: markdown
     content:
       title:
