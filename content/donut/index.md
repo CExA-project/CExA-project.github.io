@@ -1,30 +1,35 @@
 ---
-title: BigDFT
+title: DONUT
 type: landing
 
 sections:
   - block: hero
     content:
-      title: BigDFT
+      title: DONUT
       image:
-        filename: bigdftenzymes.jpg
-      text: Full Quantum Mechanical calculations of enzyme-substrate assemblies with BigDFT
-      cta:
-        url: https://l_sim.gitlab.io/bigdft-suite/users/install.html#
-        label: Git repository
-        icon_pack: fab
-        icon: github
+        filename: donut.png
+#      text: Full Quantum Mechanical calculations of enzyme-substrate assemblies with BigDFT
+#      cta:
+#       url: https://l_sim.gitlab.io/bigdft-suite/users/install.html#
+#        label: Git repository
+#        icon_pack: fab
+#        icon: github
   - block: markdown
     content:
       text: |
-        BigDFT is an ab initio electronic structure code based on a wavelet representation, offering systematically controllable accuracy and excellent scalability on modern HPC architectures. It is used to study complex materials, large-scale systems, and problems in chemistry and biophysics.
+        DONUT (Discrete Ordinates NeUtron Transport) is a mock-up Sn -DG neutron transport solver for semi-homogeneous geometries. It is written in C++17 and was designed from the start to be a testbed for the algorithms developed in this work, and to use Kokkos for its internal data structures and parallelism.
+        DONUT is organised into six main modules:
+    - donut::core defines the fundamental data structures and provides wrappers and extensions to Kokkos.
+    - donut::model handles spatial meshes and nuclear data (multigroup cross sections).
+    - donut::fe handles the DG discretisation: it defines several local DG bases, and provides facilities to compute and store elementary DG matrices.
+    - donut::quadrature defines both spatial quadratures for the computation of integrals in elementary DG matrices, and angular quadratures for the Sn method.
+    - donut::solver provides iterative solvers for the resolution of the discrete NTE (power iteration, Gauss-Seidel/Jacobi, Richardson).
+    - Finally, donut::sweep contains all functionalities related to the sweep algorithm.  Although the primary aim of donut is not to be a production-ready neutron transport solver, its physical capabilities allow it to simulate standard benchmarks to validate the correctness of the implementation.
 
-        The work carried out within the CExA project is aligned with BigDFT’s strategic direction: it has enabled the exploration of the most suitable programming paradigms for executing code on exascale architectures, optimizing its performance on GPUs, and enhancing its portability and energy efficiency.
-        CExA also serves as a foundational environment for co-design, code modernization, and preparing for future EuroHPC architectures.
-        This collaboration directly contributes to the code's long-term viability and its position as one of the leading applications for high-performance computing in Europe.
+        The sweep algorithm of donut will be released on github very soon.
 
-        The code is open-source and available on [github](https://l_sim.gitlab.io/bigdft-suite/users/install.html#)
 
-        {{< figure src="bigdftoleds.jpg" >}}
+
+ #       {{< figure src="bigdftoleds.jpg" >}}
 
 ---
