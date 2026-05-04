@@ -60,6 +60,10 @@ main:
     parent: demos
     url: bigdft
     weight: 370
+  - name: DONUT
+    parent: demos
+    url: donut
+    weight: 380
   - name: Our content
     identifier: doc
     url: doc
