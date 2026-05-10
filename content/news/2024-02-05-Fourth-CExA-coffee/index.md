@@ -6,7 +6,7 @@ links:
   - icon_pack: fas
     icon: file-pdf
     name: Get the slides
-    url: 'https://raw.githubusercontent.com/kokkos/kokkos-tutorials/main/Other/ReleaseBriefings/release-42.pdf'
+    url: 'https://raw.githubusercontent.com/kokkos/kokkos-tutorials/924a8dd8e9495bb85df20ada5e8c6879487639b5/Other/ReleaseBriefings/release-42.pdf'
     cta_new_tab: true
 ---
 
@@ -19,7 +19,7 @@ It can be followed on [Zoom](https://cnrs.zoom.us/j/97834891802?pwd=NXhzd2paY051
 
 Cedric Chevalier will give a talk entitled "Kokkos, what's new?" presenting the slides from the Kokkos team release briefing.
 
-{{< cta cta_text="Get the slides" cta_link="https://raw.githubusercontent.com/kokkos/kokkos-tutorials/main/Other/ReleaseBriefings/release-42.pdf" cta_new_tab="true" >}}
+{{< cta cta_text="Get the slides" cta_link="https://raw.githubusercontent.com/kokkos/kokkos-tutorials/924a8dd8e9495bb85df20ada5e8c6879487639b5/Other/ReleaseBriefings/release-42.pdf" cta_new_tab="true" >}}
 
 
 ## Contribute
