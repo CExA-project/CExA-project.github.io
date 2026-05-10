@@ -94,7 +94,7 @@ sections:
         - name: '[DONUT]({{< relref "donut" >}})'
           description: Neutron transport solver
           icon: atom
-          icon_pack: fas    
+          icon_pack: fas
   - block: markdown
     content:
       title:
