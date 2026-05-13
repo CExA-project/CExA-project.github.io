@@ -1,8 +1,4 @@
 github.com/HugoBlox/hugo-blox-builder/modules/blox-bootstrap/v5 v5.9.7 h1:QPek2BL723n+uM4DjyV97qNIoPsmt/vnKAQyaGJbgvQ=
 github.com/HugoBlox/hugo-blox-builder/modules/blox-bootstrap/v5 v5.9.7/go.mod h1:xZiTEEurbEwj/NhZohozvlyLCGVCT2wARHDAJeqKG/c=
 github.com/HugoBlox/hugo-blox-builder/modules/blox-core v0.3.1/go.mod h1:So8+V2U+TNxlXmcpZfdDX0muLh3PdJ7z92h30sv3bZg=
-github.com/HugoBlox/hugo-blox-builder/modules/blox-plugin-decap-cms v0.1.1 h1:S1XFRPGzdlmrmqRcE9t0cj9auYFz7+TNCvsuxtD3wQQ=
-github.com/HugoBlox/hugo-blox-builder/modules/blox-plugin-decap-cms v0.1.1/go.mod h1:Njlsj3S1Z833TdX1nacJZzsiwGGhOq4Nilzo2BH/wQ8=
-github.com/HugoBlox/hugo-blox-builder/modules/blox-plugin-netlify v1.1.1 h1:qlDCZWq7OhuwLr7/rDPXe8iGxam2t1kgLabZ9EP0VqM=
-github.com/HugoBlox/hugo-blox-builder/modules/blox-plugin-netlify v1.1.1/go.mod h1:C7jfxMLv1bEUqbM9XDSmEpfOpS8w06OgqNDEcbuRgL4=
 github.com/HugoBlox/hugo-blox-builder/modules/blox-seo v0.2.2/go.mod h1:NsESu6cEms1DgH84icCyylElg2Zu8A0f7Fma5JR0LZE=

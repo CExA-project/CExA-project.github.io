@@ -14,4 +14,4 @@ finish() {
 trap finish EXIT QUIT ABRT KILL SEGV TERM STOP
 finish
 
-docker run -p 1315:1315 "-u$(id -u):$(id -g)" --rm -it -v "$(pwd):/src" floryn90/hugo:${HUGO_VERSION}-ext-alpine server --disableFastRender -p 1315 -b http://localhost:1315/
+docker run -p 1315:1315 "-u$(id -u):$(id -g)" --rm -it -v "$(pwd):/src" -v "${HOME}/.cache/hugo_cache/modules/:/tmp/modules/" floryn90/hugo:${HUGO_VERSION}-ext-alpine server --disableFastRender -p 1315 -b http://localhost:1315/
