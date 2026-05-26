@@ -10,9 +10,9 @@ links:
 #  url:
 #  cta_new_tab: true
 # - icon_pack: fas
-#  name: 'Get the slides'
-#  icon: file-pdf
-#  url: "slides.pdf"
+  name: 'Get the slides'
+  icon: file-pdf
+  url: "slides.pdf"
 #  cta_new_tab: true
 - icon_pack: fa
   icon: calendar
