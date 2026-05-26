@@ -9,7 +9,7 @@ links:
 #  icon: youtube
 #  url:
 #  cta_new_tab: true
-# - icon_pack: fas
+- icon_pack: fas
   name: 'Get the slides'
   icon: file-pdf
   url: "slides.pdf"
