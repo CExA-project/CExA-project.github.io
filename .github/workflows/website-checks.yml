@@ -22,7 +22,7 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v6
       - name: Spell Check Repo
-        uses: crate-ci/typos@v1.47.0
+        uses: crate-ci/typos@v1.47.2
 
   links-check:
     name: Links check using linkchecker
