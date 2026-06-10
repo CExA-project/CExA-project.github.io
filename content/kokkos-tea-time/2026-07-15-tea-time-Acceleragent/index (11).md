@@ -1,8 +1,8 @@
 ---
-title: "May tea-time: KokkosFFT: Performance-Portable Fast Fourier Transform interface for Kokkos Applications"
-subtitle: "May 20th 2026: Kokkos tea-time"
-summary: 'On May 20th, Yuuichi Asahi from CEA will give a talk entitled "KokkosFFT: Performance-Portable Fast Fourier Transform interface for Kokkos Applications"'
-date: 2026-04-16
+title: "July tea-time: Acceleragent: An Agentic AI Approach for Porting HPC Codebases to GPUs"
+subtitle: "July 15th 2026: Kokkos tea-time"
+summary: 'On July 15th, Ben Ryan from NVIDIA will give a talk entitled "Acceleragent: An Agentic AI Approach for Porting HPC Codebases to GPUs"'
+date: 2026-06-10
 links:
 #- icon_pack: fab
 #  name: 'Watch on Youtube'
@@ -22,15 +22,14 @@ links:
 
 {{< cta cta_text="<i class='fa fa-envelope'></i>&nbsp; Register to be notified about future events" cta_link="https://lists.hpsf.io/g/kokkos-announcements" >}}
 
-CExA organizes the 19th **Kokkos tea-time** on Wednesday, May the 20th, 2026 for 45min starting at [7AM Pacific, 10AM Eastern, 4PM Paris, 11PM Tokyo](https://www.worldtimebuddy.com/?qm=1&lid=8,5,2988507,1850147&h=8&date=2026-02-18&sln=7-8).
+CExA organizes the 21th **Kokkos tea-time** on Wednesday, July the 15th, 2026 for 45min starting at [7AM Pacific, 10AM Eastern, 4PM Paris, 11PM Tokyo](https://www.worldtimebuddy.com/?qm=1&lid=8,5,2988507,1850147&h=8&date=2026-02-18&sln=7-8).
 It can be followed on [Zoom](https://zoom-lfx.platform.linuxfoundation.org/meeting/92397190835?password=b177af2d-9c4a-4376-9d17-b57588a88146), or by [phone]({{< ref "#by-phone" >}}).
 
 {{< cta cta_text="<i class='fa fa-calendar'></i>&nbsp; Add to calendar" cta_link="https://webcal.prod.itx.linuxfoundation.org/lfx/a092M00001MsyOeQAJ" >}}
 
-Yuuichi Asahi will give a talk entitled "KokkosFFT: Performance-Portable Fast Fourier Transform interface for Kokkos Applications"
+Ben Ryan from NVIDIA will give a talk entitled "Acceleragent: An Agentic AI Approach for Porting HPC Codebases to GPUs"
 
-Yuuichi Asahi is a research scientist at Maison de la Simulation, CEA, France. He has focused on the nonlinear plasma turbulence by means of gyrokinetic simulations. High performance computing and large scale data management are key ingredients for these simulations. His current interests include accelerating the gyrokinetic simulation codes for more complicated physics, and analysing the large scale simulation results with machine/deep learning methods.
-
+Ben is a Developer Technology Engineer at NVIDIA, where he focuses on HPC workloads and AI enablement. His recent work includes developing an AI agent to automate most of the effort required to port large Fortran HPC codes to GPUs. Previously, Ben was a scientist at Los Alamos National Laboratory where he contributed to the Jayenne radiation transport code and the Parthenon performance-portable multiphysics framework. He also led an LDRD Directed Research project to numerically model giant planet formation. Ben received a PhD in Astronomy from the University of Illinois at Urbana-Champaign in 2018, where he wrote a hybrid parallelism relativistic radiation magnetohydrodynamics code to simulate black holes.
 
 
 <!--{{% cta cta_text="Get the slides" cta_link="slides.pdf" cta_new_tab="true" %}}-->
@@ -41,10 +40,9 @@ Yuuichi Asahi is a research scientist at Maison de la Simulation, CEA, France. H
 
 
 
-## KokkosFFT: Performance-Portable Fast Fourier Transform interface for Kokkos Applications
+## Acceleragent: An Agentic AI Approach for Porting HPC Codebases to GPUs
 
-Kokkos-FFT provides a unified, performance-portable interface for Fast Fourier Transforms (FFTs) within the Kokkos ecosystem. It seamlessly integrates with de facto standard FFT libraries, including FFTW, cuFFT, rocFFT, and oneMKL. Designed for simplicity and efficiency, Kokkos-FFT offers a user experience akin to numpy.fft for in-place and out-of-place transforms, while leveraging the raw speed of vendor-optimized libraries. Recently, we have implemented the prototype of the distributed version on top of MPI. In the talk, we will introduce the basic APIs and implementation details. We will present the benchmark results solving 3D Navier-Stokes equations with distributed FFTs. We will also present future development plans.
-
+NVIDIA is developing an agentic AI tool to accelerate porting entire production HPC codes, including Fortran codes, to GPU-compatible languages. Our approach targets entire codebases, ensures functional correctness, provides traceable code modifications, and adds unit tests. Our procedure for designing the AI workflow that decomposes the problem into manageable tasks is based on years of human experience porting large Fortran codes. Correctness is enforced throughout the porting process by running both AI-generated and user-defined tests, and using AI agents to automatically fix errors as they are detected. We have successfully ported representative HPC codes to GPU programming models, including CUDA C, OpenACC, and Kokkos.
 
 
 ## Additional info
