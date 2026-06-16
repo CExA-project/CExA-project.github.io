@@ -13,9 +13,11 @@ links:
 
 ---
 
-<!--more-->
----
+# THIS POSITION HAS BEEN FILLED.
 
+However, please feel free to send us your CV at contact@cexa-project.org, so we can contact you if an opportunity matching your profile becomes available.
+
+---
 
 # 🚀 Job Offer: C++/HPC PostDoc - MLIR / JAX / Pytorch / Kokkos
 
