@@ -9,10 +9,10 @@ links:
   icon: youtube
   url: https://youtu.be/bcIXzmWFf6Y?si=Msyvsya4DJJKEXfL
 #  cta_new_tab: true
-# - icon_pack: fas
-#  name: 'Get the slides'
-#  icon: file-pdf
-#  url: "slides.pdf"
+- icon_pack: fas
+  name: 'Get the slides'
+  icon: file-pdf
+  url: "slides.pdf"
 #  cta_new_tab: true
 - icon_pack: fa
   icon: calendar
