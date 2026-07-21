@@ -5,7 +5,7 @@ date: 2023-09-20
 
 CExA organises a 3-days Kokkos training from the 20 to the 22 of Septembre in
 Saclay provided by Kokkos lead developers Cristian Trott and
-[Damien Lebrun-Grandié](https://www.ornl.gov/staff-profile/damien-lebrun-grandie).
+[Damien Lebrun-Grandié](https://dalg24.github.io).
 
 Registration to the first day is free and open to all, but mandatory to attend:
 https://indico.math.cnrs.fr/e/kokkos-1
