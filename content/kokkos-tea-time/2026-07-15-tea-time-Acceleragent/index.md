@@ -4,11 +4,11 @@ subtitle: "July 15th 2026: Kokkos tea-time"
 summary: 'On July 15th, Ben Ryan from NVIDIA will give a talk entitled "Acceleragent: An Agentic AI Approach for Porting HPC Codebases to GPUs"'
 date: 2026-06-10
 links:
-#- icon_pack: fab
-#  name: 'Watch on Youtube'
-#  icon: youtube
-#  url:
-#  cta_new_tab: true
+- icon_pack: fab
+  name: 'Watch on Youtube'
+  icon: youtube
+  url: https://youtu.be/gc_tkjexerY?si=hy0CzHJJ7s1GhY69 
+  cta_new_tab: true
 # - icon_pack: fas
 #  name: 'Get the slides'
 #  icon: file-pdf
