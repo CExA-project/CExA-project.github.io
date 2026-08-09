@@ -13,7 +13,7 @@ jobs:
     steps:
       - uses: actions/checkout@v7
       - name: Analysing the trailing whitespaces
-        run: ./bin/trailing_spaces --Werror $(git ls-files 'content/*.md')
+        run: git ls-files -z -- 'content/*.md' | xargs -0 ./bin/trailing_spaces --Werror
 
   spelling-check:
     name: Spell check using typos
