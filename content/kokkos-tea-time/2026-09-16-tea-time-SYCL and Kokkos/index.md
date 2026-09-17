@@ -4,11 +4,11 @@ subtitle: "September 16th 2026: Kokkos tea-time"
 summary: 'On September 16th, Thomas Applencourt from Argonne National Laboratory will give a talk entitled "SYCL and Kokkos: Similarities and Differences"'
 date: 2026-08-04
 links:
-#- icon_pack: fab
-#  name: 'Watch on Youtube'
-#  icon: youtube
-#  url:
-#  cta_new_tab: true
+- icon_pack: fab
+  name: 'Watch on Youtube'
+  icon: youtube
+  url: https://youtu.be/Xjws7QzjbUs?si=BN0YJJeV0X1BMVGu
+  cta_new_tab: true
 - icon_pack: fas
   name: 'Get the slides'
   icon: file-pdf
