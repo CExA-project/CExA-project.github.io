@@ -4,10 +4,10 @@ subtitle: "May 20th 2026: Kokkos tea-time"
 summary: 'On May 20th, Yuuichi Asahi from CEA will give a talk entitled "KokkosFFT: Performance-Portable Fast Fourier Transform interface for Kokkos Applications"'
 date: 2026-04-16
 links:
-#- icon_pack: fab
-#  name: 'Watch on Youtube'
-#  icon: youtube
-#  url:
+- icon_pack: fab
+  name: 'Watch on Youtube'
+  icon: youtube
+  url: https://youtu.be/lef6aCWYIYY?si=TALTXtYHr56KEuPU
 #  cta_new_tab: true
 - icon_pack: fas
   name: 'Get the slides'
