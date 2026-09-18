@@ -4,16 +4,6 @@ subtitle: "October 21th 2026: Kokkos tea-time"
 summary: 'On October 21th, Thibault Cimic from CEA Grenoble will give a talk entitled "Bringing Kokkos Performance Portability to BigDFT's Poisson Solver: a Fortran/C++ Interoperability Journey"'
 date: 2026-09-18
 links:
-# - icon_pack: fab
-#  name: 'Watch on Youtube'
-#  icon: youtube
-#  url: https://youtu.be/Xjws7QzjbUs?si=BN0YJJeV0X1BMVGu
-#  cta_new_tab: true
-# - icon_pack: fas
-#  name: 'Get the slides'
-#  icon: file-pdf
-#  url: "slides.pdf"
-#  cta_new_tab: true
 - icon_pack: fa
   icon: calendar
   name: Add to calendar
