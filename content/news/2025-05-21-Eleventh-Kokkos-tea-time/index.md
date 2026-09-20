@@ -1,7 +1,7 @@
 ---
 title: "May tea-time: Exploring C++ Standard Parallelism Features for GPU Programming in a Particle-In-Cell Application"
 subtitle: "May 21st 2025: Kokkos tea-time"
-summary: 'On May the 21th, Ester El Khoury from CEA/Maison de la Simulation will give a talk entitled "Exploring C++ Standard Parallelism Features for GPU Programming in a Particle-In-Cell Application"'
+summary: 'On May the 21st, Ester El Khoury from CEA/Maison de la Simulation will give a talk entitled "Exploring C++ Standard Parallelism Features for GPU Programming in a Particle-In-Cell Application"'
 date: 2025-04-01
 links:
 - icon_pack: fab
@@ -22,7 +22,7 @@ links:
 
 {{< cta cta_text="<i class='fa fa-envelope'></i>&nbsp; Register to be notified about future events" cta_link="https://lists.hpsf.io/g/kokkos-announcements" >}}
 
-CExA organizes the 11th **Kokkos tea-time** on Wednesday, May the 21th, 2025 for 45min starting at [7AM Pacific, 10AM Eastern, 4PM Paris, 11PM Tokyo](https://www.worldtimebuddy.com/?qm=1&lid=8,5,2988507,1850147&h=8&date=2025-05-21&sln=7-8).
+CExA organizes the 11th **Kokkos tea-time** on Wednesday, May the 21st, 2025 for 45min starting at [7AM Pacific, 10AM Eastern, 4PM Paris, 11PM Tokyo](https://www.worldtimebuddy.com/?qm=1&lid=8,5,2988507,1850147&h=8&date=2025-05-21&sln=7-8).
 It can be followed on [Zoom](https://zoom-lfx.platform.linuxfoundation.org/meeting/92397190835?password=b177af2d-9c4a-4376-9d17-b57588a88146), or by [phone]({{< ref "#by-phone" >}}).
 
 {{< cta cta_text="<i class='fa fa-calendar'></i>&nbsp; Add to calendar" cta_link="https://webcal.prod.itx.linuxfoundation.org/lfx/a092M00001MsyOeQAJ" >}}
