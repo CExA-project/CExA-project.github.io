@@ -8,6 +8,16 @@ links:
   icon: calendar
   name: Add to calendar
   url: 'https://webcal.prod.itx.linuxfoundation.org/lfx/a092M00001MsyOeQAJ'
+- icon_pack: fab
+  name: 'Watch on Youtube'
+  icon: youtube
+  url: https://youtu.be/p-AanHifS9k 
+  cta_new_tab: true
+- icon_pack: fas
+  name: 'Get the slides'
+  icon: file-pdf
+  url: "slides.pdf"
+  cta_new_tab: true
 ---
 
 
