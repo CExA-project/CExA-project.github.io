@@ -22,4 +22,4 @@ user_groups:
 
 ---
 
-Dr. Killian Babilotte is a postdoctoral researcher at the CEA's Service for Software Engineering and High-Performance Computing (SGLS). He joined the team in February 2026, focusing on efficient GPU-accelerated Monte-Carlo particle transport simulations. 
+Dr. Killian Babilotte is a postdoctoral researcher at the CEA's Service for Software Engineering and High-Performance Computing (SGLS). He joined the team in February 2026, focusing on efficient GPU-accelerated Monte-Carlo particle transport simulations.
