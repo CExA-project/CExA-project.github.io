@@ -5,11 +5,6 @@ image:
   placement: 1
   focal_point: "Center"
   preview_only: true
-links:
-  - icon_pack: fab
-    icon: pdf
-    name: Get the full PDF version
-    url: 'https://mdls.fr/wp-content/uploads/2026/02/20260209_YA_job_v2.pdf'
 
 ---
 
